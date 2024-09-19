@@ -1,0 +1,82 @@
+[INFO ] 2023-10-13 13:27:51.947 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-13 13:27:52.013 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:27:58.764 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-13 13:27:59.195 [main] Log - Browser window maximised
+[INFO ] 2023-10-13 13:28:07.530 [main] Log - Navigated to URL
+[INFO ] 2023-10-13 13:28:07.537 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-13 13:28:07.696 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:28:07.696 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:28:07.701 [main] Log - Test Skipped : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:28:07.709 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:28:07.710 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:28:07.710 [main] Log - Test Skipped : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:28:07.713 [main] Log - Execution Finished
+[INFO ] 2023-10-13 13:28:08.015 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-13 13:28:08.020 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:28:08.023 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-13 13:29:48.176 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-13 13:29:48.234 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:29:50.629 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-13 13:29:51.058 [main] Log - Browser window maximised
+[INFO ] 2023-10-13 13:29:59.795 [main] Log - Navigated to URL
+[INFO ] 2023-10-13 13:29:59.802 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-13 13:29:59.916 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:29:59.917 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:29:59.920 [main] Log - Test Skipped : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:29:59.927 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:29:59.928 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:29:59.929 [main] Log - Test Skipped : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:29:59.932 [main] Log - Execution Finished
+[INFO ] 2023-10-13 13:30:00.170 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-13 13:30:00.174 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:30:00.176 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-13 13:34:39.309 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-13 13:34:39.366 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:34:39.387 [main] Log - Open the Browser
+[INFO ] 2023-10-13 13:34:41.884 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-13 13:34:41.891 [main] Log - ChromeDriver: chrome on mac (2a92863218f163f8e27eeddf617b9755)
+[INFO ] 2023-10-13 13:34:41.956 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:34:41.967 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:34:42.383 [main] Log - Browser window maximised
+[INFO ] 2023-10-13 13:34:46.755 [main] Log - Navigated to URL
+[INFO ] 2023-10-13 13:34:46.763 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-13 13:34:46.771 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-13 13:34:46.786 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-13 13:34:59.871 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:35:06.948 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:35:11.365 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:35:20.607 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:35:25.129 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:35:29.135 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:35:36.450 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:35:36.451 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:36:06.208 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:36:06.878 [main] Log - Execution Finished
+[INFO ] 2023-10-13 13:36:07.152 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-13 13:36:07.154 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:36:07.156 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-13 13:41:03.745 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-13 13:41:03.818 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:41:03.839 [main] Log - Open the Browser
+[INFO ] 2023-10-13 13:41:06.630 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-13 13:41:06.633 [main] Log - ChromeDriver: chrome on mac (122bc4f237722638ee8e195a8c888f4b)
+[INFO ] 2023-10-13 13:41:06.721 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:41:06.726 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:41:07.150 [main] Log - Browser window maximised
+[INFO ] 2023-10-13 13:41:12.300 [main] Log - Navigated to URL
+[INFO ] 2023-10-13 13:41:12.306 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-13 13:41:12.312 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-13 13:41:12.330 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-13 13:41:25.300 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:41:31.950 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:41:36.340 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:41:44.952 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:41:49.597 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-13 13:41:53.601 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-13 13:41:55.822 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:41:55.822 [main] Log - This message is from my own project
+[INFO ] 2023-10-13 13:42:31.387 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-13 13:42:31.878 [main] Log - Execution Finished
+[INFO ] 2023-10-13 13:42:32.154 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-13 13:42:32.156 [main] Log - Execution Started
+[INFO ] 2023-10-13 13:42:32.158 [main] Log - Suite FinishedSuite

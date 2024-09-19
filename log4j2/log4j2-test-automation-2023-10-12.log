@@ -1,0 +1,1662 @@
+[INFO ] 2023-10-12 11:26:35.733 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 11:26:35.793 [main] Log - Execution Started
+[INFO ] 2023-10-12 11:26:35.815 [main] Log - Open the Browser
+[INFO ] 2023-10-12 11:26:38.021 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 11:26:38.039 [main] Log - ChromeDriver: chrome on mac (bdddfcf84d7c54fbc8bd094a7f406ecd)
+[INFO ] 2023-10-12 11:26:38.101 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 11:26:38.114 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 11:26:38.538 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 11:26:38.539 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 11:26:44.176 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 11:26:44.180 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 11:26:44.180 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 11:26:44.184 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 11:26:44.194 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 11:26:44.196 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 11:26:45.013 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 11:26:45.014 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 11:26:45.014 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[WARN ] 2023-10-12 11:27:17.065 [main] Log - WebElement Not found
+[ERROR] 2023-10-12 11:27:17.066 [main] Log - Element is not clickable
+[INFO ] 2023-10-12 11:27:17.067 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 11:27:17.781 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 11:27:19.785 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 11:27:20.545 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 11:27:20.551 [main] Log - current url fetched https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 12:04:22.594 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 12:04:22.646 [main] Log - Execution Started
+[INFO ] 2023-10-12 12:04:22.664 [main] Log - Open the Browser
+[INFO ] 2023-10-12 12:04:25.517 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 12:04:25.534 [main] Log - ChromeDriver: chrome on mac (3f60fb4e5435071f8c8b854c93a83795)
+[INFO ] 2023-10-12 12:04:25.621 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:04:25.631 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:04:26.057 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 12:04:26.058 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 12:04:31.558 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 12:04:31.562 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 12:04:31.563 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 12:04:31.567 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 12:04:31.576 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 12:04:31.578 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:04:32.521 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:04:32.521 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:04:32.521 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 12:04:56.539 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 12:04:57.156 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:04:59.159 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 12:05:00.139 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:05:00.147 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsnvsJOMDAwMDAwMDAwMDAwMDAwAAAA9IWZLIPYN2YJ7W54OcS6M-Hui3PHX-sT1zjUMeLi7n01zCUGYTI40vq8QHyIopaC9JcaDq6GIeKUWQWFWQDgKxVvMPE5OdZPkuoosPRU6U4y8c80MZDLTS7S2zJyOIclc-3TnzmlBXE-Gle8PkqWusevNBS7tP_OhJ_gTki83Zm6jBRdOBRAXloWjA8voVI8jMZyMdODv2hr8OfJ0wGfyUSPp2baXB8hMzBQy53Ie4tCJlDJobque_I68vkuXny-O-tAXxANt_89EZ4WnRNK1XG4U_JELGPksjiGOMVMVYsFa5XPyMgkMM9WAGDjC6_1K5vb9Hmwwsfoi1wOToX6tK_Xe0AtFebZDVZkFQwZ-xDqFSZONuOhzG0BRnfRugMRdTtNrLzqtC47Ge_J-3YbFXvtR6H1lUgg5e3yxDABZF7QeenHa5sMuZxQ63qPLPTIqj1BFluWX31Pgdwl_FRhU64pwLzWqQY68XRwFtzts9sSTuUTm2VLfdIhrJ-eq8EostEkzUEmvWrGVYcH7J5TfJq0CO7Wx9Yi2Ba1xYpARFTQQc_1Qnti7egzNNSGjnFrjxokSwCP5R-4Z--fKuXVzIO35DEuuQKd6Ko6KKWY5_QZ9ftMi_cHAPxcq3JrZD2hr1iuLrfeYTmGUkK7TBeCXXTh4UIV7S9YpV9dfZt86NA6WqeIVBavDgECAtIm2i4QgL4aKX1U4hNJ99kTbTDxb-8pZ4FSq8E_DuHXBZk2AKZPPBqqwXhWaccCCBfF7EOv3TQDwmLW6xG5hvw1svcITfsvYOJhRgvaa3eaURwYcXmV7vl0EpzT_3TIrAyVy-oYO6IzvwYikH_PQeohFZqqw92nd0lPBW09-EAoh13AfiV4fn1LLc0SV8e3Ji-B2j0gtSlFl_loVq5wOuSaA-TSgPo%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 12:05:02.152 [main] Log - Enter email address.
+[INFO ] 2023-10-12 12:05:02.415 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:05:03.400 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:05:03.521 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:05:03.522 [main] Log - Enter password.
+[INFO ] 2023-10-12 12:05:04.471 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:48:46.085 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 12:48:46.137 [main] Log - Execution Started
+[INFO ] 2023-10-12 12:48:46.155 [main] Log - Open the Browser
+[INFO ] 2023-10-12 12:48:48.461 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 12:48:48.479 [main] Log - ChromeDriver: chrome on mac (8bfd551c08bf216f88cf46fda9dc9734)
+[INFO ] 2023-10-12 12:48:48.562 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:48:48.575 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:48:48.994 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 12:48:48.995 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 12:48:54.182 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 12:48:54.189 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 12:48:54.190 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 12:48:54.194 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 12:48:54.213 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 12:48:54.215 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:48:55.127 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:48:55.127 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:48:55.128 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 12:49:17.857 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 12:49:18.446 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:49:20.450 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 12:49:22.595 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:49:22.610 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsn51-wMDAwMDAwMDAwMDAwMDAwAAAA9DPZDhwyaNR_KcMgNh7i_3IvAcKbItd2Zimpi6Dj9GAxSTDOGH0FWfq7W7nOB-HXxsfInhSeDnSCCiGE6lKb1F3bo8X51L6LpL1aBIySzE_V3n6PTPxcI0xigHAzaYI4P7-C1dEzwjMxHTl6kmngxQT8LB6REVQa5CPYoarJ4CsJzJ2NNF4demEJYBeY5fE4v9i6jS6p_2ksAVOxXxouVGIWujo5tC0nVPkG7N7xPZehPiwAYKyg-YfRqNKO8uvZ4Cr7jstY5cCRK7bMVBKQID9g7PiQ_s9INqotTsEojdiQ3jjm7YV5aX4DHGsWH5a0Ef31LlpaCD4dx-aJzY4mU6QPtrqwWOLn6RUACjDR2Oucd0rOo-Zsd8mBDfXt3CKE0YN5THOhSUX71vbuFxwe0tx0cx8VQRW-QknDL2m48B1A0LFTtqbgkCfsKnkdu5ThrIrrpkNiS7AYUUN9GWy1m3NQzzW8intDUlCC3nFzkAKtk1gormi8arm-su4t09nn91GTfTb6nLNU1FBoAERst7i2CTK5LU46SeYpQaMFI6fzLlkCN2Ru8oBDtVdWsfQJmt7rLkYimjACHZheQOSDhQVx53vyJkIL5-ubACKWy3i40ev51l7gtkJNZF5vCEOCJSJpJXXhW85TytN6glle0QOtLBeq7gym9ThJvKaonnwPS6VKS9RnhqQCN1vpOU8mAj24zJtqoyV2TbNcdL_QzsRPbjIdfnl1u17EcbPuVJB8Wht9-cvq61ZT0Dkbln-yT0y1tSh_ZYzTcY8jQ29PhAmTj9FJe9K2SVnn7gOj_Va3MpRLTKStDsu2-NCZOEqJ9N59yV4B7cNNCeoUQWzWrImncii53tX1X2_PomUcRmWRejG04Sd7P7PqKwzA2w9mBEBhbr9Cyutx3OOYn4Nw0ZM%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 12:49:24.616 [main] Log - Enter email address.
+[INFO ] 2023-10-12 12:49:24.773 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:49:25.691 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:49:25.780 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:49:25.780 [main] Log - Enter password.
+[INFO ] 2023-10-12 12:49:26.671 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 12:51:15.602 [main] Log - Element is not clickable
+[INFO ] 2023-10-12 12:51:15.603 [main] Log - click on login button.
+[INFO ] 2023-10-12 12:51:15.605 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:51:46.232 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 12:51:46.282 [main] Log - Execution Started
+[INFO ] 2023-10-12 12:51:46.300 [main] Log - Open the Browser
+[INFO ] 2023-10-12 12:51:48.571 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 12:51:48.584 [main] Log - ChromeDriver: chrome on mac (a0d2ab47085904258e92efb492b842e3)
+[INFO ] 2023-10-12 12:51:48.643 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:51:48.656 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:51:49.076 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 12:51:49.076 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 12:51:55.402 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 12:51:55.408 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 12:51:55.408 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 12:51:55.414 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 12:51:55.431 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 12:51:55.432 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:51:56.239 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:51:56.239 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:51:56.239 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 12:52:18.715 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 12:52:19.230 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:52:21.233 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 12:52:21.720 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:52:21.726 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsn6iHdMDAwMDAwMDAwMDAwMDAwAAAA9OjjWV5Wlx-_Tl-p7-MLqvoostrfwwddwGqXYw8SdB0OM6IuzeHmPTWeVMVzSiS_-DoItQT7h1m0IR8f3VyekkAkTo981Y4Lx16JY91ZIqTXp0IMn25RbussqBEvUOhixCnn7FfJTIhyfl6QHqYH6cYt27wJBFLFA1jivFLH8ETFgMJBgF7MGFcW6odhEJ8ukCPQsN9zGvTAv5DmwUfV1kBLZaCXPPA9JSwq6VldtPto8IFMoHU4SXa0haW8BeLULMFupzlf1a-psPKx44yEDFWmIbF-ZhxZ3piJf2vPcFXuitb5eCTjFEN5LAUcoR1VbRSbjImSqW16gfqYC56paKj6zN5y5ZSvZvk2Hg8UJmCA0AkoFRwlLwYi_DvsgqrYCxgyqrJTHmhuMYWtjbcpu_QPMsqKlv92gWZdD4nzKEUe7QvNNyVKxuKB1VYBQWwX_9me9g43ZhIfpAnmEWaMWWGJE3R-dzhzNUZfNf3oLz66ZZhftrIpjXHZe0jAQ8yma4_fg-X9Uv5Hrtcg0DPYFgSxMnjahgdEIR4s76D34R3DVohvBFUrTrDP8AVvatFHXdiO4Y6jnaUjxkLyu0Y82UsRp9d3jqG6dVdjCAMW3Sqk4676cGtNzVE4LvOLvGBM5JwGPgtbYufCV98LklDdToQvAYYrrejWFcO0aapTBjVP9a5OfNR_ECxoRGIlzVJcANyZYLDBoLRKoV0aGYsI-_VgiqKKmFJTaYQprsVDXTc7XiWGj8kKAvzeldtX6ySCe9SiKHttLBFUST5XsfD3P1QszkPvqdK5OVepuVxHOmE5130ggMQMWN1Djh7OipkSBsPWIkOVg5KwRyLkLPgkon-MiOYtUnTzyANoVXydFbsa3PZ8UQsiBvQDoULtdqhYC3_g-Cipcb3HKJYon2UQcOM%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 12:52:23.730 [main] Log - Enter email address.
+[INFO ] 2023-10-12 12:52:23.896 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:52:24.338 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:52:24.433 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:52:24.433 [main] Log - Enter password.
+[INFO ] 2023-10-12 12:52:24.893 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:52:29.165 [main] Log - Element clicked
+[INFO ] 2023-10-12 12:52:29.166 [main] Log - click on login button.
+[INFO ] 2023-10-12 12:52:29.168 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:52:33.724 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 12:52:33.725 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:52:33.725 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 12:54:21.428 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 12:54:21.479 [main] Log - Execution Started
+[INFO ] 2023-10-12 12:54:21.498 [main] Log - Open the Browser
+[INFO ] 2023-10-12 12:54:23.748 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 12:54:23.764 [main] Log - ChromeDriver: chrome on mac (dd96c3c31b9f6b3b6b916db35a1130e9)
+[INFO ] 2023-10-12 12:54:23.828 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:54:23.838 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:54:24.260 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 12:54:24.260 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 12:54:29.395 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 12:54:29.401 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 12:54:29.401 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 12:54:29.407 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 12:54:29.422 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 12:54:29.424 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:54:30.273 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:54:30.274 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:54:30.274 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 12:54:53.835 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 12:54:54.405 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:54:56.410 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 12:54:57.947 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:54:58.033 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsn7H_TMDAwMDAwMDAwMDAwMDAwAAAA9JQZjQa73QHyI5u_ePDnKqWsbPik1vun6y06N7T3_DbdkQrtCTI7whfxa3nA4Wn7BkRPiVNvSfHAMkayNq6fqVDpBiAYWwHB1V72663JeWMJb9K_IKoSj6rWwlcvsqxe7V1Gx0VBEWAah76_pMRzHQkN8G9ni45QPQ1R5AFMmNOnw-1nl0XueukxgDvYGjnVmII_9aYktsHJGEHGpnDNEQ0zekq3ofUwKEh6SPi8xfeE1H_94XARWIweZ30TDU4bnhc9H4WEBbwZGvJEO_AxyUPuuLlh4uBcXXBCi8eB1wFQ4Iye7TRpv9YjeH4JyENy-m25TrfCQTvDB7yWCfyPmPg2WPn2m5X5IWMzGfigy1Jo6wcfFTKrJiePO-XObmXkF2utCL26aLVhynEgXjh0UBb7dc-h8woEPGoDLCuetDmST9fmKl2oDGa6UnmhVhgMf4BJFpuY1llOVMcEq-PDkGnUBhPYi8Ng5aChxiwjupf1hxWI7O_5mSjcsH2MsEoVaHjvxaxo04RFtQKKfQSfQIIzq9VeRbaN-FXurSq2_9VPxqL00B_YcUHUA15dH7WhXd6Fl4V0oKmJL_m-n33EBp6fwmlNCM-Mb7KF4t467ZrWKnajjyIsVg94BZxxRt-CzCNZ3OgudEyBnQUoRlgC8CPhRkyc7FbIweh1ekGM6ZcvuXtpcblqRTUzyeqsf6xKc8WQuxwCb89oXkA0Shs936j1mvRoZMZLwi1IY5mGzt2doB9pD2-GK9WDYvD3dpB-MtViLxX3K-UhSdA5biYy7mcD64XekZWn0Jbtk9iW4i217G1U79jlu18MzIdAvHbio_MZTXvLv4r0wisqMUi7ScZjBBgSUXv7vFmHnmAk5tJ04hF-QzWCAg1Ll3jxywg98wEJvbedvZCZIJjIMv2XtlQ%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 12:55:00.039 [main] Log - Enter email address.
+[INFO ] 2023-10-12 12:55:00.228 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:55:01.137 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:55:01.229 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:55:01.229 [main] Log - Enter password.
+[INFO ] 2023-10-12 12:55:02.142 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:55:06.634 [main] Log - Element clicked
+[INFO ] 2023-10-12 12:55:06.634 [main] Log - click on login button.
+[INFO ] 2023-10-12 12:55:06.636 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:55:10.163 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 12:55:10.163 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:55:10.163 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 12:58:33.050 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 12:58:33.100 [main] Log - Execution Started
+[INFO ] 2023-10-12 12:58:33.118 [main] Log - Open the Browser
+[INFO ] 2023-10-12 12:58:35.374 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 12:58:35.406 [main] Log - ChromeDriver: chrome on mac (61f8112e27d466d98a02590f4d3c0a3a)
+[INFO ] 2023-10-12 12:58:35.480 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:58:35.482 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:58:35.904 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 12:58:35.904 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 12:58:42.386 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 12:58:42.391 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 12:58:42.391 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 12:58:42.395 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 12:58:42.405 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 12:58:42.407 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 12:58:43.310 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 12:58:43.310 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 12:58:43.310 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 12:59:05.947 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 12:59:06.519 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:59:08.524 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 12:59:10.343 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:59:10.406 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsn8FfvMDAwMDAwMDAwMDAwMDAwAAAA9CQJPXknADUbF1n-fvcwaoEkCFE9nwpA-Qfmt8xo9JGJ5H50x1wJqE6EN8OlpW5MoAXkNMmN9rTGoY_ZLgxD017GFnmTj-mIYKlqbIa92qwuZR431MrFSwQJlAnghunP3KSuxA_EnNTLdXAzukN0QYoPVVcjgXIsl82mapNmi66zE1ppBYg4904C1XBCbqvLTZTp61ZF5zyLTgjjw4HmDaKQIfp3dSrI57NrIO3zlc4L2HBDGiuQzPKSRYyJhHo6AWvcXju6uxJ1nQw3tkOzWGnpLgkvuWlVEWM1AYASm-ItTxgAdqTChYuKQG_DsSmwIIRxHKer0ks76_yJ1csMbQjmX3HFZ1SPgUF6IvBMObDFmCpP1fHgBfbSOjhXI8cqekZxlt68qFQ67yjGvdgispf8Rc2uvDBxSicCvWkHGgEBpAM5Z2YeyQI_H2yP-3S-CE2WpC7Rn1w3Xt8eZRzUL36Jwim4ZG7QopBAc0XYk9rmzmsecDRAnxomQtppqkFAmHUxSuLsScInLDQ2kMgz259RjhF4otP-rDU0OX52Cv7yEddZ6tZL5-w_20yI9YDVeLmbLHKFUIZ1c0oy2wCaPIJZ4c_4UKWC_hxikz-uT5-OS2nhD64V1T7RfM8arWQsR1e0EM7OM3UfWeqnUTuMxdzF49hqmxNOrB-DS71pI9hSF8FppJUOCMebUjPlG0J64cdjIStMVJkIt_gUVMSsCaGOHLqVhhq37W026TYgFBevgszLHn4Mj6EHHAuA9_TcrKx0lJ39acjlVDnPYGxNVQ-n4oHTNL8UXF6rJpyPzPCLASYSr7wB7nSpmciFLyWNUks0Epfj7zIba034vYUQh3VdJmfFoAwJ07uLsjqM47XoeE6w_02pseuUQ99awHw84fm_DNX0Uqs3u5bN0ybrc14%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 12:59:12.412 [main] Log - Enter email address.
+[INFO ] 2023-10-12 12:59:12.577 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:59:13.461 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:59:13.565 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 12:59:13.565 [main] Log - Enter password.
+[INFO ] 2023-10-12 12:59:14.411 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 12:59:18.422 [main] Log - Element clicked
+[INFO ] 2023-10-12 12:59:18.423 [main] Log - click on login button.
+[INFO ] 2023-10-12 12:59:18.425 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:04:50.546 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:04:50.597 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:04:50.615 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:04:53.208 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:04:53.217 [main] Log - ChromeDriver: chrome on mac (b732a960f68ebb9f45bf59cddc9c510f)
+[INFO ] 2023-10-12 13:04:53.290 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:04:53.291 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:04:53.724 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:04:53.724 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:05:00.518 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:05:00.524 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:05:00.524 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:05:00.528 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:05:00.542 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:05:00.544 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:05:01.425 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:05:01.426 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:05:01.426 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 13:05:25.132 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:05:25.654 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:05:27.658 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:05:29.349 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:05:29.402 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsn9iHbMDAwMDAwMDAwMDAwMDAwAAAA9P1SJSm_ZReVK3KJoCtN5FJII0M8W-hP7vCEGbWtdL4lu3umzGmIZa8AxuE67WqU9JF_JCwrYDcBd6_1HPLhhdHE9XDvKlxOFKRmTbh06wLTypeOd1-GhkGMrwo3tzdu8CXhKDKcblNPhlD_iNr06hMV7KY4J5erPTr7oL-QonsAvPeIXFwO1dFiYxVYJy_6RQCqRYX6Jjj0T1iqfDtg9vyPGYfx9Yfay5GDcW7CHKIA0hMn_sBMaY0206p1RV7_l1QJN2cx-LZOoV5Obwxei31qj51mYQyLGezK-vc0eOjHd1ZIQeJ9JWxeyjij2U0AL_lcC1K_uiBioBNh9gP2l6xI_zDyu2xWOgWEoguf82GkyfMVPRSTo6zKKbeFY_eL3bvl__EWu_iNtNTfoZhI9SWWf9SUZk0o7yJM60DGbiIU-vm2hcXHiWTkIbQjbB9hVs-j452sXQVVFxXGn4oZmFClKRIpsncIVKM3mx4rYQltXnlXXvhY5rp1fK4WB5L5gLQ04nE7jWaKTW9rRgi0JNOY6YZYITNt1klXwAbSHERRStMz-6aordRXq2GZOcRFk9iGsLEZED5VmuUnCly4fWbByosUNyejayi45eVUjIE6HjpndwgGJR-ork8iMZoCYOtzsHq2Xu1GoKeaXy-Q8V9Dqr7q-UcIXtIFZzQoMD4UQkwvKLD-FQgxIKum0dbN805RTojWzDCSze4pvfIfjOWVEUOn437x0uOZMYY7ERNBEfmYLGY88MhMwR2oBDc_-4SlK9AC8MYpbmO4Eu6HC30vlkk7iOVytnjM_8nY-5Lzr7uZhYhfNR1ZVFuX7kszVbG4PSt1I1f3QM3_6vhD_fm5ZsV1ww8CJr8t3nTPxc7muflDL0dRAApJ1Y82Z13CiZjQUYstNX9RYcfxR48MNLw%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:05:31.403 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:05:31.563 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:05:32.299 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:05:32.385 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:05:32.385 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:05:33.142 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:05:37.963 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:05:37.963 [main] Log - click on login button.
+[INFO ] 2023-10-12 13:05:37.964 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:08:31.141 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:08:31.201 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:08:31.222 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:08:33.576 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:08:33.577 [main] Log - ChromeDriver: chrome on mac (3dedade5592e9f62144b6866e1d310c7)
+[INFO ] 2023-10-12 13:08:33.652 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:08:33.653 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:08:34.073 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:08:34.074 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:08:39.395 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:08:39.404 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:08:39.404 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:08:39.408 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:08:39.426 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:08:39.427 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:08:40.255 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:08:40.255 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:08:40.255 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 13:09:16.006 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:09:16.879 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:09:18.882 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:09:21.664 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:09:21.678 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsn-aS1MDAwMDAwMDAwMDAwMDAwAAAA9OjwTuVvUmAhC__C9Dgd0h0g6w4ujeKxjaeRPQ9dCn9t-g6kLaRoy4D4QBYJdMvYyv86V_KCrQ2qIP5kgFdKUto8kXGZkYmkVntwCOGhs42jXX5V5yOnrvAk9U5omHP2gOzTYfi0HUR9DSl0MaIdMQsm0FRTvbYtkXSylQh7Bq9DzD8EbXZzwf6T-TuRBsG4W1vVACU5gjmivGRKVl5_4RDeIY0p7fWqBgsWcsxTQ6yPMoZg9CX_oPoBZq62dBONq7ZsAbElzV4RtFAb2NCxhhM_yLKqm-71fHjIHmY5ExyIUI2DXGnihtlZYedeXAP9YCoXsy7_S9uXZzlt5sOH61kBL_f3QiouFS6mrYoBAixHbbGS4LyeHzYKzkkMQUJPb9ncjkRYe7AFUMvAJ69CUeztE2Gw5S8A2AUMxTvv8g3wDmxv72_J5cDaIPvMXawJNA2itcFC_NtcuvGOeOeKoTNghI0M6Rot15sQBtTDJs5a7_xZXQ8e1xwBLPtITwuqLJCxqGe9VnUVo64nbJ5UTOHaqlldxWlvXvsuZimhisc2woEOIjj3Ma0ywbz0Aa8RNmIDjJlmHbCwBRJT_xAggz9_rs9qLGKncb2sqnbKCnugi3TNs6IM9ktwu4R2646ZEWPlYCSQT5hjLSayrQStF_2orhsRR5ykNmmihF59WymdQzfJZ5tm3PUwNZ2IPGfL7dLZqyCZek53_6uwuHXU5SPTCEnugBcUQILIDEW6kxy-ZAk4fsqfJauryM4iJsXtFIZ2i5eERrXycnHvGNUGd6oPlTQQEQUrMiuaRxqtCbhok2XbZ70AKrUv65I4fvB4hkBw8Sh3kSXDuM8BwJMAVlCPrsf3YMmbImQno_TqPEIKGB19LkCkXPdSNpt1VLfH2I6FVSs3dezgCzm90GDbnGM%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:09:23.682 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:09:23.880 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:09:27.710 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:09:27.823 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:09:27.824 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:09:31.621 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:09:32.811 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:09:32.811 [main] Log - click on login button.
+[INFO ] 2023-10-12 13:19:38.989 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:19:39.040 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:19:39.057 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:19:41.379 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:19:41.393 [main] Log - ChromeDriver: chrome on mac (a1732607fa06c1fc8f4414d339ab1e84)
+[INFO ] 2023-10-12 13:19:41.476 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:19:41.488 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:19:41.909 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:19:41.910 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:19:49.948 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:19:49.956 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:19:49.956 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:19:49.961 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:19:49.977 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:19:49.979 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:19:50.786 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:19:50.786 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:19:50.786 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 13:20:14.397 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:20:14.951 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:20:16.954 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:20:18.537 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:20:18.547 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsoA7NLMDAwMDAwMDAwMDAwMDAwAAAA9OpLVWtdt3UrUQuzWnbN1sWU42Oq8O9p-pbbK9RMbAXR5y6BcpYBFHKrI4eu4RtcHZXXBF3xSyrktsTUat8mjFellxRQM2Oi1gN930aBJdTSooTht5KRNLFWmZnkDWchGiTuOR6LAwNdzgqPkvL6tcCoXgTBhWOJNrS60Kr2YmTvoej3Q1GETuw3aaQcTAf2as_zvmlowKC4xD0LdDZn7c_83jJz9p9xwm0omVMd6VWdRb3QCNUEGhAXTJD4mRPQiemPROCRGQv_poisoHmXVZ2OB2kCAPE6R-4V45j6bY0r__b-GK4MAckxRvk72rO_nl3quN5ZqMLU1fKxb__oG4vrlrUfx2MjvNnaun9oVN4Y3VBWz_aE8G7V6YCtoav798QYdEhICHoRSyDxNcqv0beHZCCQWKEAO4NBS3UObJbdwli2-iwWrwtlZ6xAbYyXGgZHyaNwHS7u267P4EEkKdSWd5T7DTdodCdmkUtZnqCVh-pv9iv8ZR4p2EUQL2D13OKK99GlvIrk4CTkDBaVP_OXz1yKRiUc278DF-OqCSmlrsAsnWCHwgrM0sRv54zsiOiw202xICelCvIrGgTXs0OrfEFZtuGmFj7v8rbkHIkVIh5PTUvjD3mgdtpvQnlzaOvFQofwhUCZVKI8uFua19dT0C-IOFHuttvV4U5NTcpZqHui83IgpNhLiAXfMvVzqd9XkueACdIDkp1d5ff_TPe6L1nB7YqST34qgRY-nHINq5MqOKJBgoVSMTZHLAwONQK4XZuaGEFgq-hxKJLaGXo3dgLqn0FoFmfYf3r_NP3LJoCTIwfqde4l5XmV3w1w4iZ3MiQeFuv3S5MES_-GNc4Qa5jDf2taO53kio4My1HJBY6lNQNAagQ6MhyKspMK3FvnGvu6tfWJrZ4qM7En4UM%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:20:20.550 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:20:20.712 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:20:21.554 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:20:21.639 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:20:21.639 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:20:22.498 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:20:27.182 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:20:27.182 [main] Log - click on login button.
+[INFO ] 2023-10-12 13:20:27.184 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:20:30.747 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 13:20:30.747 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:23:35.767 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 13:24:54.737 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 13:24:54.738 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:24:54.738 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[ERROR] 2023-10-12 13:24:54.746 [main] Log - Can not find tab index
+[INFO ] 2023-10-12 13:24:54.758 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 13:24:54.786 [main] Log - Execution Finished
+[INFO ] 2023-10-12 13:24:55.068 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 13:24:55.070 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:24:55.071 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 13:25:26.269 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:25:26.318 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:25:26.338 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:25:32.740 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-12 13:25:32.741 [main] Log - FirefoxDriver: firefox on mac (3ada8c4f-b119-484a-9bbe-5fa0aafb778b)
+[INFO ] 2023-10-12 13:25:32.826 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:25:32.836 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-12 13:25:32.836 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:25:33.307 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:25:33.307 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:25:38.987 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:25:38.995 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:25:38.996 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:25:39.010 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:25:39.032 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:25:39.033 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-12 13:25:39.875 [main] Log - Execution Finished
+[INFO ] 2023-10-12 13:25:40.154 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-12 13:25:40.156 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:25:40.158 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 13:26:37.992 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:26:38.042 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:26:38.063 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:26:40.412 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:26:40.421 [main] Log - ChromeDriver: chrome on mac (f77ef6c050e616cef1a54bafcaae735a)
+[INFO ] 2023-10-12 13:26:40.549 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:26:40.574 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-12 13:26:40.574 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:26:40.992 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:26:40.993 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:26:44.819 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:26:44.824 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:26:44.824 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:26:44.827 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:26:44.839 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:26:44.840 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-12 13:26:45.644 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-12 13:26:45.644 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:27:00.882 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:27:01.439 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:27:03.442 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:27:04.911 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:27:04.919 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsoCecnMDAwMDAwMDAwMDAwMDAwAAAA9BbeGh8dCM1R9xb1-eISHRgKRvl-3pEgN7zkRbHwBBvQeWCj2quZqX_AAn8WLfH6S3pJWuEaePCYTnmg-um674bHxD099cYtpZIXAsBUtnilcs03JHIvGjGvaqeSnqEliemPoHNPwfUydQV1wNDpjp-EZDSxYyLd0V-quoH7O2j8ns3fUYxZIoeViBew0z79Lu6SW6DHB2s8Uo_NKrXKSASbHT4uxdCM8TchjE5lIsEMebYo7GgszuCB-xUm0tpQ-d8Ko8skwO6B8YLle8rfHrlzBHz4gxJsLN0k-hCtOlsCea1x2TxBfp9-ABZzdeXV1-2HfgVJoofcxXk_xdnolnAIzAe-xFZTrEdVf2cNql4gA7cEF2djVa_ydiLbpXx6a8QiufWJser4E8Psj-k_KTP128PBEFPg1myAudGIugAjqsLzc3SsLFlOdxul96nW3Vnnct3YKhuwYzfGxmnKDVZ1sVhcHsRSgZSWV3awPKC0l0mlw8DCbc786tHfRMnj9rBoZi4yFJJKxfPAZrjWlRAkW2hwRUWBY80fQA4SkJ0JaRZ-9MaNqD4kiqi-vt0GJI8MPG6WjQtA-Ss2kYWsvVvuyqd6SoPtsA4mHfWu76KcrUjyu3l9cbirRb08SvkC0Iqp_VzfJtNZUaN_lSfz7tu3O87fwr66mCIrYtMfbcwbyFrNwbBy7K9tlrdZRolthZI0U0lDKx3pROTKaL8J_9WpPONwWi-c6PtTVejtt1bCzfE0GTUio8tLJfI4dcepJjpaFm7_9Svm9z7vswVWMF1KKnW8CAf-iEQDKTpUWY5CbSWNIygapluX4TktA6LP5jIV4sypABGrozWhYZL9Jv0uiaQ4QCc1EqkIFStPvc1spnuVYAnSoLQS40lAuiL-aZFoX9h3_0BBTulmwdT5RxA%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:27:06.922 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:27:07.081 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:27:07.957 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:27:08.051 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:27:08.052 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:27:08.970 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:27:13.886 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:27:13.886 [main] Log - click on login button.
+[WARN ] 2023-10-12 13:28:09.543 [main] Log - WebElement Not found
+[INFO ] 2023-10-12 13:28:09.553 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-12 13:28:09.615 [main] Log - Execution Finished
+[INFO ] 2023-10-12 13:28:10.000 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-12 13:28:10.002 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:28:10.004 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 13:31:04.979 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:31:05.032 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:31:05.050 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:31:07.315 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:31:07.315 [main] Log - ChromeDriver: chrome on mac (f73ce3b58d9f4657506536155196bcd4)
+[INFO ] 2023-10-12 13:31:07.376 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:31:07.388 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:31:07.818 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:31:07.819 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:31:13.183 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:31:13.189 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:31:13.189 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:31:13.193 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:31:13.227 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:31:13.229 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:31:14.051 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:31:14.051 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:31:14.052 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 13:31:36.594 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:31:37.156 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:31:39.158 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:31:41.083 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:31:41.097 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsoDhxBMDAwMDAwMDAwMDAwMDAwAAAA9FxTlN4Bji_-kcQMKDzbqccBYKpUwbY21SzUQDIvnVrmf3b6PzsgWqMosLK8ULuC-NHJXK39V9Fb516ghqie4oFmZoynFMMcASZCMA-61ef5tXA3-I4dNxlno2-qYRoMAqlCwY54_WPsrw2TlZJdiaqn857ff44XDq46qb7oFE2aA3jEoWyn9xjtX6Pe3zzXjtzJSXGikEx1WDp32o-PlrtyDo4oZ9pz-t3oS2O0TeZazKrh4WvghN6CurNoUyq9WTQ6oHwD6TtvPY6iO-kJJbIPXg16jmyAcrTv88id3tORVi7lbwDXBl-CbwmWyXhK-hfGot8tPNZzwOqHNkUPds38mA05fJYul7ordA3P948bETwHeJ_7-YfIqRPEIpoTzpfb0CsFZjGRVMuBfzQi6NXFCVH_awRaV_M9Ht8BjOcmoY3XGmj2wNw6v1JmK2Y3Cb-pfNUU_tkIMsH61zKsc54kcOcDY4XI-a8Ulunlub7pY2EB0ZdtyovI8DXOe87GH_jUPGlpTuxzCTBi3Bt8AKgBLniU3TcHzLzQe1ZiMfI8kGARVl02oJxdZzxoGYiqzGlPHwerIPilgfRZ_l4Zq6zxHbH6MuLrjHrDsm0520txdrwKLO70-tLb6rVwhpE4LlWqnH_ImEIkfMeHG40o-KhsjM_WyI_GNV_CxzJVmiUnRmA4-nmBdAd2vtMuVcz1yDqA4uw5MpMmFLSX-OVi_PKpcWuP0s5q9fikIDMVhpagyzXiIiR0TMW7sMBhg2HCF11ik0BGt-dCFnZmtbjJOcz2rNU_lih5x5NDPSrx_ldeX2L30qdZ_ZRIhRvuQOgMUScV1ugB0m5PhZbd2VN3R3S5RrJySHPcf41U4qHcQIiGpF-BCIxgpZq2Qa8f6_Hv65OjQukgiuLHnkY50ECm5zE%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:31:43.101 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:31:43.276 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:31:44.116 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:31:44.201 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:31:44.201 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:31:45.056 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:31:52.032 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:31:52.032 [main] Log - click on login button.
+[INFO ] 2023-10-12 13:31:52.033 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:31:52.548 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 13:31:52.548 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:46:47.642 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:46:47.695 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:46:47.712 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:46:49.970 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:46:49.979 [main] Log - ChromeDriver: chrome on mac (5032c00c3d5b7729c0d3764d36675cc9)
+[INFO ] 2023-10-12 13:46:50.056 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:46:50.074 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:46:50.498 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:46:50.499 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:46:57.131 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:46:57.136 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:46:57.136 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:46:57.139 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:46:57.149 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:46:57.150 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:46:57.950 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:46:57.950 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:46:57.950 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 13:47:20.004 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:47:20.608 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:47:22.609 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:47:24.086 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:47:24.094 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsoHICuMDAwMDAwMDAwMDAwMDAwAAAA9PrsTQL1IvehAxCwZy77hv3U68bs6PQAJrPa1sk4dPaGLTnHv4ICXCBKK8jG5rvuOs3vNPDTSCKp38wyAle-wIHAWJb2nzPE32llBd7BAv8YtuvBYQ4QUPWdvCd3eg-_aRCwtEKS3gKJu7qRQZk3kxC6MbW6YvkTgzYmezr-WyS7GXXAYHvlTSSrLu4J5dZ0I8tyLGiWjZ_1fTHNkq4RNJnNIYuJVcPVLdkk1HFusdvL3REBo6G7DZsRVFcgUuKwnvEpPoKSqR8GxdsZBV0JMNGRuVyY_PC5Iu16hITGF9S9wnko9yevvqFr160PFVerpoUsO3dOeZjNDjVqtjKxSUBx9v6c2QQj-ICjS_ZgA-0ppkUGVtEyV_TPIemb7aqoITgoj3kxAj6rr9wyRYr6SiAyFcrlJjUJONTi_DkYBUsCFj9KZVstKUjeEDgG0FA0RrP6X4hLX_aUmePf-nWa9Imn630fEzJa9_EzYBiINh2ATNl3pBxQYywB3t_Qkxrf2y9OMeufHtT7kVn9dybmmxWSav6v4my4giI742uCrAWISiHFWFdP-U7BjrvnOYLNU51gUITw7p9biMQzeq_1IKNwUvXCDvsyBCgNJMhkmUdolrsuzFMjeS4AdLKl9r7J6GgXv8y8KXooagl1HTYFwUsrcIg78-4A9UxCkoCOLb5qUkplev0S9YgWAsCXDbJS5MiJygVPBdLmq4UgPMaYEUiaKY_SGXFdFa13njaWfpOv9WuBhiNFF752GTGv6PPTu7ZIYqJOSojbY6RwDjjN7bfv7ZgWHcscXsEdAy93gjaNEwjZwb-jTOENlDufUswxVM18MExh4s23j6CO15J3zFCmNbidAqgp3i-mXJyW3opqamTUicG25N5NVBxRoDT5AKcriMwPqz8-br0Of8PcT7s%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:47:26.098 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:47:26.259 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:47:27.045 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:47:27.134 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:47:27.134 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:47:27.891 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:47:33.012 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:47:33.013 [main] Log - click on login button.
+[INFO ] 2023-10-12 13:47:33.015 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:50:25.123 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:50:25.178 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:50:25.195 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:50:27.751 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:50:27.767 [main] Log - ChromeDriver: chrome on mac (a41ea0cc8c39a3464fd9a252c2ba85b6)
+[INFO ] 2023-10-12 13:50:27.826 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:50:27.844 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:50:28.266 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:50:28.266 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:50:34.385 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:50:34.390 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:50:34.390 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:50:34.395 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:50:34.410 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:50:34.411 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:50:35.214 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:50:35.214 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:50:35.214 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 13:51:12.017 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:51:12.532 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:51:14.536 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:51:16.000 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:51:16.068 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsoIAndMDAwMDAwMDAwMDAwMDAwAAAA9PtaOa-WmY99nqPZmeTzz3bywjldP55ENjMMaFYsgX_6RGT44NL98cSc7Otn6hEPF5-H9DuE0dU8gJSOXYicpUrq0dzzcA9zWQqXjaMLWnCQ5i3u9wrbq66eLW87GLxZ9uTwKIu1iQvxQ0D9FloQA9qR64VCnKwVZbLXulPMTObIOZCoPAyv5jBsmFk35woBlfaON6xPcEavLBXb2za-mlkJ2ftbOKmUoDeZl29z8UxhgSW_iIv3UO2AIFhB4Q2rczILCUH1jPRYL3awkkA8S3ITq5Skm-E1Lj2CCrR5JpTZvL9UdU1F0scoJ8gDmBPFb8r7Nx-X0KBPIRVvkhbd1ZdTaZeozA7QPT70CBWpoIycTMoiYeVlIRQyt9MgtBp8FpRsfC1WE57zY_qMKCIYtghGAG214h6nxi5V3ZlKuy4e_yZnx_qwcRj30q9o8T_q6uutq0GdhYuxw9mwpqqP3CT6k1DknAUMi3VJbXWhpe69qht0AldOxUCAB5uX3Xl4IC-A8oQSjzw22LLod4z8WqbEaS1ejYG-HxQtLkt46X5jggtcYFg2AGnRsA-uMJC0ibkAuaNmPO6xi1CUFcGoNyx4vHNGeEYrGpTnA-h_ysf-yl7Y7KmoLhJi6n9-MXkorKsLMZbx60fZXN5GmCfbDFsRNVuuAcRrk3tAPyyIwd5hh76l2kOnDZkXRMO4MwgM5chu8Z4K-V-XsjDPLhngJHxrDQ9V_Cy4zXouTDayZgH41-nrbRaMvpjXKNy_snoqKnWupSYtHMqfvmrdOXKe9ygwU89EWr-583rk3bA6EZjuvHQXJPCX1ZaAUTncCvdTgV4toor_mBv7VHaqA_PCGP3P9jYOUkuH1GxFD7uxP5yrET3BgJBfMxxEXaIegkTplgpJVAbML7d3rJb4hQVR1KM%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:51:18.073 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:51:18.237 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:51:19.126 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:51:19.214 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:51:19.214 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:51:20.109 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:51:24.434 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:51:24.434 [main] Log - click on login button.
+[INFO ] 2023-10-12 13:51:24.436 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:53:06.323 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 13:53:06.375 [main] Log - Execution Started
+[INFO ] 2023-10-12 13:53:06.392 [main] Log - Open the Browser
+[INFO ] 2023-10-12 13:53:08.678 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 13:53:08.681 [main] Log - ChromeDriver: chrome on mac (9c07bb1134bb2bc32e4212c6fe001c1e)
+[INFO ] 2023-10-12 13:53:08.738 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:53:08.755 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:53:09.171 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 13:53:09.172 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 13:53:14.226 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 13:53:14.233 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 13:53:14.234 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 13:53:14.239 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 13:53:14.255 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 13:53:14.257 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 13:53:15.075 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 13:53:15.076 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 13:53:15.076 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 13:53:46.724 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-12 13:53:47.253 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:53:49.254 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-12 13:53:50.499 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:53:50.511 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYsoImWCMDAwMDAwMDAwMDAwMDAwAAAA9Mf-ENkEpyDCbSfGzDQ2_2zohqsVBPOOaDPthX0zIdBfDD9GdjV9t0qI9LLUg1W3rRUDFzAbR2Mbma3ieI15FGGMToRPK_8ymYmY64AEZu-pD4QrWNOZnfz2SRwmAeQ_X8MB2dIhVP5fns5FpRg5mVfLUjC8DcrLXreWckGUOu1saM9OI_x5lZr_VyyPeExBKNYJocml4Wyo3XZTnSo2p-qg8msNFVTiqLRmj5qifQQfvxw8IZY439vNgc1sRtZr1GznrCp24TjhZECc3062LukfMOTjx8OHvzZ7w_Z8O08zck49tmIRkNXP19WNEqeQlWbKwj_rnGrYF16uRBi41TH7o1-wFqLQrwrZGC1jXKeum9ltl-X-7NmebCTHg1Vi8GibSei8XyZoSMp5dlmNOWbv6mUmsRmAX2JDUfWiaQfJYBo2Z5Dylna_b7glc73mi8xdCTlvc3UCc5XQqX4jzfRPswk0WqlmtlB2d5Ao5vWvKOBGywnLe3NX7hqFf7vFINE6ilek82SvVHX-82w9Il4KKM9Li0Ua9NnLCL2rTBdmYLOwi_LNYYJdq_KbuBle9aGGDN1eLQ5tBDpCxxnolfcAGOkl7Hj65KMS3V7Ap211BROdUvi_KsGe1TBRbhYqj5y8dfiI-d892bM9rEzqAFqeaG3YwsC1TAcYVU-5AuWfEIFtYnOXTh5JONUZ6OAVUoP4SncNk3kAfqmTR_ErjtAhlOy3ztSRMUctYz98aXIqn6JjOoWS78jtj184kQSxHiIiQ-QSQWzz0lwU6BVCKAwxlT1Qk6dwpVqqgxlgQQd1rv219hV22PWwLirop8_r4die7E3jpkW1NzSfJcWf3ygPBbCgz8kD_sEtsc2ToI9nGvXUmKcAViwM4yNzyPiQVK6yRHgJjtN7zsUEaJMfVQQ%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-12 13:53:52.517 [main] Log - Enter email address.
+[INFO ] 2023-10-12 13:53:52.677 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:53:53.583 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:53:53.668 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 13:53:53.669 [main] Log - Enter password.
+[INFO ] 2023-10-12 13:53:54.579 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 13:53:58.808 [main] Log - Element clicked
+[INFO ] 2023-10-12 13:53:58.809 [main] Log - click on login button.
+[INFO ] 2023-10-12 13:53:58.811 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 14:02:02.791 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 14:02:02.843 [main] Log - Execution Started
+[INFO ] 2023-10-12 14:02:02.861 [main] Log - Open the Browser
+[INFO ] 2023-10-12 14:02:05.279 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 14:02:05.287 [main] Log - ChromeDriver: chrome on mac (6ea0ce6d3ebe87b6447d7e952c7ced4a)
+[INFO ] 2023-10-12 14:02:05.351 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 14:02:05.365 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 14:02:05.785 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 14:02:05.786 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 14:02:12.566 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 14:02:12.572 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 14:02:12.572 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 14:02:12.576 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 14:02:12.591 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 14:02:12.592 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 14:02:13.473 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 14:02:13.473 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 14:02:13.474 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 14:02:26.375 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 14:02:32.946 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 14:02:37.308 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 14:02:44.555 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 14:02:45.955 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 14:02:45.955 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 14:02:52.531 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 14:07:58.328 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 14:07:58.380 [main] Log - Execution Started
+[INFO ] 2023-10-12 14:07:58.400 [main] Log - Open the Browser
+[INFO ] 2023-10-12 14:08:01.205 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 14:08:01.213 [main] Log - ChromeDriver: chrome on mac (1f8c72aecf588c039a8697105c865a4d)
+[INFO ] 2023-10-12 14:08:01.300 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 14:08:01.309 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 14:08:01.728 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 14:08:01.728 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 14:08:10.173 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 14:08:10.178 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 14:08:10.178 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 14:08:10.181 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 14:08:10.193 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 14:08:10.209 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 14:08:11.472 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 14:08:11.472 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 14:08:11.473 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 14:50:24.946 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 14:50:25.018 [main] Log - Execution Started
+[INFO ] 2023-10-12 14:50:25.045 [main] Log - Open the Browser
+[INFO ] 2023-10-12 14:50:27.634 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 14:50:27.650 [main] Log - ChromeDriver: chrome on mac (34dedc21120d1947e895ac215d9a4801)
+[INFO ] 2023-10-12 14:50:27.740 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 14:50:27.744 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 14:50:28.167 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 14:50:28.167 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 14:50:34.253 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 14:50:34.268 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 14:50:34.268 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 14:50:34.276 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 14:50:34.294 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 14:50:34.296 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:05:55.205 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 15:05:55.255 [main] Log - Execution Started
+[INFO ] 2023-10-12 15:05:55.273 [main] Log - Open the Browser
+[INFO ] 2023-10-12 15:05:57.681 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 15:05:57.692 [main] Log - ChromeDriver: chrome on mac (92cf016dfe0429944b356a5f02f4125e)
+[INFO ] 2023-10-12 15:05:57.755 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:05:57.769 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:05:58.196 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 15:05:58.197 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 15:06:04.021 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:06:04.026 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 15:06:04.026 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 15:06:04.030 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 15:06:04.041 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 15:06:04.044 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:06:04.884 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:06:04.885 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:06:04.885 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 15:06:17.861 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:06:25.353 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:06:29.739 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:06:38.872 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:06:43.403 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:06:47.404 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:06:50.822 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:06:50.822 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:06:57.173 [main] Log - Browser refreshed
+[WARN ] 2023-10-12 15:07:27.244 [main] Log - WebElement Not found
+[INFO ] 2023-10-12 15:07:27.246 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:07:27.874 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 15:07:27.874 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:07:27.875 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 15:07:31.698 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:14:41.356 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 15:14:41.409 [main] Log - Execution Started
+[INFO ] 2023-10-12 15:14:41.427 [main] Log - Open the Browser
+[INFO ] 2023-10-12 15:14:43.981 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 15:14:43.983 [main] Log - ChromeDriver: chrome on mac (28e0c54e0aa2ce910a7067254fe51fe1)
+[INFO ] 2023-10-12 15:14:44.069 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:14:44.077 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:14:44.499 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 15:14:44.500 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 15:14:49.372 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:14:49.377 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 15:14:49.377 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 15:14:49.381 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 15:14:49.394 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 15:14:49.395 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:14:50.229 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:14:50.229 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:14:50.230 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 15:15:03.233 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:15:10.371 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:15:14.780 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:15:23.354 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:15:27.889 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:15:31.894 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:15:34.989 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:15:34.989 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:15:41.352 [main] Log - Browser refreshed
+[WARN ] 2023-10-12 15:16:14.536 [main] Log - WebElement Not found
+[INFO ] 2023-10-12 15:16:14.538 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:16:15.193 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 15:16:15.193 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:16:15.194 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 15:16:19.142 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:18:22.492 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 15:18:22.550 [main] Log - Execution Started
+[INFO ] 2023-10-12 15:18:22.571 [main] Log - Open the Browser
+[INFO ] 2023-10-12 15:18:25.074 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 15:18:25.077 [main] Log - ChromeDriver: chrome on mac (79ab0e5cbed2fc15f82f147c7070fb20)
+[INFO ] 2023-10-12 15:18:25.140 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:18:25.158 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:18:25.578 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 15:18:25.579 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 15:18:32.312 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:18:32.319 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 15:18:32.320 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 15:18:32.323 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 15:18:32.349 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 15:18:32.351 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:18:33.176 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:18:33.176 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:18:33.176 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 15:18:46.088 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:18:54.455 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:18:58.912 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:19:07.543 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:19:12.058 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:19:16.065 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:19:19.421 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:19:19.421 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:19:25.574 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 15:19:45.658 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 15:19:45.658 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 15:19:45.668 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 15:19:46.347 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:19:46.413 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 15:19:50.451 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:19:51.101 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 15:19:51.102 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:19:51.102 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 15:19:54.541 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:19:59.560 [main] Log - Verification of actual vs expected title completed verifyPageTitle
+[INFO ] 2023-10-12 15:19:59.658 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 15:20:00.734 [main] Log - Driver Closed
+[INFO ] 2023-10-12 15:20:00.735 [main] Log - Execution Finished
+[INFO ] 2023-10-12 15:20:01.085 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 15:20:01.087 [main] Log - Execution Started
+[INFO ] 2023-10-12 15:20:01.089 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 15:23:45.201 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 15:23:45.252 [main] Log - Execution Started
+[INFO ] 2023-10-12 15:23:45.270 [main] Log - Open the Browser
+[INFO ] 2023-10-12 15:23:47.608 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 15:23:47.626 [main] Log - ChromeDriver: chrome on mac (0b26718360746399d3d039354bb6a307)
+[INFO ] 2023-10-12 15:23:47.692 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:23:47.701 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:23:48.116 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 15:23:48.117 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 15:23:52.261 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:23:52.267 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 15:23:52.267 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 15:23:52.271 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 15:23:52.293 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 15:23:52.294 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:23:53.204 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:23:53.204 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:23:53.204 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 15:24:06.116 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:25:11.601 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 15:25:11.654 [main] Log - Execution Started
+[INFO ] 2023-10-12 15:25:11.672 [main] Log - Open the Browser
+[INFO ] 2023-10-12 15:25:14.026 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 15:25:14.038 [main] Log - ChromeDriver: chrome on mac (1625e941cd526592d172c36cb5ab5b04)
+[INFO ] 2023-10-12 15:25:14.118 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:25:14.135 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:25:14.554 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 15:25:14.555 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 15:25:19.480 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:25:19.485 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 15:25:19.485 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 15:25:19.491 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 15:25:19.505 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 15:25:19.506 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 15:25:20.325 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:25:20.325 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:25:20.325 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 15:25:33.225 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:25:39.786 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:25:44.209 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:25:52.774 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:25:57.293 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:26:01.298 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 15:26:05.562 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:26:05.563 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:26:11.762 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 15:26:32.613 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 15:26:32.614 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 15:26:32.623 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 15:26:33.241 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 15:26:33.306 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 15:26:37.836 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[ERROR] 2023-10-12 15:26:37.843 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 15:26:38.325 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-12 15:26:58.351 [main] Log - WebElement Not found
+[INFO ] 2023-10-12 15:26:58.352 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 15:26:58.856 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 15:26:58.856 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 15:26:58.856 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 15:27:02.409 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 15:27:07.424 [main] Log - Verification of actual vs expected title completed verifyPageTitle
+[INFO ] 2023-10-12 15:27:07.501 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 15:27:08.444 [main] Log - Driver Closed
+[INFO ] 2023-10-12 15:27:08.445 [main] Log - Execution Finished
+[INFO ] 2023-10-12 15:27:08.723 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 15:27:08.725 [main] Log - Execution Started
+[INFO ] 2023-10-12 15:27:08.727 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 16:49:14.002 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 16:49:14.055 [main] Log - Execution Started
+[INFO ] 2023-10-12 16:49:14.074 [main] Log - Open the Browser
+[INFO ] 2023-10-12 16:49:16.639 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 16:49:16.654 [main] Log - ChromeDriver: chrome on mac (19f711390fa99ba3998da889baedcb85)
+[INFO ] 2023-10-12 16:49:16.734 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 16:49:16.748 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:49:17.169 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 16:49:17.169 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 16:49:21.655 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 16:49:21.659 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 16:49:21.659 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 16:49:21.663 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 16:49:21.673 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 16:49:21.675 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 16:49:22.599 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 16:49:22.599 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:49:22.600 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 16:49:35.535 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:49:42.245 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:49:46.627 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:49:55.555 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:50:00.074 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:50:04.079 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 16:50:10.551 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 16:50:10.552 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:50:16.949 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 16:50:30.903 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 16:50:30.904 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 16:50:30.913 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 16:50:31.557 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:50:31.618 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 16:52:42.156 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 16:52:42.208 [main] Log - Execution Started
+[INFO ] 2023-10-12 16:52:42.227 [main] Log - Open the Browser
+[INFO ] 2023-10-12 16:52:44.671 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 16:52:44.676 [main] Log - ChromeDriver: chrome on mac (ef6aae6ce8db54d3c47cf8423466ce60)
+[INFO ] 2023-10-12 16:52:44.760 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 16:52:44.787 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:52:45.221 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 16:52:45.222 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 16:52:49.930 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 16:52:49.935 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 16:52:49.935 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 16:52:49.938 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 16:52:49.963 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 16:52:49.964 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 16:52:50.782 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 16:52:50.782 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:52:50.782 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 16:53:03.741 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:10.295 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:14.700 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:23.243 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:27.752 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:31.758 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 16:53:36.109 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 16:53:36.109 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:53:42.324 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 16:53:50.962 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 16:53:50.962 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 16:53:50.970 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 16:53:51.587 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:51.676 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 16:53:57.417 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 16:53:57.417 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 16:53:57.872 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:57.961 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 16:53:58.390 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:53:58.912 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:54:03.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:54:05.827 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 16:54:06.884 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 16:54:07.485 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:54:07.494 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 16:54:08.128 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:54:08.867 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:54:13.407 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:54:17.674 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 16:54:17.685 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 16:54:38.581 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 16:54:38.581 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:54:38.581 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 16:54:42.988 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 16:54:48.005 [main] Log - Verification of actual vs expected title completed verifyPageTitle
+[INFO ] 2023-10-12 16:54:48.082 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 16:54:49.123 [main] Log - Driver Closed
+[INFO ] 2023-10-12 16:54:49.124 [main] Log - Execution Finished
+[INFO ] 2023-10-12 16:54:49.416 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 16:54:49.417 [main] Log - Execution Started
+[INFO ] 2023-10-12 16:54:49.419 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 16:58:45.830 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 16:58:45.881 [main] Log - Execution Started
+[INFO ] 2023-10-12 16:58:45.900 [main] Log - Open the Browser
+[INFO ] 2023-10-12 16:58:48.276 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 16:58:48.290 [main] Log - ChromeDriver: chrome on mac (3f9e793e76541361d9552635147fae8d)
+[INFO ] 2023-10-12 16:58:48.371 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 16:58:48.388 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:58:48.807 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 16:58:48.807 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 16:58:53.561 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 16:58:53.566 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 16:58:53.566 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 16:58:53.569 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 16:58:53.582 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 16:58:53.583 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 16:58:54.408 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 16:58:54.409 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:58:54.409 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 16:59:07.366 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:59:13.949 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:59:18.330 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:59:26.918 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:59:31.464 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:59:35.467 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 16:59:38.546 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 16:59:38.546 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 16:59:45.548 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 16:59:56.042 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 16:59:56.043 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 16:59:56.052 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 16:59:56.687 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 16:59:56.758 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 17:00:02.254 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 17:00:02.254 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 17:00:02.762 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:02.850 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 17:00:03.288 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:03.857 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:08.507 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:11.914 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 17:00:12.968 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 17:00:13.560 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:13.568 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 17:00:14.160 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:14.866 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:15.375 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:00:17.153 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 17:00:17.172 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 17:00:17.707 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:00:17.707 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:00:17.708 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 17:00:21.242 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:00:26.259 [main] Log - Verification of actual vs expected title completed verifyPageTitle
+[INFO ] 2023-10-12 17:00:26.332 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:00:27.133 [main] Log - Driver Closed
+[INFO ] 2023-10-12 17:00:27.134 [main] Log - Execution Finished
+[INFO ] 2023-10-12 17:00:27.420 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 17:00:27.422 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:00:27.424 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 17:06:40.301 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:06:40.356 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:06:40.377 [main] Log - Open the Browser
+[INFO ] 2023-10-12 17:06:42.594 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 17:06:42.609 [main] Log - ChromeDriver: chrome on mac (a18411b18ab6d0bbe2f3bfb9252a3768)
+[INFO ] 2023-10-12 17:06:42.797 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:06:42.797 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:06:43.213 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 17:06:43.214 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 17:06:49.394 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:06:49.400 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 17:06:49.400 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 17:06:49.403 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 17:06:49.417 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 17:06:49.419 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:06:50.190 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:06:50.191 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:06:50.191 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[ERROR] 2023-10-12 17:06:50.197 [main] Log - Can not find tab index
+[INFO ] 2023-10-12 17:06:53.979 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:07:00.791 [main] Log - Verification of actual vs expected title completed verifyPageTitle
+[INFO ] 2023-10-12 17:07:00.865 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:07:01.527 [main] Log - Driver Closed
+[INFO ] 2023-10-12 17:07:01.528 [main] Log - Execution Finished
+[INFO ] 2023-10-12 17:07:01.823 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 17:07:01.825 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:07:01.827 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 17:09:30.034 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:09:30.086 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:09:30.104 [main] Log - Open the Browser
+[INFO ] 2023-10-12 17:09:32.527 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 17:09:32.538 [main] Log - ChromeDriver: chrome on mac (4f279dd25cfa8f0529067f900a17622f)
+[INFO ] 2023-10-12 17:09:32.717 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:09:32.718 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:09:33.141 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 17:09:33.141 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 17:09:36.752 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:09:36.756 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 17:09:36.757 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 17:09:36.761 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 17:09:36.772 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 17:09:36.773 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:09:37.513 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:09:37.513 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:09:37.513 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[ERROR] 2023-10-12 17:09:37.519 [main] Log - Can not find tab index
+[INFO ] 2023-10-12 17:09:40.906 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:09:41.019 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:09:41.638 [main] Log - Driver Closed
+[INFO ] 2023-10-12 17:09:41.639 [main] Log - Execution Finished
+[INFO ] 2023-10-12 17:09:41.939 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 17:09:41.941 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:09:41.942 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 17:32:15.456 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:32:15.578 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:32:15.613 [main] Log - Open the Browser
+[INFO ] 2023-10-12 17:32:18.789 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 17:32:18.790 [main] Log - ChromeDriver: chrome on mac (7f5889646915a5f4d268807c994e611f)
+[INFO ] 2023-10-12 17:32:18.988 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:32:18.989 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:32:19.412 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 17:32:19.413 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 17:32:19.838 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:34:27.193 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:34:27.246 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:34:27.264 [main] Log - Open the Browser
+[INFO ] 2023-10-12 17:34:30.563 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 17:34:30.582 [main] Log - ChromeDriver: chrome on mac (5a8a8a7886f341999ff972622cdaab4a)
+[INFO ] 2023-10-12 17:34:30.735 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:34:30.735 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:34:31.158 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 17:34:31.158 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 17:34:36.352 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:34:36.358 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 17:34:36.358 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 17:34:36.362 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 17:34:36.377 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 17:34:36.379 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:34:37.177 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:34:37.177 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:34:37.178 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 17:34:37.178 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:34:38.042 [main] Log - Driver Closed
+[INFO ] 2023-10-12 17:34:38.042 [main] Log - Execution Finished
+[INFO ] 2023-10-12 17:34:38.307 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 17:34:38.308 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:34:38.310 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 17:36:14.415 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:36:14.467 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:36:14.486 [main] Log - Open the Browser
+[INFO ] 2023-10-12 17:36:16.912 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 17:36:16.920 [main] Log - ChromeDriver: chrome on mac (ad5f7a223f6030159caf105e6ecde455)
+[INFO ] 2023-10-12 17:36:17.065 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:36:17.065 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:36:17.493 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 17:36:17.494 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 17:36:22.291 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:36:22.297 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 17:36:22.298 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 17:36:22.302 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 17:36:22.315 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 17:36:22.316 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:36:23.105 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:36:23.105 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:36:23.105 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 17:36:23.106 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:36:24.011 [main] Log - Driver Closed
+[INFO ] 2023-10-12 17:36:24.012 [main] Log - Execution Finished
+[INFO ] 2023-10-12 17:36:24.268 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 17:36:24.270 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:36:24.272 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 17:37:32.731 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:37:32.786 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:37:32.806 [main] Log - Open the Browser
+[INFO ] 2023-10-12 17:37:35.166 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 17:37:35.186 [main] Log - ChromeDriver: chrome on mac (d5d2f35244d628af5ef23ea239465b04)
+[INFO ] 2023-10-12 17:37:35.330 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:37:35.342 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:37:35.342 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:37:35.764 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 17:37:35.765 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 17:37:40.965 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:37:40.975 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 17:37:40.975 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 17:37:40.979 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 17:37:40.995 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 17:37:40.997 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:37:41.775 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:37:41.775 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:37:41.775 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 17:37:45.259 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:37:45.259 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-12 17:37:45.485 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 17:37:45.486 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-12 17:37:45.954 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:37:46.044 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 17:37:46.044 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-12 17:37:46.541 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:37:58.064 [main] Log - Element clicked
+[INFO ] 2023-10-12 17:37:58.064 [main] Log - Click on Login
+[INFO ] 2023-10-12 17:37:58.524 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:38:03.532 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-12 17:38:03.536 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-12 17:38:03.590 [main] Log - Element clicked
+[INFO ] 2023-10-12 17:38:06.238 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:38:06.918 [main] Log - Driver Closed
+[INFO ] 2023-10-12 17:38:06.918 [main] Log - Execution Finished
+[INFO ] 2023-10-12 17:38:07.212 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 17:38:07.214 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:38:07.216 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 17:39:54.593 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:39:54.644 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:39:54.664 [main] Log - Open the Browser
+[INFO ] 2023-10-12 17:39:57.035 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 17:39:57.048 [main] Log - ChromeDriver: chrome on mac (109812910bf3635365a50f2ddefcd4c7)
+[INFO ] 2023-10-12 17:39:57.219 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 17:39:57.241 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:39:57.242 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:39:57.665 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 17:39:57.665 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 17:40:03.636 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:40:03.641 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 17:40:03.642 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 17:40:03.645 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 17:40:03.675 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 17:40:03.677 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 17:40:04.451 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:40:04.451 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 17:40:04.451 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-12 17:40:07.953 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 17:40:07.954 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-12 17:40:08.173 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 17:40:08.173 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-12 17:40:08.625 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:40:08.713 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-12 17:40:08.713 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-12 17:40:09.168 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:40:21.068 [main] Log - Element clicked
+[INFO ] 2023-10-12 17:40:21.068 [main] Log - Click on Login
+[INFO ] 2023-10-12 17:40:21.557 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 17:40:26.565 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-12 17:40:26.568 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-12 17:40:26.768 [main] Log - Element clicked
+[INFO ] 2023-10-12 17:40:30.001 [main] Log - Webelement clicked, cleared and text entered
+[WARN ] 2023-10-12 17:40:44.036 [main] Log - WebElement Not found
+[ERROR] 2023-10-12 17:40:44.037 [main] Log - Element is not clickable
+[INFO ] 2023-10-12 17:40:50.039 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-12 17:40:50.674 [main] Log - Driver Closed
+[INFO ] 2023-10-12 17:40:50.675 [main] Log - Execution Finished
+[INFO ] 2023-10-12 17:40:50.972 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 17:40:50.974 [main] Log - Execution Started
+[INFO ] 2023-10-12 17:40:50.975 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 18:07:25.660 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:07:25.714 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:07:25.733 [main] Log - Open the Browser
+[INFO ] 2023-10-12 18:07:28.307 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 18:07:28.320 [main] Log - ChromeDriver: chrome on mac (1782a0e6d399930b6ae615a71ee47549)
+[INFO ] 2023-10-12 18:07:28.427 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:07:28.447 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:07:28.454 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:07:28.878 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 18:07:28.878 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 18:07:34.099 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 18:07:34.108 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 18:07:34.108 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 18:07:34.113 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 18:07:34.128 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 18:07:34.130 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:07:34.942 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:07:34.942 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:07:34.942 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 18:07:47.852 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:07:54.872 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:07:59.251 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:08.295 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:12.821 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:16.823 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:08:21.166 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:08:21.166 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:08:27.827 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:08:36.549 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:08:36.550 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 18:08:36.562 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:08:37.286 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:37.377 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 18:08:41.454 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 18:08:41.455 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:08:41.952 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:42.039 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:08:42.475 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:43.019 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:47.738 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:51.638 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:08:57.698 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:08:58.297 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:58.307 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:08:58.889 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:08:59.624 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:09:00.168 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:09:02.416 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:09:02.441 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:09:03.033 [main] Log - Driver Closed
+[INFO ] 2023-10-12 18:09:03.033 [main] Log - Execution Finished
+[INFO ] 2023-10-12 18:09:03.310 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 18:09:03.312 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:09:03.314 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 18:15:32.199 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:15:32.250 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:15:32.270 [main] Log - Open the Browser
+[INFO ] 2023-10-12 18:15:34.583 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 18:15:34.590 [main] Log - ChromeDriver: chrome on mac (d233d6f209182835ffd3ff14ac5c57a2)
+[INFO ] 2023-10-12 18:15:34.701 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:15:34.725 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:15:34.725 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:15:35.146 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 18:15:35.147 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 18:15:40.481 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 18:15:40.488 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 18:15:40.488 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 18:15:40.492 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 18:15:40.508 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 18:15:40.509 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:15:41.279 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:15:41.280 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:15:41.280 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 18:15:54.276 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:00.879 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:05.279 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:13.808 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:18.356 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:22.362 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:16:27.131 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:16:27.131 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:16:33.866 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 18:16:44.378 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 18:16:44.379 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 18:16:44.388 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:16:44.989 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:45.048 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 18:16:49.091 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 18:16:49.091 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:16:49.536 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:49.624 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:16:50.063 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:50.577 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:55.252 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:16:57.671 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 18:17:03.729 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 18:17:04.330 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:17:04.340 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:17:04.940 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:17:05.656 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:17:06.165 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:17:10.050 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:17:15.070 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:17:15.626 [main] Log - Driver Closed
+[INFO ] 2023-10-12 18:17:15.626 [main] Log - Execution Finished
+[INFO ] 2023-10-12 18:17:15.903 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 18:17:15.905 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:17:15.907 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 18:18:13.952 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:18:14.004 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:18:14.023 [main] Log - Open the Browser
+[INFO ] 2023-10-12 18:18:16.325 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 18:18:16.333 [main] Log - ChromeDriver: chrome on mac (36450a9ba53a74405ec5c755a7d92a56)
+[INFO ] 2023-10-12 18:18:16.445 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:18:16.471 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:18:16.471 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:18:16.906 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 18:18:16.907 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 18:18:21.665 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 18:18:21.672 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 18:18:21.672 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 18:18:21.677 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 18:18:21.694 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 18:18:21.696 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:18:22.461 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:18:22.461 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:18:22.461 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 18:18:35.459 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:18:42.084 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:18:46.540 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:18:55.189 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:18:59.711 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:19:03.717 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:19:14.764 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:19:14.764 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:19:21.119 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:19:58.980 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:19:58.981 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 18:19:58.991 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:19:59.616 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:19:59.679 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 18:20:32.248 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 18:20:32.248 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:20:32.724 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:20:32.812 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:20:33.246 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:20:33.783 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:20:38.434 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:20:41.557 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:20:47.615 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:20:48.245 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:20:48.255 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:20:48.867 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:20:49.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:20:50.097 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:21:12.761 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:21:17.780 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:21:18.331 [main] Log - Driver Closed
+[INFO ] 2023-10-12 18:21:18.332 [main] Log - Execution Finished
+[INFO ] 2023-10-12 18:21:18.577 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 18:21:18.579 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:21:18.580 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 18:32:25.301 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:32:25.357 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:32:25.376 [main] Log - Open the Browser
+[INFO ] 2023-10-12 18:32:27.844 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 18:32:27.849 [main] Log - ChromeDriver: chrome on mac (1e1fd3cfa1a15bccbca28797cfa05fe0)
+[INFO ] 2023-10-12 18:32:28.003 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:32:28.032 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:32:28.033 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:32:28.455 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 18:32:28.455 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 18:32:34.754 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 18:32:34.761 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 18:32:34.761 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 18:32:34.766 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 18:32:34.782 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 18:32:34.784 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:32:35.543 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:32:35.543 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:32:35.543 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 18:32:48.461 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:32:55.102 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:32:59.484 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:33:08.115 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:33:12.619 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:33:16.623 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:33:22.659 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:33:22.659 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:33:28.985 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 18:33:39.432 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 18:33:39.433 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 18:33:39.443 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:33:40.056 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:33:40.118 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 18:33:44.157 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 18:33:44.157 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:33:44.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:33:44.682 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:33:45.117 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:33:45.661 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 18:33:49.765 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 18:33:50.415 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:34:00.718 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 18:34:06.757 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 18:34:07.378 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:34:07.386 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:34:08.027 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:34:08.779 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:34:10.843 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:34:12.649 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:34:17.659 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:34:18.189 [main] Log - Driver Closed
+[INFO ] 2023-10-12 18:34:18.189 [main] Log - Execution Finished
+[INFO ] 2023-10-12 18:34:18.437 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 18:34:18.439 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:34:18.440 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 18:35:20.741 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:35:20.794 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:35:20.813 [main] Log - Open the Browser
+[INFO ] 2023-10-12 18:35:23.067 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 18:35:23.084 [main] Log - ChromeDriver: chrome on mac (80873e6db06f02914d27a8c82547461c)
+[INFO ] 2023-10-12 18:35:23.193 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 18:35:23.218 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:35:23.232 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:35:23.652 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 18:35:23.653 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 18:35:27.277 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 18:35:27.281 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 18:35:27.281 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 18:35:27.285 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 18:35:27.307 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 18:35:27.309 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 18:35:28.065 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:35:28.065 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:35:28.066 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 18:35:40.997 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:35:47.553 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:35:51.929 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:00.626 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:05.140 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:09.145 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 18:36:15.891 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:36:15.892 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 18:36:22.421 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:36:32.321 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:36:32.322 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 18:36:32.330 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:36:32.935 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:33.011 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 18:36:37.050 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 18:36:37.051 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:36:37.537 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:37.625 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:36:38.053 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:38.560 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 18:36:42.633 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 18:36:43.283 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:45.259 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:36:51.305 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 18:36:51.920 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:51.928 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 18:36:52.530 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:53.280 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:57.302 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 18:36:59.316 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 18:37:04.328 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 18:37:04.831 [main] Log - Driver Closed
+[INFO ] 2023-10-12 18:37:04.831 [main] Log - Execution Finished
+[INFO ] 2023-10-12 18:37:05.069 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 18:37:05.071 [main] Log - Execution Started
+[INFO ] 2023-10-12 18:37:05.072 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 22:48:15.678 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 22:48:15.732 [main] Log - Execution Started
+[INFO ] 2023-10-12 22:48:15.752 [main] Log - Open the Browser
+[INFO ] 2023-10-12 22:48:18.440 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 22:48:18.448 [main] Log - ChromeDriver: chrome on mac (e39238019261ad98f5d2e3398e93118d)
+[INFO ] 2023-10-12 22:48:18.577 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 22:48:18.605 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 22:48:18.605 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:48:19.031 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 22:48:19.031 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 22:48:25.879 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 22:48:25.886 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 22:48:25.886 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 22:48:25.893 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 22:48:25.911 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 22:48:25.912 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 22:48:26.755 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 22:48:26.755 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:48:26.756 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 22:48:39.689 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:48:46.808 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:48:51.186 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:00.198 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:04.723 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:08.729 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 22:49:13.886 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 22:49:13.887 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:49:20.145 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 22:49:31.611 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 22:49:31.611 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 22:49:31.620 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 22:49:32.293 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:32.353 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 22:49:37.852 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 22:49:37.852 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 22:49:38.330 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:38.421 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 22:49:38.856 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:39.488 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 22:49:43.569 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 22:49:44.214 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:47.469 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 22:49:53.539 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 22:49:54.134 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:54.143 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 22:49:54.748 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:55.487 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:49:58.516 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:50:00.668 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 22:50:05.684 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 22:50:06.198 [main] Log - Driver Closed
+[INFO ] 2023-10-12 22:50:06.198 [main] Log - Execution Finished
+[INFO ] 2023-10-12 22:50:06.465 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 22:50:06.467 [main] Log - Execution Started
+[INFO ] 2023-10-12 22:50:06.469 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 22:55:21.101 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 22:55:21.154 [main] Log - Execution Started
+[INFO ] 2023-10-12 22:55:21.174 [main] Log - Open the Browser
+[INFO ] 2023-10-12 22:55:23.548 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 22:55:23.562 [main] Log - ChromeDriver: chrome on mac (45b72f7134a3d1a01af4c007628666ee)
+[INFO ] 2023-10-12 22:55:23.702 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 22:55:23.734 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 22:55:23.735 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:55:24.154 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 22:55:24.154 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 22:55:29.464 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 22:55:29.476 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 22:55:29.477 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 22:55:29.484 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 22:55:29.500 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 22:55:29.501 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 22:55:30.272 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 22:55:30.272 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:55:30.272 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 22:55:43.337 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:55:50.035 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:55:54.407 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:03.163 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:07.675 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:11.680 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 22:56:20.515 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 22:56:20.515 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:56:26.819 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 22:56:36.335 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 22:56:36.336 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 22:56:36.345 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 22:56:36.952 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:37.027 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 22:56:41.069 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 22:56:41.069 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 22:56:41.503 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:41.592 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 22:56:42.035 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:42.563 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 22:56:46.640 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 22:56:47.304 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:50.451 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 22:56:56.506 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 22:56:57.147 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:57.155 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 22:56:57.806 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:56:58.570 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:57:01.219 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:57:06.238 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 22:57:06.774 [main] Log - Driver Closed
+[INFO ] 2023-10-12 22:57:06.774 [main] Log - Execution Finished
+[INFO ] 2023-10-12 22:57:07.012 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 22:57:07.014 [main] Log - Execution Started
+[INFO ] 2023-10-12 22:57:07.016 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 22:59:11.117 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 22:59:11.169 [main] Log - Execution Started
+[INFO ] 2023-10-12 22:59:11.188 [main] Log - Open the Browser
+[INFO ] 2023-10-12 22:59:13.391 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 22:59:13.406 [main] Log - ChromeDriver: chrome on mac (15c3359cb6b01a133eb58fc0a1741152)
+[INFO ] 2023-10-12 22:59:13.515 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 22:59:13.533 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 22:59:13.539 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:59:13.961 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 22:59:13.961 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 22:59:19.141 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 22:59:19.145 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 22:59:19.146 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 22:59:19.150 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 22:59:19.170 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 22:59:19.171 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 22:59:19.977 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 22:59:19.978 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 22:59:19.978 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 22:59:32.965 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:59:39.591 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:59:43.990 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:59:52.517 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 22:59:57.050 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:01.056 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 23:00:05.417 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:00:05.417 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:00:11.747 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:00:20.086 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:00:20.086 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 23:00:20.095 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:00:20.750 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:20.836 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 23:00:24.874 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 23:00:24.874 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:00:25.351 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:25.455 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:00:25.896 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:26.409 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 23:00:30.480 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 23:00:31.120 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:33.166 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:00:39.223 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:00:39.849 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:39.857 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:00:40.463 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:41.204 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:43.135 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:00:48.154 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:00:48.723 [main] Log - Driver Closed
+[INFO ] 2023-10-12 23:00:48.723 [main] Log - Execution Finished
+[INFO ] 2023-10-12 23:00:48.987 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 23:00:48.989 [main] Log - Execution Started
+[INFO ] 2023-10-12 23:00:48.990 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 23:08:20.556 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 23:08:20.607 [main] Log - Execution Started
+[INFO ] 2023-10-12 23:08:20.626 [main] Log - Open the Browser
+[INFO ] 2023-10-12 23:08:22.895 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 23:08:22.913 [main] Log - ChromeDriver: chrome on mac (3e2eaa68e432deac13d7267c98627084)
+[INFO ] 2023-10-12 23:08:23.045 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 23:08:23.068 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 23:08:23.068 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:08:23.487 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 23:08:23.488 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 23:08:28.886 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 23:08:28.890 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 23:08:28.890 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 23:08:28.893 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 23:08:28.905 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 23:08:28.906 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 23:08:29.675 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 23:08:29.676 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:08:29.676 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 23:08:42.604 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:08:50.376 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:08:54.749 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:03.292 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:07.824 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:11.829 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 23:09:18.654 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:09:18.655 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:09:24.953 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 23:09:36.162 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 23:09:36.162 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 23:09:36.173 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:09:36.825 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:36.885 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 23:09:41.141 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 23:09:41.141 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:09:41.617 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:41.720 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:09:42.147 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:42.691 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 23:09:46.763 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 23:09:47.407 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:51.192 [main] Log - Browser refreshed
+[ERROR] 2023-10-12 23:09:57.237 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-12 23:09:57.862 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:57.873 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:09:58.465 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:09:59.212 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:10:03.541 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:10:05.775 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:10:10.796 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:10:11.331 [main] Log - Driver Closed
+[INFO ] 2023-10-12 23:10:11.332 [main] Log - Execution Finished
+[INFO ] 2023-10-12 23:10:11.608 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 23:10:11.610 [main] Log - Execution Started
+[INFO ] 2023-10-12 23:10:11.611 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-12 23:11:49.515 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 23:11:49.574 [main] Log - Execution Started
+[INFO ] 2023-10-12 23:11:49.597 [main] Log - Open the Browser
+[INFO ] 2023-10-12 23:11:52.125 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 23:11:52.141 [main] Log - ChromeDriver: chrome on mac (7949fdeddd8d0952912b2f241745be4b)
+[INFO ] 2023-10-12 23:11:52.254 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 23:11:52.276 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 23:11:52.292 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:11:52.712 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 23:11:52.712 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 23:11:57.960 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 23:11:57.965 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 23:11:57.966 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 23:11:57.970 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 23:11:57.988 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 23:11:57.990 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 23:11:58.778 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 23:11:58.778 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:11:58.779 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 23:12:11.735 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:12:18.422 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:12:22.848 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:12:31.481 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:12:36.003 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:12:40.008 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 23:12:45.493 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:12:45.493 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:12:51.896 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:13:05.108 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:13:05.108 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 23:13:05.117 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:13:05.764 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:05.823 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 23:13:09.858 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 23:13:09.859 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:13:10.308 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:10.410 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:13:10.849 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:11.391 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 23:13:15.469 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 23:13:16.086 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:19.188 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:13:25.250 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:13:25.899 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:25.909 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:13:26.520 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:27.243 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:31.786 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:13:48.719 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:14:18.296 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:23:57.391 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 23:23:57.441 [main] Log - Execution Started
+[INFO ] 2023-10-12 23:23:57.461 [main] Log - Open the Browser
+[INFO ] 2023-10-12 23:23:59.872 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-12 23:23:59.888 [main] Log - ChromeDriver: chrome on mac (10774cc42e7471770a3105b1e3f2feed)
+[INFO ] 2023-10-12 23:24:00.022 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-12 23:24:00.043 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 23:24:00.048 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:24:00.470 [main] Log - Browser window maximised
+[INFO ] 2023-10-12 23:24:00.471 [main] Log - Navigation to URL
+[INFO ] 2023-10-12 23:24:05.735 [main] Log - Navigated to URL
+[INFO ] 2023-10-12 23:24:05.741 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-12 23:24:05.742 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-12 23:24:05.746 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-12 23:24:05.762 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-12 23:24:05.763 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-12 23:24:06.532 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 23:24:06.532 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:24:06.532 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-12 23:24:19.480 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:24:26.150 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:24:30.540 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:24:39.125 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:24:43.721 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:24:47.726 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-12 23:24:56.098 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:24:56.099 [main] Log - This message is from my own project
+[INFO ] 2023-10-12 23:25:02.560 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:25:12.405 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:25:12.405 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-12 23:25:12.414 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:25:13.035 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:13.106 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-12 23:25:19.408 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-12 23:25:19.408 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:25:19.881 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:19.981 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:25:20.457 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:21.008 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-12 23:25:25.077 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-12 23:25:25.726 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:28.440 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:25:34.504 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-12 23:25:35.125 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:35.134 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-12 23:25:35.733 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:36.481 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:37.814 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:43.287 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:49.373 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:25:49.861 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:50.292 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:56.044 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:25:56.501 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:25:56.943 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:26:04.715 [main] Log - Browser refreshed
+[INFO ] 2023-10-12 23:26:05.207 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-12 23:26:05.208 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-12 23:26:05.733 [main] Log - Driver Closed
+[INFO ] 2023-10-12 23:26:05.733 [main] Log - Execution Finished
+[INFO ] 2023-10-12 23:26:05.984 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-12 23:26:05.986 [main] Log - Execution Started
+[INFO ] 2023-10-12 23:26:05.987 [main] Log - Suite FinishedSuite

@@ -1,0 +1,1 @@
+{"uuid":"2cd92ec4-1e0b-4aff-b4df-000e08c3eb1a","name":"Login Suite","children":["65de2b92-63fa-45ef-aee3-fb00e5245a00"],"befores":[{"name":"suiteSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1726742436157,"stop":1726742441896}],"afters":[],"start":1726742436120,"stop":1726742449596}

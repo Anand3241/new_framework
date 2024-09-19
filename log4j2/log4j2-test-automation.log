@@ -1,0 +1,127 @@
+[INFO ] 2024-07-30 00:00:06.079 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:00:07.069 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:00:08.007 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:00:14.983 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:00:39.061 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-30 00:00:39.959 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-30 00:00:39.959 [main] Log - This message is from my own project
+[WARN ] 2024-07-30 00:01:30.096 [main] Log - WebElement Not found
+[INFO ] 2024-07-30 00:01:30.098 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-30 00:01:30.431 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2024-07-30 00:01:30.432 [main] Log - This message is from my own project
+[INFO ] 2024-07-30 00:01:33.480 [main] Log - Navigated to URL
+[INFO ] 2024-07-30 00:01:33.480 [main] Log - Go to Sandbox Login URL
+[INFO ] 2024-07-30 00:01:33.649 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-30 00:01:33.649 [main] Log - Enter Sandbox Username
+[INFO ] 2024-07-30 00:01:34.322 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:01:34.463 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-30 00:01:34.464 [main] Log - Enter Sandbox Password
+[INFO ] 2024-07-30 00:01:35.178 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:05:31.281 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-30 00:05:31.338 [main] Log - Execution Started
+[INFO ] 2024-07-30 00:05:31.356 [main] Log - Open the Browser
+[INFO ] 2024-07-30 00:05:33.867 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-30 00:05:33.881 [main] Log - ChromeDriver: chrome on mac (90aa5d87c9c6a1ed9e4feb89a0e6dc0f)
+[INFO ] 2024-07-30 00:05:33.933 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-30 00:05:33.997 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-30 00:05:34.012 [main] Log - This message is from my own project
+[INFO ] 2024-07-30 00:05:34.334 [main] Log - Browser window maximised
+[INFO ] 2024-07-30 00:05:38.326 [main] Log - Navigated to URL
+[INFO ] 2024-07-30 00:05:38.331 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-30 00:05:38.336 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-30 00:05:38.349 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-30 00:05:48.985 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:05:56.344 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:00.353 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:17.501 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:21.549 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:25.623 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:33.740 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:47.721 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:52.675 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:06:59.714 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:07:00.668 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:07:01.566 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:07:08.526 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:07:13.543 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 00:07:37.671 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-30 00:07:38.683 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-30 00:07:38.683 [main] Log - This message is from my own project
+[INFO ] 2024-07-30 10:50:50.833 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-30 10:50:50.945 [main] Log - Execution Started
+[INFO ] 2024-07-30 10:50:50.982 [main] Log - Open the Browser
+[INFO ] 2024-07-30 10:50:57.969 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-30 10:50:57.976 [main] Log - ChromeDriver: chrome on mac (cce27e4c9d6881981338f6ef8afcf220)
+[INFO ] 2024-07-30 10:50:58.057 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-30 10:50:58.143 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-30 10:50:58.161 [main] Log - This message is from my own project
+[INFO ] 2024-07-30 10:50:58.505 [main] Log - Browser window maximised
+[INFO ] 2024-07-30 10:51:04.650 [main] Log - Navigated to URL
+[INFO ] 2024-07-30 10:51:04.657 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-30 10:51:04.670 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-30 10:51:04.703 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-30 10:51:15.815 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:51:24.685 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:51:29.426 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:51:40.211 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:51:45.045 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:51:49.870 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:51:58.736 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:13.581 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:18.564 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:30.250 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:31.263 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:32.188 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:39.169 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:44.231 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:49.160 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:52:57.975 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:53:44.327 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-30 10:53:44.984 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-30 10:53:44.984 [main] Log - This message is from my own project
+[WARN ] 2024-07-30 10:54:35.097 [main] Log - WebElement Not found
+[INFO ] 2024-07-30 10:54:35.098 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-30 10:54:35.702 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2024-07-30 10:54:35.702 [main] Log - This message is from my own project
+[INFO ] 2024-07-30 10:54:38.855 [main] Log - Navigated to URL
+[INFO ] 2024-07-30 10:54:38.856 [main] Log - Go to Sandbox Login URL
+[INFO ] 2024-07-30 10:54:39.029 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-30 10:54:39.029 [main] Log - Enter Sandbox Username
+[INFO ] 2024-07-30 10:54:39.696 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 10:54:39.915 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-30 10:54:39.915 [main] Log - Enter Sandbox Password
+[INFO ] 2024-07-30 10:54:40.833 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2024-07-30 10:54:43.316 [main] Log - Element is not clickable
+[INFO ] 2024-07-30 10:54:43.316 [main] Log - Click on Login
+[INFO ] 2024-07-30 11:32:43.408 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-30 11:32:43.463 [main] Log - Execution Started
+[INFO ] 2024-07-30 11:32:43.481 [main] Log - Open the Browser
+[INFO ] 2024-07-30 11:32:46.044 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-30 11:32:46.045 [main] Log - ChromeDriver: chrome on mac (ac89f28c5d31f070d1cfd1104c658586)
+[INFO ] 2024-07-30 11:32:46.095 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-30 11:32:46.151 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-30 11:32:46.161 [main] Log - This message is from my own project
+[INFO ] 2024-07-30 11:32:46.492 [main] Log - Browser window maximised
+[INFO ] 2024-07-30 11:32:50.120 [main] Log - Navigated to URL
+[INFO ] 2024-07-30 11:32:50.126 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-30 11:32:50.132 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-30 11:32:50.149 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-30 11:33:00.782 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:09.992 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:13.991 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:24.560 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:28.671 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:32.757 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:40.835 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:54.561 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:33:59.567 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:07.677 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:08.659 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:09.579 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:16.557 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:21.666 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:26.604 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:35.451 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-30 11:34:59.656 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-30 11:34:59.747 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-30 11:34:59.747 [main] Log - This message is from my own project

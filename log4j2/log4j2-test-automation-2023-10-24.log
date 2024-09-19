@@ -1,0 +1,74 @@
+[INFO ] 2023-10-24 22:11:15.520 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-24 22:11:15.599 [main] Log - Execution Started
+[INFO ] 2023-10-24 22:11:15.625 [main] Log - Open the Browser
+[INFO ] 2023-10-24 22:11:19.077 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-24 22:11:19.082 [main] Log - ChromeDriver: chrome on mac (882d0aa22f3684528e56ce3015ed31b5)
+[INFO ] 2023-10-24 22:11:19.131 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-24 22:11:19.173 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-24 22:11:19.177 [main] Log - This message is from my own project
+[INFO ] 2023-10-24 22:11:19.605 [main] Log - Browser window maximised
+[INFO ] 2023-10-24 22:11:26.914 [main] Log - Navigated to URL
+[INFO ] 2023-10-24 22:11:26.919 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-24 22:11:26.927 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-24 22:11:26.940 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-24 22:11:39.926 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:11:47.521 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:11:51.933 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:12:01.143 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:12:05.630 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:12:09.637 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-24 22:12:15.930 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-24 22:12:15.930 [main] Log - This message is from my own project
+[INFO ] 2023-10-24 22:13:30.744 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:13:33.831 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-24 22:13:34.369 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-24 22:13:34.369 [main] Log - This message is from my own project
+[INFO ] 2023-10-24 22:13:34.370 [main] Log - Open the Browser
+[INFO ] 2023-10-24 22:13:35.870 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-24 22:13:35.878 [main] Log - ChromeDriver: chrome on mac (f2ec4ed980a6af0439f6724b345d4fcd)
+[ERROR] 2023-10-24 22:13:36.445 [main] Log - Can not open new tab
+[INFO ] 2023-10-24 22:13:40.199 [main] Log - Navigated to URL
+[INFO ] 2023-10-24 22:13:40.199 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-24 22:13:40.369 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-24 22:13:40.370 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-24 22:13:40.893 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:13:40.987 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-24 22:13:40.987 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-24 22:13:42.139 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:17:22.657 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-24 22:17:22.709 [main] Log - Execution Started
+[INFO ] 2023-10-24 22:17:22.729 [main] Log - Open the Browser
+[INFO ] 2023-10-24 22:17:25.195 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-24 22:17:25.213 [main] Log - ChromeDriver: chrome on mac (1d033c83819029789ca52b61f8c7aee7)
+[INFO ] 2023-10-24 22:17:25.247 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-24 22:17:25.276 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-24 22:17:25.290 [main] Log - This message is from my own project
+[INFO ] 2023-10-24 22:17:25.708 [main] Log - Browser window maximised
+[INFO ] 2023-10-24 22:17:29.275 [main] Log - Navigated to URL
+[INFO ] 2023-10-24 22:17:29.279 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-24 22:17:29.287 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-24 22:17:29.298 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-24 22:17:42.245 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:17:49.418 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:17:53.795 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:18:02.441 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:18:06.975 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:18:10.982 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-24 22:18:15.471 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-24 22:18:15.471 [main] Log - This message is from my own project
+[INFO ] 2023-10-24 22:19:18.343 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:19:21.440 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-24 22:19:22.025 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-24 22:19:22.026 [main] Log - This message is from my own project
+[INFO ] 2023-10-24 22:19:22.026 [main] Log - Open the Browser
+[INFO ] 2023-10-24 22:19:23.518 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-24 22:19:23.524 [main] Log - ChromeDriver: chrome on mac (268742bd26b99753e576fa1c5aad9679)
+[ERROR] 2023-10-24 22:19:23.985 [main] Log - Can not open new tab
+[INFO ] 2023-10-24 22:19:27.883 [main] Log - Navigated to URL
+[INFO ] 2023-10-24 22:19:27.883 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-24 22:19:28.107 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-24 22:19:28.107 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-24 22:19:28.640 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-24 22:19:28.748 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-24 22:19:28.764 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-24 22:19:29.860 [main] Log - Screenshot Taken and attached to report

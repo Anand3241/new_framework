@@ -1,0 +1,379 @@
+[INFO ] 2024-07-29 12:52:42.450 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:52:42.530 [main] Log - Execution Started
+[INFO ] 2024-07-29 12:52:42.556 [main] Log - Open the Browser
+[INFO ] 2024-07-29 12:52:45.926 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 12:52:45.944 [main] Log - ChromeDriver: chrome on mac (49a145e657b406df802ab303bafc040c)
+[INFO ] 2024-07-29 12:52:45.995 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:52:46.049 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-07-29 12:52:46.071 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:52:46.395 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 12:52:46.411 [main] Log - Navigation to URL
+[INFO ] 2024-07-29 12:52:51.398 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 12:52:51.404 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 12:52:51.404 [main] Log - Navigated to Url : https://ext.trailhead.salesforce.com/
+[INFO ] 2024-07-29 12:52:51.409 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 12:52:51.430 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 12:52:54.436 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-07-29 12:52:55.181 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-07-29 12:52:55.181 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:52:55.225 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-07-29 12:52:55.898 [main] Log - Execution Finished
+[INFO ] 2024-07-29 12:52:56.262 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-07-29 12:52:56.265 [main] Log - Execution Started
+[INFO ] 2024-07-29 12:52:56.268 [main] Log - Suite FinishedSuite
+[INFO ] 2024-07-29 12:55:18.093 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:55:18.159 [main] Log - Execution Started
+[INFO ] 2024-07-29 12:55:18.185 [main] Log - Open the Browser
+[INFO ] 2024-07-29 12:55:21.243 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 12:55:21.256 [main] Log - ChromeDriver: chrome on mac (720bc3c7b645cc4e2246d9872f75cb09)
+[INFO ] 2024-07-29 12:55:21.301 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:55:21.380 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-07-29 12:55:21.390 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:55:21.721 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 12:55:21.732 [main] Log - Navigation to URL
+[INFO ] 2024-07-29 12:55:25.690 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 12:55:25.696 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 12:55:25.697 [main] Log - Navigated to Url : https://stg.trailhead.salesforce.com/
+[INFO ] 2024-07-29 12:55:25.703 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 12:55:25.734 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 12:55:28.741 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-07-29 12:55:29.590 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-07-29 12:55:29.590 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:55:29.636 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-07-29 12:55:30.370 [main] Log - Execution Finished
+[INFO ] 2024-07-29 12:55:31.083 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-07-29 12:55:31.086 [main] Log - Execution Started
+[INFO ] 2024-07-29 12:55:31.088 [main] Log - Suite FinishedSuite
+[INFO ] 2024-07-29 12:57:50.887 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:57:50.951 [main] Log - Execution Started
+[INFO ] 2024-07-29 12:57:50.972 [main] Log - Open the Browser
+[INFO ] 2024-07-29 12:57:53.671 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 12:57:53.676 [main] Log - ChromeDriver: chrome on mac (e7ddce4d9192bfd7d1b60919d3cd2373)
+[INFO ] 2024-07-29 12:57:53.749 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:57:53.809 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 12:57:53.815 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:57:54.147 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 12:57:54.147 [main] Log - Navigation to URL
+[INFO ] 2024-07-29 12:57:58.727 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 12:57:58.736 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 12:57:58.736 [main] Log - Navigated to Url : https://stg.trailhead.salesforce.com/
+[INFO ] 2024-07-29 12:57:58.741 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 12:57:58.755 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 12:57:58.756 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 12:57:59.443 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 12:57:59.443 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:58:03.624 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2024-07-29 12:58:04.314 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 12:58:22.916 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:58:22.987 [main] Log - Execution Started
+[INFO ] 2024-07-29 12:58:23.010 [main] Log - Open the Browser
+[INFO ] 2024-07-29 12:58:25.495 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2024-07-29 12:58:25.503 [main] Log - ChromeDriver: chrome on mac (782293e279094460f5909e72e348616a)
+[INFO ] 2024-07-29 12:58:25.537 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 12:58:25.601 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 12:58:25.617 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:58:25.651 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 12:58:25.655 [main] Log - Navigation to URL
+[INFO ] 2024-07-29 12:58:29.829 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 12:58:29.836 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 12:58:29.837 [main] Log - Navigated to Url : https://stg.trailhead.salesforce.com/
+[INFO ] 2024-07-29 12:58:29.841 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 12:58:29.863 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 12:58:29.865 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 12:58:30.625 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 12:58:30.625 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 12:58:34.750 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2024-07-29 12:58:35.358 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:49:48.949 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 22:49:49.001 [main] Log - Execution Started
+[INFO ] 2024-07-29 22:49:49.021 [main] Log - Open the Browser
+[INFO ] 2024-07-29 22:49:51.902 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 22:49:51.920 [main] Log - ChromeDriver: chrome on mac (80f559707336f8f56612c113917739c4)
+[INFO ] 2024-07-29 22:49:51.962 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 22:49:52.019 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 22:49:52.033 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:49:52.359 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 22:49:52.372 [main] Log - Navigation to URL
+[INFO ] 2024-07-29 22:49:56.355 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 22:49:56.363 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 22:49:56.363 [main] Log - Navigated to Url : https://stg.trailhead.salesforce.com/
+[INFO ] 2024-07-29 22:49:56.367 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 22:49:56.392 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 22:49:56.393 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 22:49:57.048 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 22:49:57.048 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:50:01.187 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2024-07-29 22:50:01.769 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:50:27.351 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 22:50:28.257 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2024-07-29 22:50:28.257 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:50:31.056 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 22:50:31.057 [main] Log - Go to Sandbox Login URL
+[INFO ] 2024-07-29 22:50:31.292 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 22:50:31.292 [main] Log - Enter Sandbox Username
+[INFO ] 2024-07-29 22:50:31.773 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:50:32.135 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 22:50:32.135 [main] Log - Enter Sandbox Password
+[INFO ] 2024-07-29 22:50:32.900 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:55:09.357 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 22:55:09.410 [main] Log - Execution Started
+[INFO ] 2024-07-29 22:55:09.428 [main] Log - Open the Browser
+[INFO ] 2024-07-29 22:55:12.055 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 22:55:12.065 [main] Log - ChromeDriver: chrome on mac (a080953a9258aed5638c269642f44b5d)
+[INFO ] 2024-07-29 22:55:12.095 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 22:55:12.169 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 22:55:12.180 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:55:12.515 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 22:55:12.524 [main] Log - Navigation to URL
+[INFO ] 2024-07-29 22:55:16.752 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 22:55:16.758 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 22:55:16.758 [main] Log - Navigated to Url : https://stg.trailhead.salesforce.com/
+[INFO ] 2024-07-29 22:55:16.763 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 22:55:16.775 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 22:55:16.776 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 22:55:17.435 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 22:55:17.435 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:55:21.583 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2024-07-29 22:55:22.198 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:55:45.175 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 22:55:46.111 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2024-07-29 22:55:46.112 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:55:48.768 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 22:55:48.768 [main] Log - Go to Sandbox Login URL
+[INFO ] 2024-07-29 22:55:49.038 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 22:55:49.038 [main] Log - Enter Sandbox Username
+[INFO ] 2024-07-29 22:55:49.500 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:55:49.728 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 22:55:49.728 [main] Log - Enter Sandbox Password
+[INFO ] 2024-07-29 22:55:50.513 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:58:51.374 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 22:58:51.427 [main] Log - Execution Started
+[INFO ] 2024-07-29 22:58:51.446 [main] Log - Open the Browser
+[INFO ] 2024-07-29 22:58:53.953 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 22:58:53.982 [main] Log - ChromeDriver: chrome on mac (b34d1beab9dd91ea33a803cc521e4255)
+[INFO ] 2024-07-29 22:58:54.027 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 22:58:54.090 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 22:58:54.095 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:58:54.424 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 22:58:54.431 [main] Log - Navigation to URL
+[INFO ] 2024-07-29 22:58:58.276 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 22:58:58.281 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 22:58:58.282 [main] Log - Navigated to Url : https://stg.trailhead.salesforce.com/
+[INFO ] 2024-07-29 22:58:58.287 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 22:58:58.303 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 22:58:58.305 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2024-07-29 22:58:58.911 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 22:58:58.911 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 22:59:03.055 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2024-07-29 22:59:03.659 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:59:13.608 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2024-07-29 22:59:13.985 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:59:13.995 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522state%2522%253A%2522NkFaQ1JIaGl2MGl0M0lSMHBZRkhiOVUrV0pTcGVaMkRGNmU2cm4yM1NnMDRybStqZitoNmdoRlkrQUpXTjYrTQ%2522%252C%2522appId%2522%253A209385490%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1722274150193%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522state%2522%253A%2522NkFaQ1JIaGl2MGl0M0lSMHBZRkhiOVUrV0pTcGVaMkRGNmU2cm4yM1NnMDRybStqZitoNmdoRlkrQUpXTjYrTQ%2522%252C%2522appId%2522%253A209385490%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1722274150193%257D
+[INFO ] 2024-07-29 22:59:16.000 [main] Log - Enter email address.
+[INFO ] 2024-07-29 22:59:16.177 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 22:59:16.541 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:59:16.799 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 22:59:16.799 [main] Log - Enter password.
+[INFO ] 2024-07-29 22:59:17.195 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 22:59:20.853 [main] Log - Element clicked
+[INFO ] 2024-07-29 22:59:20.853 [main] Log - click on login button.
+[INFO ] 2024-07-29 22:59:21.254 [main] Log - Browser refreshed
+[WARN ] 2024-07-29 22:59:35.307 [main] Log - WebElement Not found
+[INFO ] 2024-07-29 22:59:35.318 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2024-07-29 22:59:35.351 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2024-07-29 22:59:35.351 [main] Log - This message is from my own project
+[ERROR] 2024-07-29 22:59:35.754 [main] Log - Can not open new tab
+[INFO ] 2024-07-29 22:59:35.759 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2024-07-29 22:59:35.774 [main] Log - Execution Finished
+[INFO ] 2024-07-29 22:59:36.046 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-07-29 22:59:36.048 [main] Log - Execution Started
+[INFO ] 2024-07-29 22:59:36.051 [main] Log - Suite FinishedSuite
+[INFO ] 2024-07-29 23:00:06.133 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:00:06.188 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:00:06.205 [main] Log - Open the Browser
+[INFO ] 2024-07-29 23:00:08.616 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 23:00:08.632 [main] Log - ChromeDriver: chrome on mac (8befb1c439719a1a98df994b75b76cef)
+[INFO ] 2024-07-29 23:00:08.676 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:00:08.732 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:00:08.747 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:00:09.066 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 23:00:12.922 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:00:12.928 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 23:00:12.933 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 23:00:12.953 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 23:00:23.560 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:00:31.288 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:00:35.276 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:00:55.384 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:00:56.289 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-29 23:00:56.289 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:01:32.768 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:01:32.821 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:01:32.839 [main] Log - Open the Browser
+[INFO ] 2024-07-29 23:01:35.273 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 23:01:35.284 [main] Log - ChromeDriver: chrome on mac (38164b9ad812fe1298fec828c53de0f4)
+[INFO ] 2024-07-29 23:01:35.330 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:01:35.378 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:01:35.397 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:01:35.730 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 23:01:40.952 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:01:40.956 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 23:01:40.961 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 23:01:40.973 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 23:01:51.627 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:01:58.831 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:02:02.833 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:02:22.895 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:02:23.855 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-29 23:02:23.855 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:05:41.478 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:05:41.533 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:05:41.552 [main] Log - Open the Browser
+[INFO ] 2024-07-29 23:05:44.191 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 23:05:44.196 [main] Log - ChromeDriver: chrome on mac (d06d78b916c3b44476dfd5e0848092b6)
+[INFO ] 2024-07-29 23:05:44.231 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:05:44.278 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:05:44.291 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:05:44.616 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 23:05:49.408 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:05:49.414 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 23:05:49.422 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 23:05:49.438 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 23:06:00.048 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:07.005 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:11.006 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:20.329 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:24.364 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:28.409 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:36.503 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:50.781 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:06:55.739 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:07:23.391 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:07:24.293 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-29 23:07:24.294 [main] Log - This message is from my own project
+[WARN ] 2024-07-29 23:08:14.394 [main] Log - WebElement Not found
+[INFO ] 2024-07-29 23:08:14.396 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-29 23:08:15.241 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2024-07-29 23:08:15.241 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:08:18.443 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:08:18.444 [main] Log - Go to Sandbox Login URL
+[INFO ] 2024-07-29 23:08:18.605 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 23:08:18.606 [main] Log - Enter Sandbox Username
+[INFO ] 2024-07-29 23:08:19.152 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:08:19.339 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 23:08:19.339 [main] Log - Enter Sandbox Password
+[INFO ] 2024-07-29 23:08:20.094 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:08:27.136 [main] Log - Element clicked
+[INFO ] 2024-07-29 23:08:27.137 [main] Log - Click on Login
+[INFO ] 2024-07-29 23:08:27.552 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:08:42.989 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 23:08:46.424 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:09:09.473 [main] Log - Implicit wait completed for : 10
+[ERROR] 2024-07-29 23:09:09.477 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2024-07-29 23:09:09.522 [main] Log - Element clicked
+[INFO ] 2024-07-29 23:09:11.001 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-07-29 23:09:15.062 [main] Log - Element clicked
+[INFO ] 2024-07-29 23:09:15.499 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2024-07-29 23:09:30.942 [main] Log - WebElement Not found
+[ERROR] 2024-07-29 23:09:30.942 [main] Log - Element is not clickable
+[INFO ] 2024-07-29 23:09:34.355 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:09:34.356 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2024-07-29 23:09:34.722 [main] Log - Execution Finished
+[INFO ] 2024-07-29 23:09:35.056 [main] Log - Driver Closed
+[INFO ] 2024-07-29 23:09:35.057 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2024-07-29 23:09:35.062 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:09:35.064 [main] Log - Suite FinishedSuite
+[INFO ] 2024-07-29 23:37:25.176 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:37:25.230 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:37:25.249 [main] Log - Open the Browser
+[INFO ] 2024-07-29 23:37:27.766 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 23:37:27.769 [main] Log - ChromeDriver: chrome on mac (2bd232c509b7a3bd9b8dda3e20fb9d71)
+[INFO ] 2024-07-29 23:37:27.823 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:37:27.892 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:37:27.900 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:37:28.233 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 23:37:31.675 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:37:31.681 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 23:37:31.686 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 23:37:31.698 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 23:37:42.297 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:37:49.767 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:37:53.754 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:38:13.829 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:38:14.938 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-29 23:38:14.938 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:38:34.931 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:38:34.986 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:38:35.004 [main] Log - Open the Browser
+[INFO ] 2024-07-29 23:38:37.510 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 23:38:37.513 [main] Log - ChromeDriver: chrome on mac (6113b0e20b9e256a13af22cfe4967107)
+[INFO ] 2024-07-29 23:38:37.544 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:38:37.599 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:38:37.610 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:38:37.938 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 23:38:41.715 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:38:41.720 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 23:38:41.726 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 23:38:41.742 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 23:38:52.367 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:38:59.107 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:39:03.111 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:39:15.657 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:39:19.781 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:39:23.892 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:39:31.986 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:39:45.566 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:39:50.556 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:40:20.179 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:40:21.174 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-29 23:40:21.174 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:52:13.235 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:52:13.297 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:52:13.316 [main] Log - Open the Browser
+[INFO ] 2024-07-29 23:52:16.133 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 23:52:16.160 [main] Log - ChromeDriver: chrome on mac (9578b8b2bfb65df2f1b63543d9057e78)
+[INFO ] 2024-07-29 23:52:16.203 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:52:16.269 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:52:16.275 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:52:16.598 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 23:52:20.944 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:52:20.950 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 23:52:20.956 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 23:52:20.975 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 23:52:31.595 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:52:38.873 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:52:42.878 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:52:56.143 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:00.193 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:04.253 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:12.337 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:25.925 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:30.900 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:41.832 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:42.802 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:53:43.717 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:54:09.755 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:54:10.735 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2024-07-29 23:54:10.736 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:57:59.532 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:57:59.585 [main] Log - Execution Started
+[INFO ] 2024-07-29 23:57:59.603 [main] Log - Open the Browser
+[INFO ] 2024-07-29 23:58:02.143 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-07-29 23:58:02.159 [main] Log - ChromeDriver: chrome on mac (d0e1cd0cfd1b28e84cf95e820abf903b)
+[INFO ] 2024-07-29 23:58:02.208 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-07-29 23:58:02.268 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2024-07-29 23:58:02.275 [main] Log - This message is from my own project
+[INFO ] 2024-07-29 23:58:02.602 [main] Log - Browser window maximised
+[INFO ] 2024-07-29 23:58:06.936 [main] Log - Navigated to URL
+[INFO ] 2024-07-29 23:58:06.941 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-07-29 23:58:06.946 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-07-29 23:58:06.958 [main] Log - All Browser cookies deleted
+[INFO ] 2024-07-29 23:58:17.562 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:58:27.382 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:58:31.376 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:58:50.727 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:58:54.797 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:58:58.850 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:59:06.937 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:59:20.346 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-07-29 23:59:25.352 [main] Log - Screenshot Taken and attached to report

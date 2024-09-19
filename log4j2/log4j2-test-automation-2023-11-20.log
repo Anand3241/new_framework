@@ -1,0 +1,154 @@
+[INFO ] 2023-11-20 18:45:20.667 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:45:20.727 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:45:20.740 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:45:20.756 [main] Log - Execution Started
+[INFO ] 2023-11-20 18:45:20.808 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:45:20.847 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-11-20 18:45:20.847 [main] Log - This message is from my own project
+[INFO ] 2023-11-20 18:45:20.847 [main] Log - Open the Browser
+[INFO ] 2023-11-20 18:45:23.942 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-11-20 18:45:23.950 [main] Log - ChromeDriver: chrome on mac (87fa345e03cea12066fabb2cbc187719)
+[INFO ] 2023-11-20 18:45:24.384 [main] Log - Browser window maximised
+[INFO ] 2023-11-20 18:45:24.385 [main] Log - Navigation to URL
+[INFO ] 2023-11-20 18:45:39.454 [main] Log - Navigated to URL
+[INFO ] 2023-11-20 18:45:39.460 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-11-20 18:45:39.461 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-11-20 18:45:39.464 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-11-20 18:45:40.221 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:45:56.079 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:46:00.384 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:46:03.121 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:46:07.562 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:46:11.992 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:46:13.511 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:46:28.779 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:46:34.081 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:49:11.962 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:49:12.016 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:49:12.029 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:49:12.043 [main] Log - Execution Started
+[INFO ] 2023-11-20 18:49:12.086 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:49:12.128 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-11-20 18:49:12.128 [main] Log - This message is from my own project
+[INFO ] 2023-11-20 18:49:12.128 [main] Log - Open the Browser
+[INFO ] 2023-11-20 18:49:14.650 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-11-20 18:49:14.657 [main] Log - ChromeDriver: chrome on mac (59efc2623acad9c390f775ed7629116f)
+[INFO ] 2023-11-20 18:49:15.105 [main] Log - Browser window maximised
+[INFO ] 2023-11-20 18:49:15.105 [main] Log - Navigation to URL
+[INFO ] 2023-11-20 18:49:35.256 [main] Log - Navigated to URL
+[INFO ] 2023-11-20 18:49:35.262 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-11-20 18:49:35.262 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-11-20 18:49:35.266 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-11-20 18:49:36.126 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:49:52.965 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:49:57.302 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:49:59.846 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:50:04.259 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:50:08.690 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:50:10.378 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:50:24.310 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:50:29.670 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:01.528 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:02.824 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:04.187 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:11.562 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:16.908 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:22.174 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:31.453 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:48.525 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-11-20 18:51:49.059 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:51:54.086 [main] Log - All Browser cookies deleted
+[INFO ] 2023-11-20 18:51:54.297 [main] Log - Open the Browser
+[INFO ] 2023-11-20 18:51:55.865 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-11-20 18:51:55.885 [main] Log - ChromeDriver: chrome on mac (ca33cf4ea354ce3d8f63075d3dbeeef2)
+[INFO ] 2023-11-20 18:51:56.301 [main] Log - Browser window maximised
+[INFO ] 2023-11-20 18:51:56.301 [main] Log - Navigation to URL
+[INFO ] 2023-11-20 18:52:12.956 [main] Log - Navigated to URL
+[INFO ] 2023-11-20 18:52:12.959 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-11-20 18:52:12.960 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-11-20 18:52:12.962 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-11-20 18:52:13.708 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:52:30.616 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:52:34.940 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:52:37.004 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:52:41.397 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:52:45.796 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:52:47.393 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:53:00.955 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:53:06.294 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:53:40.027 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:53:41.307 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:53:42.659 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:53:49.964 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:53:55.307 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:54:00.620 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:54:09.941 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:54:24.388 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-11-20 18:54:25.103 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:54:30.130 [main] Log - All Browser cookies deleted
+[INFO ] 2023-11-20 18:54:30.402 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-11-20 18:54:30.695 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-11-20 18:54:30.695 [main] Log - This message is from my own project
+[INFO ] 2023-11-20 18:54:30.695 [main] Log - Open the Browser
+[INFO ] 2023-11-20 18:54:32.171 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-11-20 18:54:32.189 [main] Log - ChromeDriver: chrome on mac (4a276e0a41202efca55f9aba9288b9da)
+[INFO ] 2023-11-20 18:54:32.614 [main] Log - Browser window maximised
+[INFO ] 2023-11-20 18:54:32.615 [main] Log - Navigation to URL
+[INFO ] 2023-11-20 18:54:45.895 [main] Log - Navigated to URL
+[INFO ] 2023-11-20 18:54:45.898 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-11-20 18:54:45.898 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-11-20 18:54:45.900 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-11-20 18:54:48.822 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:54:59.680 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:55:03.979 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:55:11.969 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:55:16.499 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:55:50.773 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:55:56.416 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:56:02.096 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:56:02.747 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:56:19.909 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:56:25.542 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:56:34.769 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-11-20 18:56:35.306 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-11-20 18:56:35.306 [main] Log - This message is from my own project
+[INFO ] 2023-11-20 18:56:35.306 [main] Log - Open the Browser
+[INFO ] 2023-11-20 18:56:36.871 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-11-20 18:56:36.891 [main] Log - ChromeDriver: chrome on mac (59e044f06049bb7e9bc72ba6670d93cd)
+[ERROR] 2023-11-20 18:56:37.501 [main] Log - Can not open new tab
+[INFO ] 2023-11-20 18:56:43.032 [main] Log - Navigated to URL
+[INFO ] 2023-11-20 18:56:43.032 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-11-20 18:56:43.195 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-11-20 18:56:43.195 [main] Log - Enter Sandbox Username
+[INFO ] 2023-11-20 18:56:43.747 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:56:43.835 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-11-20 18:56:43.835 [main] Log - Enter Sandbox Password
+[INFO ] 2023-11-20 18:56:44.239 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:56:57.918 [main] Log - Element clicked
+[INFO ] 2023-11-20 18:56:57.918 [main] Log - Click on Login
+[INFO ] 2023-11-20 18:56:58.355 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:57:13.398 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-11-20 18:57:14.088 [main] Log - Execution Finished
+[INFO ] 2023-11-20 18:57:14.685 [main] Log - Suite FinishedContact Merge Functionality 
+[INFO ] 2023-11-20 18:57:14.686 [main] Log - Execution Started
+[INFO ] 2023-11-20 18:57:14.688 [main] Log - Open the Browser
+[INFO ] 2023-11-20 18:57:16.573 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-11-20 18:57:16.595 [main] Log - ChromeDriver: chrome on mac (0cc4eea06f8e1c9e77fd07122bdf472e)
+[INFO ] 2023-11-20 18:57:16.622 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-11-20 18:57:16.637 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-11-20 18:57:16.651 [main] Log - This message is from my own project
+[INFO ] 2023-11-20 18:57:17.160 [main] Log - Browser window maximised
+[INFO ] 2023-11-20 18:57:52.064 [main] Log - Navigated to URL
+[INFO ] 2023-11-20 18:57:52.066 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-11-20 18:57:52.068 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-11-20 18:57:52.081 [main] Log - All Browser cookies deleted
+[INFO ] 2023-11-20 18:58:02.815 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:58:15.555 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:58:19.871 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:58:22.446 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:58:27.077 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:58:31.551 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:58:33.225 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-11-20 18:59:04.655 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-11-20 18:59:06.361 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-11-20 18:59:06.361 [main] Log - This message is from my own project

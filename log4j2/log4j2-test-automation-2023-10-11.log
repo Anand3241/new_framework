@@ -1,0 +1,496 @@
+[INFO ] 2023-10-11 12:55:22.889 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 12:55:22.954 [main] Log - Execution Started
+[INFO ] 2023-10-11 12:55:22.975 [main] Log - Open the Browser
+[INFO ] 2023-10-11 12:55:25.204 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 12:55:25.204 [main] Log - SafariDriver: Safari on mac (AFCFCA19-B856-4E2E-ABE5-AECA457774DF)
+[INFO ] 2023-10-11 12:55:25.237 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 12:55:25.276 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 12:55:25.277 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 12:55:25.323 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 12:55:25.323 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 12:55:33.058 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 12:55:33.074 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 12:55:33.074 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 12:55:33.083 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 12:55:33.425 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 12:56:02.118 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 12:56:02.120 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 12:56:02.179 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 12:56:02.179 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 12:56:11.054 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 12:56:11.054 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 13:02:21.181 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 13:05:46.263 [main] Log - Execution Finished
+[INFO ] 2023-10-11 13:05:46.519 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 13:05:46.521 [main] Log - Execution Started
+[INFO ] 2023-10-11 13:05:46.523 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 13:53:54.920 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 13:53:54.970 [main] Log - Execution Started
+[INFO ] 2023-10-11 13:53:54.989 [main] Log - Open the Browser
+[INFO ] 2023-10-11 13:53:56.971 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 13:53:56.971 [main] Log - SafariDriver: Safari on mac (40C31E86-735C-4CAE-A7D5-FE2A57AE98EC)
+[INFO ] 2023-10-11 13:53:57.010 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 13:53:57.051 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 13:53:57.051 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 13:53:57.082 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 13:53:57.082 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 13:54:01.033 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 13:54:01.044 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 13:54:01.045 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 13:54:01.052 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 13:54:01.422 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 13:54:30.091 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 13:54:30.100 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 13:54:30.151 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 13:54:30.151 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 13:54:35.488 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 13:54:35.488 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 13:56:27.922 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 13:56:27.973 [main] Log - Execution Started
+[INFO ] 2023-10-11 13:56:27.994 [main] Log - Open the Browser
+[INFO ] 2023-10-11 13:56:30.037 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 13:56:30.037 [main] Log - SafariDriver: Safari on mac (E837CEF6-3718-4AAD-883A-EE00C093142D)
+[INFO ] 2023-10-11 13:56:30.076 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 13:56:30.121 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 13:56:30.121 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 13:56:30.174 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 13:56:30.174 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 13:56:33.830 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 13:56:33.839 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 13:56:33.840 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 13:56:33.849 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 13:56:34.366 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 13:56:52.956 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 13:56:53.020 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 13:56:53.020 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 13:56:53.026 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 13:56:53.118 [main] Log - Execution Finished
+[INFO ] 2023-10-11 13:56:53.340 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 13:56:53.343 [main] Log - Execution Started
+[INFO ] 2023-10-11 13:56:53.345 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 14:27:35.651 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:27:35.700 [main] Log - Execution Started
+[INFO ] 2023-10-11 14:27:35.721 [main] Log - Open the Browser
+[INFO ] 2023-10-11 14:27:37.701 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 14:27:37.701 [main] Log - SafariDriver: Safari on mac (331F9961-2612-4E7B-B82D-DB7A53B46AF2)
+[INFO ] 2023-10-11 14:27:37.731 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:27:37.761 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:27:37.761 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:27:37.798 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 14:27:37.798 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 14:27:43.067 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:27:43.075 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 14:27:43.076 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 14:27:43.082 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 14:27:43.510 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:28:11.673 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 14:28:11.681 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:28:12.018 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 14:28:12.018 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:28:16.690 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:28:16.691 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 14:28:16.917 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 14:28:16.917 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 14:28:17.589 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:28:17.686 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 14:28:17.686 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 14:28:18.150 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:28:18.212 [main] Log - Element clicked
+[INFO ] 2023-10-11 14:28:18.212 [main] Log - Click on Login
+[INFO ] 2023-10-11 14:28:19.708 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:28:35.501 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:28:35.552 [main] Log - Execution Started
+[INFO ] 2023-10-11 14:28:35.571 [main] Log - Open the Browser
+[INFO ] 2023-10-11 14:28:37.569 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 14:28:37.569 [main] Log - SafariDriver: Safari on mac (50374D02-15F6-470D-9165-74C5BD2D4AA3)
+[INFO ] 2023-10-11 14:28:37.602 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:28:37.645 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:28:37.645 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:28:37.688 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 14:28:37.689 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 14:28:42.374 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:28:42.388 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 14:28:42.388 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 14:28:42.395 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 14:28:42.931 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:29:11.069 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 14:29:11.071 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:29:11.436 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 14:29:11.437 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:29:15.650 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:29:15.651 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 14:29:15.890 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 14:29:15.890 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 14:29:16.406 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:29:16.541 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 14:29:16.541 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 14:29:17.035 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:29:17.108 [main] Log - Element clicked
+[INFO ] 2023-10-11 14:29:17.108 [main] Log - Click on Login
+[INFO ] 2023-10-11 14:29:19.357 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:29:40.698 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 14:29:43.978 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:29:52.425 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:29:53.493 [main] Log - Browser refreshed
+[INFO ] 2023-10-11 14:29:58.569 [main] Log - Element clicked
+[WARN ] 2023-10-11 14:30:03.600 [main] Log - WebElement Not found
+[ERROR] 2023-10-11 14:30:03.602 [main] Log - Element is not clickable
+[INFO ] 2023-10-11 14:30:03.614 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 14:30:03.759 [main] Log - Execution Finished
+[INFO ] 2023-10-11 14:30:04.054 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 14:30:04.056 [main] Log - Execution Started
+[INFO ] 2023-10-11 14:30:04.057 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 14:30:18.642 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:30:18.692 [main] Log - Execution Started
+[INFO ] 2023-10-11 14:30:18.714 [main] Log - Open the Browser
+[INFO ] 2023-10-11 14:30:20.622 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 14:30:20.623 [main] Log - SafariDriver: Safari on mac (0D644E0E-DAA7-43EB-A258-9330C8AA18BA)
+[INFO ] 2023-10-11 14:30:20.656 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:30:20.692 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:30:20.693 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:30:20.747 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 14:30:20.747 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 14:30:27.514 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:30:27.524 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 14:30:27.524 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 14:30:27.550 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 14:30:28.023 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:30:56.766 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 14:30:56.769 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:30:56.856 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 14:30:56.856 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:31:00.868 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:31:00.868 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 14:59:01.137 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:59:01.185 [main] Log - Execution Started
+[INFO ] 2023-10-11 14:59:01.202 [main] Log - Open the Browser
+[INFO ] 2023-10-11 14:59:02.854 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 14:59:02.855 [main] Log - SafariDriver: Safari on mac (EE138137-E612-45A2-87C5-A0E7E8658F53)
+[INFO ] 2023-10-11 14:59:02.883 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 14:59:02.917 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:59:02.917 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:59:02.951 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 14:59:02.951 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 14:59:14.635 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:59:14.648 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 14:59:14.649 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 14:59:14.656 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 14:59:15.377 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 14:59:53.053 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 14:59:53.061 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 14:59:53.111 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 14:59:53.111 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 14:59:59.010 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 14:59:59.010 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:04:49.674 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:04:49.726 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:04:49.742 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:04:51.362 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:04:51.398 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:04:51.399 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:04:51.405 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:04:51.475 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:04:51.475 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:04:51.476 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:04:51.490 [main] Log - Execution Finished
+[INFO ] 2023-10-11 15:04:51.763 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 15:04:51.765 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:04:51.767 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 15:06:09.110 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:06:09.219 [main] Log - Execution Finished
+[INFO ] 2023-10-11 15:06:09.433 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 15:06:09.435 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:06:09.437 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 15:07:14.180 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:07:14.230 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:07:14.251 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:07:19.577 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-11 15:07:19.578 [main] Log - FirefoxDriver: firefox on mac (dd9c04b9-00af-4d89-98dc-5ceff3696d98)
+[INFO ] 2023-10-11 15:07:19.606 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:07:19.648 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:07:19.648 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:07:20.124 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:07:20.124 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:07:23.842 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:07:23.851 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:07:23.852 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:07:23.859 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:07:24.563 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:07:51.889 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:07:51.891 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:07:52.385 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:07:52.386 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:07:56.621 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:07:56.622 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:08:26.675 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:08:28.205 [main] Log - All browsers closed
+[INFO ] 2023-10-11 15:08:28.206 [main] Log - Execution Finished
+[INFO ] 2023-10-11 15:08:28.440 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 15:08:28.442 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:08:28.443 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 15:08:38.376 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:08:38.430 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:08:38.452 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:08:41.048 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-11 15:08:41.079 [main] Log - ChromeDriver: chrome on mac (095e09ad6119e9991a3d91c940aa38df)
+[INFO ] 2023-10-11 15:08:41.134 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:08:41.170 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:08:41.176 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:08:41.594 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:08:41.594 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:08:44.828 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:08:44.833 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:08:44.833 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:08:44.836 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:08:45.646 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:09:03.899 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:09:08.257 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:09:28.761 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:09:28.763 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:09:30.063 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:09:30.063 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:09:34.335 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:09:34.335 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:09:34.443 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:09:34.444 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 15:09:34.969 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:09:35.060 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:09:35.060 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 15:09:35.787 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:09:35.889 [main] Log - Element clicked
+[INFO ] 2023-10-11 15:09:35.889 [main] Log - Click on Login
+[INFO ] 2023-10-11 15:10:53.735 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:10:53.786 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:10:53.804 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:10:57.276 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-11 15:10:57.277 [main] Log - FirefoxDriver: firefox on mac (38df4055-fbe5-4df3-9fc7-a2c99d7cbf38)
+[INFO ] 2023-10-11 15:10:57.312 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:10:57.365 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:10:57.365 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:10:57.845 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:10:57.846 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:11:01.541 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:11:01.550 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:11:01.551 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:11:01.556 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:11:02.230 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:11:10.668 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:11:14.266 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:11:35.337 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:11:35.339 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:11:35.953 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:11:35.954 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:11:39.713 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:11:39.714 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:11:39.948 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:11:39.948 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 15:11:40.106 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:11:40.330 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:11:40.330 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 15:11:40.512 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:11:40.560 [main] Log - Element clicked
+[INFO ] 2023-10-11 15:11:40.561 [main] Log - Click on Login
+[INFO ] 2023-10-11 15:11:40.739 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:12:03.785 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:12:03.833 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:12:03.850 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:12:05.832 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 15:12:05.832 [main] Log - SafariDriver: Safari on mac (EB09F572-99A6-4C56-B41E-0DBC772FC42F)
+[INFO ] 2023-10-11 15:12:05.869 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:12:05.903 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:12:05.904 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:12:05.935 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:12:05.935 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:12:11.605 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:12:11.620 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:12:11.620 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:12:11.627 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:12:12.084 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:21:46.076 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:21:46.129 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:21:46.151 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:21:47.850 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 15:21:47.851 [main] Log - SafariDriver: Safari on mac (5A54BF51-F5D2-4CCA-80DB-9495F4779A7C)
+[INFO ] 2023-10-11 15:21:47.876 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:21:47.912 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:21:47.913 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:21:47.947 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:21:47.948 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:21:57.668 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:21:57.680 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:21:57.680 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:21:57.695 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:21:58.064 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-11 15:22:05.191 [main] Log - Can not find tab index
+[INFO ] 2023-10-11 15:22:25.726 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:22:25.728 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:22:25.786 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:22:25.786 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:22:31.050 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:22:31.050 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:23:39.092 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:23:39.143 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:23:39.162 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:23:40.233 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:23:40.262 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:23:40.262 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:23:40.266 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:23:40.325 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:23:40.325 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:23:40.326 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:23:40.339 [main] Log - Execution Finished
+[INFO ] 2023-10-11 15:23:40.570 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 15:23:40.573 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:23:40.574 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 15:24:13.303 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:24:13.353 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:24:13.373 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:24:15.269 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 15:24:15.270 [main] Log - SafariDriver: Safari on mac (6C1B41EA-8720-4CB4-A662-6C2E43AC629F)
+[INFO ] 2023-10-11 15:24:15.305 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:24:15.341 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:24:15.341 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:24:15.381 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:24:15.381 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:24:24.899 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:24:24.908 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:24:24.908 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:24:24.916 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:24:25.245 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:24:52.930 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:24:52.937 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:24:53.010 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:24:53.011 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:27:41.304 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:27:41.355 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:27:41.374 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:27:45.159 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-11 15:27:45.160 [main] Log - FirefoxDriver: firefox on mac (2b693050-7aad-45f8-8ba5-3bda0fc24063)
+[INFO ] 2023-10-11 15:27:45.199 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:27:45.259 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:27:45.260 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:27:45.733 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:27:45.733 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:28:09.958 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:28:09.965 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:28:09.965 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:28:09.970 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:28:10.445 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:28:37.785 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:28:37.786 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:28:38.268 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:28:38.268 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:28:42.953 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:28:42.954 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:28:43.214 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:28:43.214 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 15:28:43.378 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:28:43.609 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:28:43.609 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 15:28:43.784 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:28:43.859 [main] Log - Element clicked
+[INFO ] 2023-10-11 15:28:43.860 [main] Log - Click on Login
+[INFO ] 2023-10-11 15:28:44.018 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:30:37.852 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:30:37.903 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:30:37.922 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:30:41.381 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-11 15:30:41.382 [main] Log - FirefoxDriver: firefox on mac (d19aa745-810d-42ea-ab05-bf80b74dc9f6)
+[INFO ] 2023-10-11 15:30:41.418 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:30:41.460 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:30:41.460 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:30:41.961 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:30:41.961 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:30:54.178 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:30:54.183 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:30:54.184 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:30:54.190 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:30:54.712 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:31:02.396 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:31:06.033 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:31:27.242 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:31:27.243 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:31:27.887 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:31:27.888 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:31:32.078 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:31:32.079 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:31:32.332 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:31:32.332 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 15:31:32.490 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:31:32.730 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:31:32.730 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 15:31:32.878 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:31:32.917 [main] Log - Element clicked
+[INFO ] 2023-10-11 15:31:32.917 [main] Log - Click on Login
+[INFO ] 2023-10-11 15:31:33.089 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:07.092 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:32:07.139 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:32:07.157 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:32:10.835 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-11 15:32:10.835 [main] Log - FirefoxDriver: firefox on mac (084f5fdf-add2-468c-a3b0-668db7bb3034)
+[INFO ] 2023-10-11 15:32:10.873 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:32:10.911 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:32:10.911 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:32:11.378 [main] Log - Browser window maximised
+[INFO ] 2023-10-11 15:32:11.379 [main] Log - Navigation to URL
+[INFO ] 2023-10-11 15:32:15.903 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:32:15.912 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-11 15:32:15.913 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-11 15:32:15.921 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-11 15:32:16.677 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:24.727 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:28.333 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:30.757 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:31.570 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:41.217 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:45.849 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:53.217 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-11 15:32:53.219 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.navigateToUrl
+[INFO ] 2023-10-11 15:32:53.404 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:32:53.404 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:32:57.109 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:32:57.110 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:32:57.348 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:32:57.348 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 15:32:57.516 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:58.252 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:32:58.252 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 15:32:58.557 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:32:58.607 [main] Log - Element clicked
+[INFO ] 2023-10-11 15:32:58.608 [main] Log - Click on Login
+[INFO ] 2023-10-11 15:32:58.903 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-11 15:33:38.956 [main] Log - WebElement Not found
+[INFO ] 2023-10-11 15:33:38.957 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:33:40.877 [main] Log - All browsers closed
+[INFO ] 2023-10-11 15:33:40.878 [main] Log - Execution Finished
+[INFO ] 2023-10-11 15:33:41.152 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 15:33:41.154 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:33:41.155 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-11 15:39:57.357 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:39:57.421 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:39:57.446 [main] Log - Open the Browser
+[INFO ] 2023-10-11 15:40:19.225 [main] Log - Browser Opened : safari with headless mode : false
+[INFO ] 2023-10-11 15:40:19.225 [main] Log - SafariDriver: Safari on mac (CB725C1B-BE8C-4D75-8C3A-3DF6D0AF80EE)
+[INFO ] 2023-10-11 15:40:19.311 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-11 15:40:19.323 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:40:19.324 [main] Log - This message is from my own project
+[INFO ] 2023-10-11 15:40:24.575 [main] Log - Navigated to URL
+[INFO ] 2023-10-11 15:40:24.575 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-11 15:40:24.845 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:40:24.845 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-11 15:40:24.952 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:40:25.081 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:40:25.081 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-11 15:40:25.173 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:40:25.232 [main] Log - Element clicked
+[INFO ] 2023-10-11 15:40:25.232 [main] Log - Click on Login
+[INFO ] 2023-10-11 15:40:27.833 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-11 15:40:48.750 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-11 15:40:51.920 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-11 15:41:00.077 [main] Log - WebElement Not found
+[INFO ] 2023-10-11 15:41:00.080 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Safari_Sign_up_DRM_verification.drm_verification
+[INFO ] 2023-10-11 15:41:00.488 [main] Log - All browsers closed
+[INFO ] 2023-10-11 15:41:00.491 [main] Log - Execution Finished
+[INFO ] 2023-10-11 15:41:00.730 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-11 15:41:00.731 [main] Log - Execution Started
+[INFO ] 2023-10-11 15:41:00.732 [main] Log - Suite FinishedSuite

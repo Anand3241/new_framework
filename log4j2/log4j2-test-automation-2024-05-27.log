@@ -1,0 +1,682 @@
+[INFO ] 2024-05-27 11:53:31.320 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 11:53:31.395 [main] Log - Execution Started
+[INFO ] 2024-05-27 11:53:31.422 [main] Log - Open the Browser
+[INFO ] 2024-05-27 11:53:37.819 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 11:53:37.829 [main] Log - ChromeDriver: chrome on mac (a4355adab2841dab5bda6572bfc08c20)
+[INFO ] 2024-05-27 11:53:37.877 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 11:53:37.951 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 11:53:37.963 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 11:53:38.290 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 11:53:38.290 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 11:53:40.739 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 11:53:40.744 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 11:53:40.744 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 11:53:40.747 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 11:53:40.764 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 11:53:43.766 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 11:53:44.444 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 11:53:44.444 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 11:53:45.601 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 11:53:46.282 [main] Log - Execution Finished
+[INFO ] 2024-05-27 11:53:46.573 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 11:53:46.576 [main] Log - Execution Started
+[INFO ] 2024-05-27 11:53:46.578 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 11:55:33.118 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 11:55:33.172 [main] Log - Execution Started
+[INFO ] 2024-05-27 11:55:33.191 [main] Log - Open the Browser
+[INFO ] 2024-05-27 11:55:35.440 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 11:55:35.452 [main] Log - ChromeDriver: chrome on mac (07e4d344bf42eada7261aca04619a472)
+[INFO ] 2024-05-27 11:55:35.481 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 11:55:35.539 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 11:55:35.549 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 11:55:35.884 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 11:55:35.896 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 11:55:38.561 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 11:55:38.566 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 11:55:38.566 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 11:55:38.571 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 11:55:38.584 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 11:55:49.961 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 11:55:50.851 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 11:55:50.852 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 11:55:50.983 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 11:55:51.726 [main] Log - Execution Finished
+[INFO ] 2024-05-27 11:55:51.993 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 11:55:51.995 [main] Log - Execution Started
+[INFO ] 2024-05-27 11:55:51.997 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 11:59:49.326 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 11:59:49.387 [main] Log - Execution Started
+[INFO ] 2024-05-27 11:59:49.407 [main] Log - Open the Browser
+[INFO ] 2024-05-27 11:59:52.192 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 11:59:52.209 [main] Log - ChromeDriver: chrome on mac (7cc3a8b42806587b27483706450d3b9e)
+[INFO ] 2024-05-27 11:59:52.237 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 11:59:52.305 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 11:59:52.305 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 11:59:52.637 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 11:59:52.650 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 11:59:55.685 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 11:59:55.696 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 11:59:55.709 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 11:59:55.718 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 11:59:55.759 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 12:00:07.557 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:00:08.329 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:00:08.329 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:00:08.481 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:00:09.153 [main] Log - Execution Finished
+[INFO ] 2024-05-27 12:00:09.504 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 12:00:09.506 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:00:09.508 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 12:00:38.468 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:00:38.555 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:00:38.580 [main] Log - Open the Browser
+[INFO ] 2024-05-27 12:00:41.723 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 12:00:41.736 [main] Log - ChromeDriver: chrome on mac (060768dbf5b92e5b1d43428c283fc002)
+[INFO ] 2024-05-27 12:00:41.785 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:00:41.880 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:00:41.889 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:00:42.241 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 12:00:42.241 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 12:00:48.622 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 12:00:48.629 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 12:00:48.630 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 12:00:48.635 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 12:00:48.666 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 12:00:51.669 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:00:52.734 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:00:52.734 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:00:57.494 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:01:01.005 [main] Log - Execution Finished
+[INFO ] 2024-05-27 12:01:11.388 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 12:01:11.394 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:01:11.409 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 12:04:38.690 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:04:38.744 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:04:38.764 [main] Log - Open the Browser
+[INFO ] 2024-05-27 12:04:41.238 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 12:04:41.242 [main] Log - ChromeDriver: chrome on mac (9ce52acfc2ef6afd2a5e42c0cf760332)
+[INFO ] 2024-05-27 12:04:41.287 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:04:41.344 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:04:41.359 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:04:41.686 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 12:04:41.696 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 12:04:49.827 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 12:04:49.831 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 12:04:49.832 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 12:04:49.835 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 12:04:49.845 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 12:04:52.855 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:04:53.590 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:04:53.607 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:04:57.845 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:04:58.725 [main] Log - Execution Finished
+[INFO ] 2024-05-27 12:04:59.140 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 12:04:59.142 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:04:59.144 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 12:19:55.958 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:19:56.014 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:19:56.032 [main] Log - Open the Browser
+[INFO ] 2024-05-27 12:19:58.404 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 12:19:58.420 [main] Log - ChromeDriver: chrome on mac (baa6570bd18f635b075f2d6de5bbf2ad)
+[INFO ] 2024-05-27 12:19:58.449 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:19:58.502 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:19:58.518 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:19:58.843 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 12:19:58.860 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 12:20:02.225 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 12:20:02.230 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 12:20:02.230 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 12:20:02.233 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 12:20:02.253 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 12:20:05.256 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:20:05.999 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:20:05.999 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:20:11.314 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:20:12.099 [main] Log - Execution Finished
+[INFO ] 2024-05-27 12:20:12.568 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 12:20:12.570 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:20:12.572 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 12:22:06.884 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:22:06.938 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:22:06.958 [main] Log - Open the Browser
+[INFO ] 2024-05-27 12:22:09.391 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 12:22:09.402 [main] Log - ChromeDriver: chrome on mac (fd6831badc8e070b583c65fe1ef6053a)
+[INFO ] 2024-05-27 12:22:09.426 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 12:22:09.503 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:22:09.517 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:22:09.846 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 12:22:09.847 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 12:22:13.152 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 12:22:13.157 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 12:22:13.158 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 12:22:13.161 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 12:22:13.174 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 12:22:16.181 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 12:22:16.926 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:22:16.926 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 12:22:22.191 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 12:22:22.916 [main] Log - Execution Finished
+[INFO ] 2024-05-27 12:22:23.344 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 12:22:23.346 [main] Log - Execution Started
+[INFO ] 2024-05-27 12:22:23.348 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 13:03:35.937 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:03:35.989 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:03:36.008 [main] Log - Open the Browser
+[INFO ] 2024-05-27 13:03:38.916 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 13:03:38.925 [main] Log - ChromeDriver: chrome on mac (4f0bdcc5667767a2630203af158f884c)
+[INFO ] 2024-05-27 13:03:38.951 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:03:39.007 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:03:39.020 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:03:39.344 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 13:03:39.356 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 13:03:42.331 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 13:03:42.334 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 13:03:42.335 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 13:03:42.338 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 13:03:42.348 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 13:03:45.356 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:03:46.120 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:03:46.120 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:03:51.359 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:03:52.096 [main] Log - Execution Finished
+[INFO ] 2024-05-27 13:03:52.394 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 13:03:52.396 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:03:52.398 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 13:21:27.655 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:21:27.713 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:21:27.732 [main] Log - Open the Browser
+[INFO ] 2024-05-27 13:21:30.116 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 13:21:30.121 [main] Log - ChromeDriver: chrome on mac (9d1195a16614c274ba8a28026ccb59dd)
+[INFO ] 2024-05-27 13:21:30.148 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:21:30.205 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:21:30.217 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:21:30.550 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 13:21:30.559 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 13:21:34.107 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 13:21:34.111 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 13:21:34.111 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 13:21:34.114 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 13:21:34.124 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 13:21:37.131 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:21:37.805 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:21:37.805 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:21:43.018 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:21:43.764 [main] Log - Execution Finished
+[INFO ] 2024-05-27 13:21:44.018 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 13:21:44.020 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:21:44.022 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 13:23:01.657 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:23:01.711 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:23:01.731 [main] Log - Open the Browser
+[INFO ] 2024-05-27 13:23:04.112 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 13:23:04.114 [main] Log - ChromeDriver: chrome on mac (27904516992f35c039f3ba425e88985b)
+[INFO ] 2024-05-27 13:23:04.159 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:23:04.216 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:23:04.229 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:23:04.560 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 13:23:04.568 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 13:23:08.551 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 13:23:08.556 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 13:23:08.556 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 13:23:08.560 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 13:23:08.568 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 13:23:11.571 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:23:12.298 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:23:12.298 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:23:21.785 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:23:22.210 [main] Log - Execution Finished
+[INFO ] 2024-05-27 13:23:22.441 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 13:23:22.443 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:23:22.445 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 13:34:13.876 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:34:13.930 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:34:13.949 [main] Log - Open the Browser
+[INFO ] 2024-05-27 13:34:16.373 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 13:34:16.374 [main] Log - ChromeDriver: chrome on mac (df72e551f01e8121fbdd535472ff9c58)
+[INFO ] 2024-05-27 13:34:16.399 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:34:16.462 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:34:16.487 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:34:16.813 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 13:34:16.820 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 13:34:23.811 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 13:34:23.818 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 13:34:23.819 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 13:34:23.827 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 13:34:23.844 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 13:34:26.852 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:34:27.569 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:34:27.582 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:34:36.749 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:34:37.195 [main] Log - Execution Finished
+[INFO ] 2024-05-27 13:34:37.419 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 13:34:37.421 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:34:37.423 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 13:36:36.751 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:36:36.805 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:36:36.825 [main] Log - Open the Browser
+[INFO ] 2024-05-27 13:36:39.234 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 13:36:39.236 [main] Log - ChromeDriver: chrome on mac (45625e6d011ed51610a518849dd49616)
+[INFO ] 2024-05-27 13:36:39.263 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:36:39.322 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:36:39.336 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:36:39.663 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 13:36:39.682 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 13:36:44.603 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 13:36:44.613 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 13:36:44.613 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 13:36:44.619 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 13:36:44.634 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 13:36:47.642 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:36:48.367 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:36:48.367 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:36:59.183 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:36:59.647 [main] Log - Execution Finished
+[INFO ] 2024-05-27 13:36:59.861 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 13:36:59.863 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:36:59.865 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 13:38:25.790 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:38:25.843 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:38:25.863 [main] Log - Open the Browser
+[INFO ] 2024-05-27 13:38:28.522 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 13:38:28.536 [main] Log - ChromeDriver: chrome on mac (1d15a256767ca21510ac00b7688f4dab)
+[INFO ] 2024-05-27 13:38:28.561 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:38:28.613 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:38:28.639 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:38:28.967 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 13:38:28.974 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 13:38:35.650 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 13:38:35.656 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 13:38:35.656 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 13:38:35.661 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 13:38:35.684 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 13:38:38.689 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:38:39.405 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:38:39.406 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:38:59.061 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:38:59.575 [main] Log - Execution Finished
+[INFO ] 2024-05-27 13:38:59.831 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 13:38:59.833 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:38:59.835 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 13:40:46.860 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:40:46.916 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:40:46.937 [main] Log - Open the Browser
+[INFO ] 2024-05-27 13:40:49.429 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 13:40:49.442 [main] Log - ChromeDriver: chrome on mac (5a8347ceba3a18c7a61c1895190f4cf1)
+[INFO ] 2024-05-27 13:40:49.468 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 13:40:49.527 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:40:49.536 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:40:49.863 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 13:40:49.873 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 13:40:53.057 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 13:40:53.065 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 13:40:53.065 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 13:40:53.071 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 13:40:53.164 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 13:40:56.167 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 13:40:56.919 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:40:56.919 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 13:41:17.393 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 13:41:17.837 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 13:41:18.119 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 13:41:18.120 [main] Log - Enter password.
+[INFO ] 2024-05-27 13:41:18.619 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 13:41:20.629 [main] Log - Element clicked
+[INFO ] 2024-05-27 13:41:20.630 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 13:41:21.088 [main] Log - Execution Finished
+[INFO ] 2024-05-27 13:41:21.313 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 13:41:21.315 [main] Log - Execution Started
+[INFO ] 2024-05-27 13:41:21.318 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:08:42.785 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:08:42.841 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:08:42.858 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:08:45.606 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:08:45.622 [main] Log - ChromeDriver: chrome on mac (283166184ade2c83649032eade85c2f5)
+[INFO ] 2024-05-27 15:08:45.669 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:08:45.740 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:08:45.753 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:08:46.084 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:08:46.094 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:08:48.722 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:08:48.729 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:08:48.729 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:08:48.733 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:08:48.746 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:08:51.755 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:08:52.467 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:08:52.467 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:09:10.391 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:09:10.845 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:09:11.112 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:09:11.112 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:09:11.558 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:09:14.828 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:09:25.369 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:09:25.867 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:09:26.132 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:09:26.134 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:09:26.136 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:10:15.355 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:10:15.413 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:10:15.435 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:10:18.014 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:10:18.027 [main] Log - ChromeDriver: chrome on mac (f83da6d84f7482ed712a0a0cffcade70)
+[INFO ] 2024-05-27 15:10:18.062 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:10:18.113 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:10:18.122 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:10:18.454 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:10:18.467 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:10:21.667 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:10:21.672 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:10:21.672 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:10:21.677 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:10:21.695 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:10:24.701 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:10:25.415 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:10:25.415 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:10:44.416 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:10:44.851 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:10:45.121 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:10:45.121 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:10:45.578 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:10:48.923 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:11:02.575 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:11:03.008 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:11:03.246 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:11:03.248 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:11:03.251 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:11:41.896 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:11:41.950 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:11:41.968 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:11:44.434 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:11:44.440 [main] Log - ChromeDriver: chrome on mac (62ad32ae05f52ef675a120cbb47ccb8b)
+[INFO ] 2024-05-27 15:11:44.466 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:11:44.521 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:11:44.535 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:11:44.858 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:11:44.868 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:11:48.204 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:11:48.211 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:11:48.212 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:11:48.222 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:11:48.244 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:11:51.250 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:11:52.007 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:11:52.007 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:12:10.487 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:12:10.920 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:12:11.206 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:12:11.206 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:12:11.649 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:12:14.859 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:12:23.058 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:12:23.487 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:12:23.729 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:12:23.731 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:12:23.733 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:19:27.225 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:19:27.279 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:19:27.300 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:19:29.623 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:19:29.636 [main] Log - ChromeDriver: chrome on mac (d257de2a15395d862e2484f0a0e03bf6)
+[INFO ] 2024-05-27 15:19:29.699 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:19:29.758 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:19:29.769 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:19:30.100 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:19:30.104 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:19:34.341 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:19:34.346 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:19:34.346 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:19:34.350 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:19:34.361 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:19:37.369 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:19:38.069 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:19:38.069 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:19:56.147 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:19:56.614 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:19:56.903 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:19:56.903 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:19:57.336 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:20:00.708 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:20:09.290 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:20:09.698 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:20:09.931 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:20:09.933 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:20:09.935 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:27:12.772 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:27:12.829 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:27:12.851 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:27:15.262 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:27:15.275 [main] Log - ChromeDriver: chrome on mac (736b14a008cd43fccd77140494c01e9f)
+[INFO ] 2024-05-27 15:27:15.319 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:27:15.380 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:27:15.394 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:27:15.728 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:27:15.735 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:27:19.653 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:27:19.657 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:27:19.657 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:27:19.661 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:27:19.684 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:27:22.689 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:27:23.366 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:27:23.366 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:27:40.978 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:27:41.478 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:27:41.788 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:27:41.788 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:27:42.231 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:27:46.325 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:27:54.794 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:27:55.252 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:27:55.539 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:27:55.542 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:27:55.545 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:30:18.642 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:30:18.697 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:30:18.716 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:30:21.064 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:30:21.083 [main] Log - ChromeDriver: chrome on mac (5ec52416501d452e647197eae214bd5d)
+[INFO ] 2024-05-27 15:30:21.112 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:30:21.161 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:30:21.177 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:30:21.505 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:30:21.514 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:30:24.989 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:30:24.994 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:30:24.995 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:30:24.999 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:30:25.010 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:30:28.019 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:30:28.716 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:30:28.717 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:30:46.303 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:30:46.754 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:30:47.016 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:30:47.016 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:30:47.487 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:30:50.496 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:31:00.669 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:31:01.102 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:31:01.327 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:31:01.329 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:31:01.330 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:32:02.671 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:32:02.725 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:32:02.745 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:32:05.382 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:32:05.398 [main] Log - ChromeDriver: chrome on mac (3795df54114db5092dbc699e4c8ee906)
+[INFO ] 2024-05-27 15:32:05.424 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:32:05.484 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:32:05.493 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:32:05.817 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:32:05.824 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:32:12.996 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:32:13.001 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:32:13.001 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:32:13.004 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:32:13.016 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:32:16.023 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:32:16.700 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:32:16.700 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:32:34.204 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:32:34.695 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:32:34.966 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:32:34.967 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:32:35.407 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:32:38.020 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:32:48.446 [main] Log - Browser refreshed
+[INFO ] 2024-05-27 15:32:51.926 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:32:52.356 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:32:52.570 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:32:52.572 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:32:52.576 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:36:17.664 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:36:17.718 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:36:17.738 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:36:20.078 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:36:20.096 [main] Log - ChromeDriver: chrome on mac (c6c1c6684e477d9655c345f3a3872226)
+[INFO ] 2024-05-27 15:36:20.147 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:36:20.196 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:36:20.212 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:36:20.538 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:36:20.544 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:36:25.333 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:36:25.338 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:36:25.339 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:36:25.343 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:36:25.356 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:36:28.363 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:36:29.057 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:36:29.057 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:36:46.363 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:36:46.803 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:36:47.073 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:36:47.073 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:36:47.515 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:36:51.478 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:36:59.891 [main] Log - Browser refreshed
+[INFO ] 2024-05-27 15:37:03.544 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:37:03.984 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:37:04.208 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:37:04.210 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:37:04.212 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:38:20.885 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:38:20.940 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:38:20.962 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:38:23.486 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:38:23.488 [main] Log - ChromeDriver: chrome on mac (5cea661fedc8f6b4c1092fec583a5bcd)
+[INFO ] 2024-05-27 15:38:23.534 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:38:23.590 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:38:23.606 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:38:23.936 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:38:23.956 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:38:27.493 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:38:27.499 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:38:27.499 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:38:27.502 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:38:27.514 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:38:30.523 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:38:31.226 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:38:31.226 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:38:49.335 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:38:49.793 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:38:50.059 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:38:50.059 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:38:50.535 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:38:53.854 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:39:03.260 [main] Log - Browser refreshed
+[INFO ] 2024-05-27 15:39:07.433 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:39:07.871 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:39:08.102 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:39:08.104 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:39:08.106 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:41:58.610 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:41:58.664 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:41:58.682 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:42:01.018 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:42:01.028 [main] Log - ChromeDriver: chrome on mac (50a34db2cfad0e5a04a6dd94dcba4954)
+[INFO ] 2024-05-27 15:42:01.071 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:42:01.156 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:42:01.164 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:42:01.493 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:42:01.502 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:42:12.508 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:42:12.514 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:42:12.514 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:42:12.519 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:42:12.540 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:42:15.547 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:42:16.250 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:42:16.261 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:42:33.897 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:42:34.359 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:42:34.620 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:42:34.621 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:42:35.067 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:42:37.961 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:42:47.563 [main] Log - Browser refreshed
+[INFO ] 2024-05-27 15:42:50.775 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:42:51.174 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:42:51.395 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:42:51.397 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:42:51.399 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 15:44:09.809 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:44:09.870 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:44:09.893 [main] Log - Open the Browser
+[INFO ] 2024-05-27 15:44:12.505 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 15:44:12.520 [main] Log - ChromeDriver: chrome on mac (770ca2291e0542a12afd1d71ff4f3946)
+[INFO ] 2024-05-27 15:44:12.567 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 15:44:12.623 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:44:12.633 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:44:12.966 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 15:44:12.974 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 15:44:16.927 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 15:44:16.932 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 15:44:16.933 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 15:44:16.937 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 15:44:16.954 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 15:44:19.980 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 15:44:20.672 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:44:20.672 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 15:44:38.919 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:44:39.367 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:44:39.631 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 15:44:39.631 [main] Log - Enter password.
+[INFO ] 2024-05-27 15:44:40.089 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 15:44:44.296 [main] Log - Element clicked
+[INFO ] 2024-05-27 15:44:53.555 [main] Log - Browser refreshed
+[INFO ] 2024-05-27 15:45:02.932 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 15:45:03.601 [main] Log - Execution Finished
+[INFO ] 2024-05-27 15:45:03.828 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 15:45:03.830 [main] Log - Execution Started
+[INFO ] 2024-05-27 15:45:03.831 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-27 18:04:41.784 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 18:04:41.839 [main] Log - Execution Started
+[INFO ] 2024-05-27 18:04:41.860 [main] Log - Open the Browser
+[INFO ] 2024-05-27 18:04:44.595 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-27 18:04:44.599 [main] Log - ChromeDriver: chrome on mac (2bbd66f367844ebce15f7cb1805aa0f9)
+[INFO ] 2024-05-27 18:04:44.629 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-27 18:04:44.689 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 18:04:44.696 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 18:04:45.024 [main] Log - Browser window maximised
+[INFO ] 2024-05-27 18:04:45.027 [main] Log - Navigation to URL
+[INFO ] 2024-05-27 18:04:49.938 [main] Log - Navigated to URL
+[INFO ] 2024-05-27 18:04:49.944 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-27 18:04:49.944 [main] Log - Navigated to Url : https://drm--taqa.sandbox.my.site.com/
+[INFO ] 2024-05-27 18:04:49.951 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-27 18:04:49.976 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-27 18:04:52.983 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-27 18:04:53.712 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 18:04:53.712 [main] Log - This message is from my own project
+[INFO ] 2024-05-27 18:05:14.240 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 18:05:14.698 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 18:05:14.971 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-05-27 18:05:14.971 [main] Log - Enter password.
+[INFO ] 2024-05-27 18:05:15.441 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-05-27 18:05:19.187 [main] Log - Element clicked
+[INFO ] 2024-05-27 18:05:29.383 [main] Log - Browser refreshed
+[INFO ] 2024-05-27 18:05:38.794 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.login_via_linkdin
+[INFO ] 2024-05-27 18:05:39.528 [main] Log - Execution Finished
+[INFO ] 2024-05-27 18:05:39.772 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-27 18:05:39.774 [main] Log - Execution Started
+[INFO ] 2024-05-27 18:05:39.776 [main] Log - Suite FinishedSuite

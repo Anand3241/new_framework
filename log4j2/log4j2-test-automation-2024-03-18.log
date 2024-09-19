@@ -1,0 +1,124 @@
+[INFO ] 2024-03-18 12:37:25.349 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-18 12:37:25.422 [main] Log - Execution Started
+[INFO ] 2024-03-18 12:37:25.547 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-18 12:37:25.563 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2024-03-18 12:37:25.563 [main] Log - This message is from my own project
+[INFO ] 2024-03-18 12:37:25.564 [main] Log - Open the Browser
+[INFO ] 2024-03-18 12:37:31.163 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-18 12:37:31.171 [main] Log - ChromeDriver: chrome on mac (ec130a8e390babc44841638bdba3feec)
+[ERROR] 2024-03-18 12:37:31.875 [main] Log - Can not open new tab
+[INFO ] 2024-03-18 12:37:36.298 [main] Log - Navigated to URL
+[INFO ] 2024-03-18 12:37:36.299 [main] Log - Go to Sandbox Login URL
+[INFO ] 2024-03-18 12:37:36.483 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-03-18 12:37:36.483 [main] Log - Enter Sandbox Username
+[INFO ] 2024-03-18 12:37:37.044 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:37:37.197 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-03-18 12:37:37.197 [main] Log - Enter Sandbox Password
+[INFO ] 2024-03-18 12:37:38.493 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:37:47.752 [main] Log - Element clicked
+[INFO ] 2024-03-18 12:37:47.753 [main] Log - Click on Login
+[INFO ] 2024-03-18 12:37:48.096 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:38:03.605 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-03-18 12:38:07.017 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:38:20.423 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-03-18 12:38:23.815 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:38:26.843 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2024-03-18 12:38:27.246 [main] Log - Execution Finished
+[INFO ] 2024-03-18 12:38:27.511 [main] Log - Suite FinishedContact Merge Functionality 
+[INFO ] 2024-03-18 12:38:27.513 [main] Log - Execution Started
+[INFO ] 2024-03-18 12:38:27.515 [main] Log - Suite FinishedSuite
+[INFO ] 2024-03-18 12:46:25.025 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-18 12:46:25.072 [main] Log - Execution Started
+[INFO ] 2024-03-18 12:46:25.172 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-18 12:46:25.186 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2024-03-18 12:46:25.186 [main] Log - This message is from my own project
+[INFO ] 2024-03-18 12:46:25.186 [main] Log - Open the Browser
+[INFO ] 2024-03-18 12:46:27.339 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-18 12:46:27.354 [main] Log - ChromeDriver: chrome on mac (3490e253ad622931191612df49a94ad4)
+[ERROR] 2024-03-18 12:46:27.853 [main] Log - Can not open new tab
+[INFO ] 2024-03-18 12:46:30.997 [main] Log - Navigated to URL
+[INFO ] 2024-03-18 12:46:30.998 [main] Log - Go to Sandbox Login URL
+[INFO ] 2024-03-18 12:46:31.168 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-03-18 12:46:31.168 [main] Log - Enter Sandbox Username
+[INFO ] 2024-03-18 12:46:31.786 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:46:32.640 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-03-18 12:46:32.646 [main] Log - Enter Sandbox Password
+[INFO ] 2024-03-18 12:46:33.496 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:46:42.158 [main] Log - Element clicked
+[INFO ] 2024-03-18 12:46:42.158 [main] Log - Click on Login
+[INFO ] 2024-03-18 12:46:42.530 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:46:58.123 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2024-03-18 12:48:19.179 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-18 12:48:19.228 [main] Log - Execution Started
+[INFO ] 2024-03-18 12:48:19.264 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-18 12:48:19.295 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2024-03-18 12:48:19.295 [main] Log - This message is from my own project
+[INFO ] 2024-03-18 12:48:19.296 [main] Log - Open the Browser
+[INFO ] 2024-03-18 12:48:21.677 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-18 12:48:21.688 [main] Log - ChromeDriver: chrome on mac (8810168531bc7938dddb127b7778a6b8)
+[INFO ] 2024-03-18 12:48:22.112 [main] Log - Browser window maximised
+[INFO ] 2024-03-18 12:48:22.112 [main] Log - Navigation to URL
+[INFO ] 2024-03-18 12:48:27.814 [main] Log - Navigated to URL
+[INFO ] 2024-03-18 12:48:27.820 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-03-18 12:48:27.820 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-03-18 12:48:27.826 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-03-18 12:48:28.518 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:48:37.338 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:48:41.417 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:48:43.759 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:48:47.881 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:48:52.035 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:00.346 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:14.258 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:19.284 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:30.775 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:31.857 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:32.988 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:40.101 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:45.200 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:50.296 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:49:59.329 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:13.329 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2024-03-18 12:50:13.920 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:18.961 [main] Log - All Browser cookies deleted
+[INFO ] 2024-03-18 12:50:19.283 [main] Log - Open the Browser
+[INFO ] 2024-03-18 12:50:20.680 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-18 12:50:20.700 [main] Log - ChromeDriver: chrome on mac (f9940a9d67a120900a5e92e8c0781944)
+[INFO ] 2024-03-18 12:50:21.135 [main] Log - Browser window maximised
+[INFO ] 2024-03-18 12:50:21.136 [main] Log - Navigation to URL
+[INFO ] 2024-03-18 12:50:23.535 [main] Log - Navigated to URL
+[INFO ] 2024-03-18 12:50:23.553 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-03-18 12:50:23.553 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-03-18 12:50:23.559 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-03-18 12:50:26.504 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:35.108 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:39.174 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:40.822 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:44.958 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:49.148 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:50:57.565 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:51:11.338 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 12:51:16.368 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-18 14:11:58.434 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-18 14:11:58.482 [main] Log - Execution Started
+[INFO ] 2024-03-18 14:11:58.500 [main] Log - Open the Browser
+[INFO ] 2024-03-18 14:12:01.070 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-18 14:12:01.075 [main] Log - ChromeDriver: chrome on mac (3b382da81848dc6d0843fe03dcde612b)
+[INFO ] 2024-03-18 14:12:01.138 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2024-03-18 14:12:01.156 [main] Log - This message is from my own project
+[INFO ] 2024-03-18 14:12:01.586 [main] Log - Browser window maximised
+[INFO ] 2024-03-18 14:12:01.587 [main] Log - Navigation to URL
+[INFO ] 2024-03-18 14:12:10.280 [main] Log - Navigated to URL
+[INFO ] 2024-03-18 14:12:10.296 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-03-18 14:12:10.296 [main] Log - Navigated to Url : https://stg.trailhead.salesforce.com/en/trailblazerconnect/workforce-partners/apply
+[INFO ] 2024-03-18 14:12:10.300 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-03-18 14:12:10.314 [main] Log - All Browser cookies deleted
+[INFO ] 2024-03-18 14:12:10.315 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2024-03-18 14:12:10.921 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2024-03-18 14:12:10.922 [main] Log - This message is from my own project
+[INFO ] 2024-03-18 14:12:11.267 [main] Log - Element clicked
+[INFO ] 2024-03-18 14:12:43.119 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2024-03-18 14:12:43.515 [main] Log - Execution Finished
+[INFO ] 2024-03-18 14:12:43.733 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2024-03-18 14:12:43.735 [main] Log - Execution Started
+[INFO ] 2024-03-18 14:12:43.737 [main] Log - Suite FinishedSuite

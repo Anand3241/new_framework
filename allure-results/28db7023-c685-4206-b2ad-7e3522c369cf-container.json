@@ -1,0 +1,1 @@
+{"uuid":"28db7023-c685-4206-b2ad-7e3522c369cf","name":"Hire Me Test Suite","children":["d1fa3bd2-2af4-4086-8399-3488551a666b"],"befores":[{"name":"suiteSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699422138626,"stop":1699422140981}],"afters":[],"start":1699422138603,"stop":1699422229714}

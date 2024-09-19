@@ -1,0 +1,684 @@
+[INFO ] 2023-10-09 12:53:33.958 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 12:53:34.039 [main] Log - Execution Started
+[INFO ] 2023-10-09 12:53:34.196 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 12:53:34.221 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-09 12:53:34.221 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 12:53:34.222 [main] Log - Open the Browser
+[INFO ] 2023-10-09 12:53:39.491 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-09 12:53:39.505 [main] Log - ChromeDriver: chrome on mac (022d73bf7775fb0525f984b27cdcd0b9)
+[INFO ] 2023-10-09 12:53:43.281 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 12:53:43.282 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 12:53:43.475 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 12:53:43.475 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 12:53:43.869 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:53:43.979 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 12:53:43.979 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 12:53:44.410 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:53:44.461 [main] Log - Element clicked
+[INFO ] 2023-10-09 12:53:44.461 [main] Log - Click on Login
+[INFO ] 2023-10-09 12:54:01.739 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:54:06.863 [main] Log - Element clicked
+[INFO ] 2023-10-09 12:54:12.496 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 12:54:15.932 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:54:18.978 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-09 12:54:19.429 [main] Log - Execution Finished
+[INFO ] 2023-10-09 12:54:19.681 [main] Log - Suite FinishedDRM Indra Suite
+[INFO ] 2023-10-09 12:54:19.683 [main] Log - Execution Started
+[INFO ] 2023-10-09 12:54:19.684 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 12:58:11.861 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 12:58:11.908 [main] Log - Execution Started
+[INFO ] 2023-10-09 12:58:12.011 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 12:58:12.025 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-09 12:58:12.026 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 12:58:12.026 [main] Log - Open the Browser
+[INFO ] 2023-10-09 12:58:14.147 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-09 12:58:14.149 [main] Log - ChromeDriver: chrome on mac (294d3d6aab40f466df25ecd8dd19f75a)
+[INFO ] 2023-10-09 12:58:18.340 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 12:58:18.340 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 12:58:18.533 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 12:58:18.534 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 12:58:18.940 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:58:19.040 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 12:58:19.040 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 12:58:19.425 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:58:19.472 [main] Log - Element clicked
+[INFO ] 2023-10-09 12:58:19.473 [main] Log - Click on Login
+[INFO ] 2023-10-09 12:58:36.775 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:58:41.922 [main] Log - Element clicked
+[INFO ] 2023-10-09 12:58:47.599 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 12:58:51.027 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:58:57.634 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:58:58.636 [main] Log - Browser refreshed
+[INFO ] 2023-10-09 12:59:03.731 [main] Log - Element clicked
+[INFO ] 2023-10-09 12:59:08.978 [main] Log - Element clicked
+[INFO ] 2023-10-09 12:59:09.457 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:59:09.947 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:59:10.386 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:59:10.871 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 12:59:10.873 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-09 12:59:11.288 [main] Log - Execution Finished
+[INFO ] 2023-10-09 12:59:11.528 [main] Log - Suite FinishedDRM Indra Suite
+[INFO ] 2023-10-09 12:59:11.530 [main] Log - Execution Started
+[INFO ] 2023-10-09 12:59:11.532 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 13:03:06.441 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 13:03:06.488 [main] Log - Execution Started
+[INFO ] 2023-10-09 13:03:06.586 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 13:03:06.597 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-09 13:03:06.598 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 13:03:06.598 [main] Log - Open the Browser
+[INFO ] 2023-10-09 13:03:08.769 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-09 13:03:08.785 [main] Log - ChromeDriver: chrome on mac (84fab3eb88e3d637eed81bd74b82e242)
+[INFO ] 2023-10-09 13:03:12.182 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 13:03:12.182 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 13:03:12.384 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 13:03:12.384 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 13:03:12.792 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:03:12.897 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 13:03:12.897 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 13:03:13.277 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:03:13.325 [main] Log - Element clicked
+[INFO ] 2023-10-09 13:03:13.325 [main] Log - Click on Login
+[INFO ] 2023-10-09 13:03:34.434 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:03:39.617 [main] Log - Element clicked
+[INFO ] 2023-10-09 13:03:45.177 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 13:03:48.637 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:03:55.339 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:03:56.306 [main] Log - Browser refreshed
+[INFO ] 2023-10-09 13:04:01.379 [main] Log - Element clicked
+[INFO ] 2023-10-09 13:04:06.425 [main] Log - Element clicked
+[INFO ] 2023-10-09 13:04:06.890 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:04:07.333 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:04:07.837 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:04:08.303 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 13:04:08.305 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-09 13:04:08.774 [main] Log - Execution Finished
+[INFO ] 2023-10-09 13:04:09.034 [main] Log - Suite FinishedDRM Indra Suite
+[INFO ] 2023-10-09 13:04:09.036 [main] Log - Execution Started
+[INFO ] 2023-10-09 13:04:09.037 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 13:23:39.332 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 13:23:39.381 [main] Log - Execution Started
+[INFO ] 2023-10-09 13:23:39.399 [main] Log - Open the Browser
+[INFO ] 2023-10-09 13:23:41.337 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 13:23:41.350 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-09 13:23:41.350 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 13:23:41.354 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-09 13:23:41.363 [main] Log - Execution Finished
+[INFO ] 2023-10-09 13:23:41.591 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-09 13:23:41.593 [main] Log - Execution Started
+[INFO ] 2023-10-09 13:23:41.596 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 14:18:15.809 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 14:18:15.859 [main] Log - Execution Started
+[INFO ] 2023-10-09 14:18:15.879 [main] Log - Open the Browser
+[INFO ] 2023-10-09 14:18:19.401 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 14:18:19.402 [main] Log - FirefoxDriver: firefox on mac (6b006148-3b8c-402e-9251-aa8c092b404e)
+[INFO ] 2023-10-09 14:18:19.518 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 14:18:19.533 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-09 14:18:19.534 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 14:18:20.014 [main] Log - Browser window maximised
+[INFO ] 2023-10-09 14:18:20.015 [main] Log - Navigation to URL
+[INFO ] 2023-10-09 14:18:24.914 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 14:18:24.922 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-09 14:18:24.923 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-09 14:18:24.935 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-09 14:18:24.940 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-09 14:18:24.943 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-09 14:18:25.624 [main] Log - Execution Finished
+[INFO ] 2023-10-09 14:18:25.891 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-09 14:18:25.894 [main] Log - Execution Started
+[INFO ] 2023-10-09 14:18:25.895 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 14:57:10.739 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 14:57:10.797 [main] Log - Execution Started
+[INFO ] 2023-10-09 14:57:10.818 [main] Log - Open the Browser
+[INFO ] 2023-10-09 14:57:14.798 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 14:57:14.799 [main] Log - FirefoxDriver: firefox on mac (b9a7686f-3874-4b1a-86be-3bbac29b9cfa)
+[INFO ] 2023-10-09 14:57:14.838 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 14:57:14.900 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.navigateToUrl
+[INFO ] 2023-10-09 14:57:14.901 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 14:57:15.390 [main] Log - Browser window maximised
+[INFO ] 2023-10-09 14:57:15.390 [main] Log - Navigation to URL
+[INFO ] 2023-10-09 14:59:21.619 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 14:59:21.630 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-09 14:59:21.630 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-09 14:59:21.636 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-09 14:59:22.157 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 14:59:31.438 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 14:59:35.101 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 14:59:37.176 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 14:59:37.233 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-09 14:59:37.234 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.navigateToUrl
+[INFO ] 2023-10-09 14:59:37.953 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 14:59:37.953 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 14:59:42.623 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 14:59:42.624 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 14:59:42.870 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 14:59:42.870 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 14:59:43.048 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 14:59:43.275 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 14:59:43.275 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 14:59:43.437 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 14:59:43.527 [main] Log - Element clicked
+[INFO ] 2023-10-09 14:59:43.527 [main] Log - Click on Login
+[INFO ] 2023-10-09 14:59:43.706 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:26:19.092 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 16:26:19.140 [main] Log - Execution Started
+[INFO ] 2023-10-09 16:26:19.160 [main] Log - Open the Browser
+[INFO ] 2023-10-09 16:26:23.879 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 16:26:23.879 [main] Log - FirefoxDriver: firefox on mac (1376f8d4-abc9-46b5-a683-866b4dd73fdc)
+[INFO ] 2023-10-09 16:26:23.916 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 16:26:23.954 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.navigateToUrl
+[INFO ] 2023-10-09 16:26:23.954 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 16:26:24.421 [main] Log - Browser window maximised
+[INFO ] 2023-10-09 16:26:24.421 [main] Log - Navigation to URL
+[INFO ] 2023-10-09 16:26:28.392 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 16:26:28.403 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-09 16:26:28.403 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-09 16:26:28.412 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-09 16:26:29.113 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:26:36.253 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:26:39.884 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:26:41.926 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:26:41.969 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-09 16:26:41.971 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.navigateToUrl
+[INFO ] 2023-10-09 16:26:42.604 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 16:26:42.605 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 16:26:47.029 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 16:26:47.030 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 16:26:47.262 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 16:26:47.262 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 16:26:47.427 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:26:47.708 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 16:26:47.708 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 16:26:47.939 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:26:47.999 [main] Log - Element clicked
+[INFO ] 2023-10-09 16:26:47.999 [main] Log - Click on Login
+[INFO ] 2023-10-09 16:26:48.312 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:39:37.876 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 16:39:37.924 [main] Log - Execution Started
+[INFO ] 2023-10-09 16:39:37.943 [main] Log - Open the Browser
+[INFO ] 2023-10-09 16:39:41.365 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 16:39:41.365 [main] Log - FirefoxDriver: firefox on mac (b7fabcc5-52b3-4c5c-919b-8aa7759c40c0)
+[INFO ] 2023-10-09 16:39:41.403 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 16:39:41.446 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.navigateToUrl
+[INFO ] 2023-10-09 16:39:41.446 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 16:39:41.953 [main] Log - Browser window maximised
+[INFO ] 2023-10-09 16:39:41.953 [main] Log - Navigation to URL
+[INFO ] 2023-10-09 16:39:45.258 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 16:39:45.270 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-09 16:39:45.270 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-09 16:39:45.280 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-09 16:39:46.028 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:39:53.115 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:39:56.741 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:39:58.991 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:39:59.818 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:09.115 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:13.741 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:23.548 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:24.351 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:25.091 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:31.730 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:36.582 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:41.443 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:40:50.067 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:41:11.089 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-09 16:41:11.091 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.navigateToUrl
+[INFO ] 2023-10-09 16:41:11.372 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 16:41:11.372 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 16:41:15.294 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 16:41:15.294 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 16:41:15.543 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 16:41:15.543 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 16:41:15.715 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:41:15.954 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 16:41:15.954 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 16:41:16.107 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:41:16.166 [main] Log - Element clicked
+[INFO ] 2023-10-09 16:41:16.167 [main] Log - Click on Login
+[INFO ] 2023-10-09 16:41:16.323 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 16:41:55.574 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 16:41:55.577 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 16:41:56.151 [main] Log - Execution Finished
+[INFO ] 2023-10-09 16:41:56.428 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 16:41:56.430 [main] Log - Execution Started
+[INFO ] 2023-10-09 16:41:56.431 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 16:56:01.782 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 16:56:01.837 [main] Log - Execution Started
+[INFO ] 2023-10-09 16:56:01.858 [main] Log - Open the Browser
+[INFO ] 2023-10-09 16:56:05.425 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 16:56:05.425 [main] Log - FirefoxDriver: firefox on mac (28b7205d-6823-4b81-8bb8-324634d6d95c)
+[INFO ] 2023-10-09 16:56:05.531 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 16:56:05.547 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 16:56:05.547 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 16:56:09.829 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 16:56:09.829 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 16:56:10.111 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 16:56:10.111 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 16:56:10.274 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:56:10.519 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 16:56:10.520 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 16:56:10.669 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 16:56:10.757 [main] Log - Element clicked
+[INFO ] 2023-10-09 16:56:10.757 [main] Log - Click on Login
+[INFO ] 2023-10-09 16:56:10.918 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 16:56:15.948 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 16:56:15.949 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 16:56:20.966 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 16:56:20.968 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 16:56:21.105 [main] Log - Execution Finished
+[INFO ] 2023-10-09 16:56:21.370 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 16:56:21.373 [main] Log - Execution Started
+[INFO ] 2023-10-09 16:56:21.375 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:06:56.187 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:06:56.236 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:06:56.255 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:06:59.668 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:06:59.668 [main] Log - FirefoxDriver: firefox on mac (81c29b25-553b-445d-8321-66baf6fa443a)
+[INFO ] 2023-10-09 17:06:59.780 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:06:59.796 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:06:59.796 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:07:04.169 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:07:04.169 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:07:04.446 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:07:04.446 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:07:04.595 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:07:04.841 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:07:04.841 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:07:04.989 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:07:05.054 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:07:05.055 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:07:05.211 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 17:07:10.241 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 17:07:10.243 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 17:07:15.274 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:07:15.278 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:07:15.434 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:07:15.667 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:07:15.669 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:07:15.672 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:10:07.991 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:10:08.039 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:10:08.059 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:10:11.553 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:10:11.554 [main] Log - FirefoxDriver: firefox on mac (14744d5e-ba42-4292-8f36-fc23b543f71b)
+[INFO ] 2023-10-09 17:10:11.672 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:10:11.688 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:10:11.688 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:10:15.273 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:10:15.273 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:10:15.557 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:10:15.557 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:10:15.724 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:10:15.977 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:10:15.977 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:10:16.112 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:10:16.173 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:10:16.173 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:10:16.328 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 17:10:26.369 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:10:26.372 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:10:26.517 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:10:26.744 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:10:26.745 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:10:26.747 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:14:22.384 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:14:22.435 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:14:22.454 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:14:24.905 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-09 17:14:24.916 [main] Log - ChromeDriver: chrome on mac (5d80eb173a0feebb565fbea34229bb05)
+[INFO ] 2023-10-09 17:14:25.027 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:14:25.041 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:14:25.042 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:14:28.668 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:14:28.669 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:14:28.860 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:14:28.860 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:14:29.265 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:14:29.359 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:14:29.359 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:14:29.731 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:14:29.783 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:14:29.784 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:14:53.345 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:14:58.519 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:15:04.158 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:15:07.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:15:10.652 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:15:11.140 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:15:11.402 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:15:11.404 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:15:11.406 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:19:57.370 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:19:57.419 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:19:57.439 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:20:00.884 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:20:00.884 [main] Log - FirefoxDriver: firefox on mac (770f233b-fbda-40ba-b210-9223b382e199)
+[INFO ] 2023-10-09 17:20:00.981 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:20:00.995 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:20:00.995 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:20:04.809 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:20:04.809 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:20:05.075 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:20:05.076 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:20:05.218 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:20:05.478 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:20:05.479 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:20:05.620 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:20:05.676 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:20:05.676 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:20:05.835 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 17:20:10.860 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 17:20:10.861 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 17:20:15.890 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:20:15.893 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:20:16.036 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:20:16.266 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:20:16.268 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:20:16.270 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:23:05.197 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:23:05.244 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:23:05.265 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:23:09.088 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:23:09.088 [main] Log - FirefoxDriver: firefox on mac (be80a5db-3865-4e4e-8e67-6fe6dd616061)
+[INFO ] 2023-10-09 17:23:09.200 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:23:09.216 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:23:09.217 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:23:13.709 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:23:13.709 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:23:13.987 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:23:13.988 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:23:14.150 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:23:14.392 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:23:14.392 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:23:14.568 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:23:14.625 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:23:14.625 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:23:14.897 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:23:17.824 [main] Log - Browser refreshed
+[INFO ] 2023-10-09 17:23:25.759 [main] Log - Browser refreshed
+[WARN ] 2023-10-09 17:23:25.783 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 17:23:25.784 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 17:23:30.799 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:23:30.802 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:23:31.047 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:23:31.275 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:23:31.277 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:23:31.278 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:24:04.945 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:24:04.995 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:24:05.016 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:24:08.642 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:24:08.642 [main] Log - FirefoxDriver: firefox on mac (0df34987-a827-4c71-a5de-707140abed5a)
+[INFO ] 2023-10-09 17:24:08.745 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:24:08.759 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:24:08.759 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:24:12.378 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:24:12.379 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:24:12.655 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:24:12.656 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:24:12.794 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:24:13.028 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:24:13.028 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:24:13.179 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:24:13.261 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:24:13.261 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:24:13.430 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:24:16.382 [main] Log - Browser refreshed
+[WARN ] 2023-10-09 17:24:21.400 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 17:24:21.402 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 17:24:26.420 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:24:26.422 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:24:26.662 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:24:26.938 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:24:26.940 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:24:26.942 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:25:04.251 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:25:04.305 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:25:04.324 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:25:08.022 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:25:08.022 [main] Log - FirefoxDriver: firefox on mac (1662e80d-a480-47c5-b160-c1a1077e4b15)
+[INFO ] 2023-10-09 17:25:08.111 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:25:08.123 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:25:08.124 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:25:11.579 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:25:11.579 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:25:11.859 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:25:11.860 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:25:12.021 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:25:12.268 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:25:12.269 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:25:12.413 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:25:12.465 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:25:12.465 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:25:12.625 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 17:25:17.659 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 17:25:17.660 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 17:25:22.688 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:25:22.691 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:25:22.834 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:25:23.071 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:25:23.073 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:25:23.075 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:26:45.902 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:26:45.948 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:26:45.969 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:26:51.731 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:26:51.732 [main] Log - FirefoxDriver: firefox on mac (663069d5-2267-4ce4-8707-23bb6b31ad7f)
+[INFO ] 2023-10-09 17:26:51.828 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:26:51.843 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:26:51.843 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:26:55.791 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:26:55.791 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:26:56.061 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:26:56.061 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:26:56.228 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:26:56.482 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:26:56.483 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:26:56.636 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:26:56.693 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:26:56.693 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:26:56.852 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 17:27:06.877 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 17:27:06.878 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 17:27:12.035 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:27:12.037 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:27:12.516 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:27:12.791 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:27:12.794 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:27:12.796 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:28:18.513 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:28:18.567 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:28:18.588 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:28:20.790 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-09 17:28:20.802 [main] Log - ChromeDriver: chrome on mac (b266501d75ab5cfd531016950fa3346e)
+[INFO ] 2023-10-09 17:28:20.912 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:28:20.925 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:28:20.925 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:28:24.359 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:28:24.359 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:28:24.568 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:28:24.568 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:28:25.007 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:28:25.115 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:28:25.115 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:28:25.554 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:28:25.604 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:28:25.604 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:28:46.234 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:28:56.373 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:29:01.947 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:29:05.445 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:42:15.834 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:42:15.882 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:42:15.903 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:42:19.415 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:42:19.416 [main] Log - FirefoxDriver: firefox on mac (4b7ab4e4-7fb2-4a1b-a19b-dacb45b18d10)
+[INFO ] 2023-10-09 17:42:19.517 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:42:19.530 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:42:19.530 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:42:22.961 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:42:22.963 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:42:23.241 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:42:23.241 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:42:23.412 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:42:23.652 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:42:23.652 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:42:23.917 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:42:23.975 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:42:23.975 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:42:24.236 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 17:42:34.262 [main] Log - WebElement Not found
+[ERROR] 2023-10-09 17:42:34.263 [main] Log - Element is not clickable
+[WARN ] 2023-10-09 17:42:39.272 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 17:42:39.275 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:42:39.498 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:42:39.718 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:42:39.720 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:42:39.722 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 17:53:05.131 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:53:05.179 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:53:05.202 [main] Log - Open the Browser
+[INFO ] 2023-10-09 17:53:08.929 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 17:53:08.929 [main] Log - FirefoxDriver: firefox on mac (dd2d5908-6e22-4f6d-9fa6-8829e1a4f205)
+[INFO ] 2023-10-09 17:53:09.012 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 17:53:09.024 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:53:09.024 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 17:53:13.444 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 17:53:13.444 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 17:53:13.708 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:53:13.708 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 17:53:13.880 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:53:14.645 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 17:53:14.645 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 17:53:14.907 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:53:14.980 [main] Log - Element clicked
+[INFO ] 2023-10-09 17:53:14.980 [main] Log - Click on Login
+[INFO ] 2023-10-09 17:53:15.261 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 17:53:25.288 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 17:53:25.432 [main] Log - Execution Finished
+[INFO ] 2023-10-09 17:53:25.669 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 17:53:25.672 [main] Log - Execution Started
+[INFO ] 2023-10-09 17:53:25.674 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 18:07:12.082 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:07:12.130 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:07:12.148 [main] Log - Open the Browser
+[INFO ] 2023-10-09 18:07:15.696 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 18:07:15.696 [main] Log - FirefoxDriver: firefox on mac (f5e4f2b7-84d7-43e2-b718-f1bab82297f9)
+[INFO ] 2023-10-09 18:07:15.805 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:07:15.818 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:07:15.818 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 18:07:20.339 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 18:07:20.340 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 18:07:20.606 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:07:20.607 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 18:07:20.761 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:07:21.007 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:07:21.008 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 18:07:21.201 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:07:21.254 [main] Log - Element clicked
+[INFO ] 2023-10-09 18:07:21.255 [main] Log - Click on Login
+[INFO ] 2023-10-09 18:07:21.526 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:07:42.118 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:07:42.482 [main] Log - Execution Finished
+[INFO ] 2023-10-09 18:07:42.718 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 18:07:42.720 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:07:42.722 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 18:15:34.483 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:15:34.533 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:15:34.555 [main] Log - Open the Browser
+[INFO ] 2023-10-09 18:15:38.225 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 18:15:38.225 [main] Log - FirefoxDriver: firefox on mac (84221c24-0178-49d9-adeb-3ffd080808d7)
+[INFO ] 2023-10-09 18:15:38.323 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:15:38.337 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:15:38.338 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 18:15:42.219 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 18:15:42.219 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 18:15:42.501 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:15:42.502 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 18:15:42.659 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:15:42.906 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:15:42.907 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 18:15:43.048 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:15:43.109 [main] Log - Element clicked
+[INFO ] 2023-10-09 18:15:43.109 [main] Log - Click on Login
+[INFO ] 2023-10-09 18:15:43.262 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:16:04.004 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:16:07.348 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-09 18:16:13.545 [main] Log - WebElement Not found
+[INFO ] 2023-10-09 18:16:13.547 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:16:14.135 [main] Log - Execution Finished
+[INFO ] 2023-10-09 18:16:14.393 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 18:16:14.395 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:16:14.396 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 18:29:03.975 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:29:04.025 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:29:04.046 [main] Log - Open the Browser
+[INFO ] 2023-10-09 18:29:08.807 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 18:29:08.808 [main] Log - FirefoxDriver: firefox on mac (104d20e2-8a50-4e90-aae9-95af59a57ae1)
+[INFO ] 2023-10-09 18:29:08.925 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:29:08.942 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:29:08.943 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 18:29:13.521 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 18:29:13.522 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 18:29:13.800 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:29:13.800 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 18:29:13.959 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:29:14.197 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:29:14.197 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 18:29:14.343 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:29:14.442 [main] Log - Element clicked
+[INFO ] 2023-10-09 18:29:14.442 [main] Log - Click on Login
+[INFO ] 2023-10-09 18:29:14.605 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:29:34.745 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:29:35.387 [main] Log - Execution Finished
+[INFO ] 2023-10-09 18:29:35.683 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 18:29:35.685 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:29:35.687 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 18:34:58.137 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:34:58.186 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:34:58.207 [main] Log - Open the Browser
+[INFO ] 2023-10-09 18:35:01.709 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 18:35:01.709 [main] Log - FirefoxDriver: firefox on mac (3afd516f-dbc9-4d57-9799-c19ee22a50e7)
+[INFO ] 2023-10-09 18:35:01.802 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:35:01.819 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:35:01.819 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 18:35:05.840 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 18:35:05.841 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 18:35:06.114 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:35:06.115 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 18:35:06.271 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:35:06.523 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:35:06.524 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 18:35:06.754 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:35:06.831 [main] Log - Element clicked
+[INFO ] 2023-10-09 18:35:06.831 [main] Log - Click on Login
+[INFO ] 2023-10-09 18:35:07.110 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:35:27.344 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:35:27.899 [main] Log - Execution Finished
+[INFO ] 2023-10-09 18:35:28.137 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 18:35:28.139 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:35:28.140 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-09 18:45:22.237 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:45:22.284 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:45:22.304 [main] Log - Open the Browser
+[INFO ] 2023-10-09 18:45:25.792 [main] Log - Browser Opened : firefox with headless mode : false
+[INFO ] 2023-10-09 18:45:25.793 [main] Log - FirefoxDriver: firefox on mac (0587e2d1-2240-4e43-aa1c-e15f1883bb91)
+[INFO ] 2023-10-09 18:45:25.905 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-09 18:45:25.917 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:45:25.917 [main] Log - This message is from my own project
+[INFO ] 2023-10-09 18:45:30.710 [main] Log - Navigated to URL
+[INFO ] 2023-10-09 18:45:30.710 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-09 18:45:31.000 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:45:31.001 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-09 18:45:31.142 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:45:31.389 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-09 18:45:31.389 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-09 18:45:31.543 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:45:31.597 [main] Log - Element clicked
+[INFO ] 2023-10-09 18:45:31.597 [main] Log - Click on Login
+[INFO ] 2023-10-09 18:45:31.755 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:45:55.529 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-09 18:45:58.552 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Firefox_Sign_up.drm_verification
+[INFO ] 2023-10-09 18:45:59.106 [main] Log - Execution Finished
+[INFO ] 2023-10-09 18:45:59.360 [main] Log - Suite FinishedFirefox SignUp Test Suite
+[INFO ] 2023-10-09 18:45:59.362 [main] Log - Execution Started
+[INFO ] 2023-10-09 18:45:59.364 [main] Log - Suite FinishedSuite

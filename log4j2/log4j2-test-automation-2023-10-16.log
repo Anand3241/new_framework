@@ -1,0 +1,1951 @@
+[INFO ] 2023-10-16 13:09:34.974 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 13:09:35.042 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:09:35.064 [main] Log - Open the Browser
+[INFO ] 2023-10-16 13:09:38.008 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 13:09:38.021 [main] Log - ChromeDriver: chrome on mac (edbacd05481d2235269e949a3ef4a131)
+[INFO ] 2023-10-16 13:09:38.132 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:09:38.136 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:09:38.556 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 13:09:44.727 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 13:09:44.732 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 13:09:44.738 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 13:09:44.750 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 13:09:57.694 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:10:04.241 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:10:08.591 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:10:17.699 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:10:22.211 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:10:26.215 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:10:29.884 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:10:29.884 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:10:44.628 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:10:45.150 [main] Log - Execution Finished
+[INFO ] 2023-10-16 13:10:45.414 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 13:10:45.417 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:10:45.418 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 13:25:26.483 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 13:25:26.547 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:25:26.573 [main] Log - Open the Browser
+[INFO ] 2023-10-16 13:25:29.379 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 13:25:29.381 [main] Log - ChromeDriver: chrome on mac (ab7f69799d6f4ef093093bef9f38a29f)
+[INFO ] 2023-10-16 13:25:29.473 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:25:29.473 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:25:29.888 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 13:25:30.256 [main] Log - Test Failed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:25:30.843 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:25:30.844 [main] Log - This message is from my own project
+[WARN ] 2023-10-16 13:25:31.861 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 13:25:31.862 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:25:32.331 [main] Log - Execution Finished
+[INFO ] 2023-10-16 13:26:02.823 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 13:26:02.827 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:26:02.830 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 13:27:58.808 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 13:27:58.858 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:27:58.875 [main] Log - Open the Browser
+[INFO ] 2023-10-16 13:28:01.174 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 13:28:01.205 [main] Log - ChromeDriver: chrome on mac (e0c1cae5d45e6a8f6ea1cc8c0f0f34be)
+[INFO ] 2023-10-16 13:28:01.274 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:28:01.282 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:28:01.700 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 13:28:12.715 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 13:28:12.722 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 13:28:12.732 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 13:28:12.747 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 13:28:25.828 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:28:33.286 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:28:37.822 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:28:46.496 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:28:51.016 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:28:55.023 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:29:00.181 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:29:00.181 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:29:25.808 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:29:26.316 [main] Log - Execution Finished
+[INFO ] 2023-10-16 13:29:26.570 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 13:29:26.572 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:29:26.573 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 13:32:52.898 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 13:32:52.949 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:32:52.968 [main] Log - Open the Browser
+[INFO ] 2023-10-16 13:32:55.187 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 13:32:55.200 [main] Log - ChromeDriver: chrome on mac (d7467348b27bf1dbb217fc43e61c34b8)
+[INFO ] 2023-10-16 13:32:55.261 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:32:55.276 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:32:55.697 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 13:32:59.527 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 13:32:59.533 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 13:32:59.541 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 13:32:59.552 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 13:33:12.497 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:33:19.684 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:33:24.067 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:33:32.719 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:33:37.261 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:33:41.267 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:33:45.780 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:33:45.781 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:34:02.962 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:34:03.566 [main] Log - Execution Finished
+[INFO ] 2023-10-16 13:34:03.800 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 13:34:03.802 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:34:03.803 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 13:58:51.838 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 13:58:51.889 [main] Log - Execution Started
+[INFO ] 2023-10-16 13:58:51.908 [main] Log - Open the Browser
+[INFO ] 2023-10-16 13:58:54.378 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 13:58:54.394 [main] Log - ChromeDriver: chrome on mac (7fee8a8350fa6b6aa147c41c3f565360)
+[INFO ] 2023-10-16 13:58:54.488 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:58:54.507 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 13:58:54.926 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 13:58:59.590 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 13:58:59.595 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 13:58:59.602 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 13:58:59.613 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 13:59:12.564 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:59:19.164 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:59:23.559 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:59:32.189 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:59:36.745 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 13:59:40.752 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 13:59:44.534 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 13:59:44.535 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 14:00:03.421 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 14:00:04.009 [main] Log - Execution Finished
+[INFO ] 2023-10-16 14:00:07.233 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 14:00:07.235 [main] Log - Execution Started
+[INFO ] 2023-10-16 14:00:07.237 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 15:46:18.695 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 15:46:18.749 [main] Log - Execution Started
+[INFO ] 2023-10-16 15:46:18.769 [main] Log - Open the Browser
+[INFO ] 2023-10-16 15:46:21.423 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 15:46:21.440 [main] Log - ChromeDriver: chrome on mac (e9dc7ef5746f6cb7aea204ce47a7880c)
+[INFO ] 2023-10-16 15:46:21.506 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 15:46:21.506 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 15:46:21.925 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 15:46:26.489 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 15:46:26.494 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 15:46:26.500 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 15:46:26.512 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 15:46:39.466 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 15:46:46.022 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 15:46:50.406 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 15:46:59.327 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 15:47:03.838 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 15:47:07.846 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 15:47:14.010 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 15:47:14.010 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 15:47:36.990 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 15:47:37.568 [main] Log - Execution Finished
+[INFO ] 2023-10-16 15:47:37.826 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 15:47:37.828 [main] Log - Execution Started
+[INFO ] 2023-10-16 15:47:37.829 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 16:59:11.219 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 16:59:11.273 [main] Log - Execution Started
+[INFO ] 2023-10-16 16:59:11.291 [main] Log - Open the Browser
+[INFO ] 2023-10-16 16:59:13.800 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 16:59:13.814 [main] Log - ChromeDriver: chrome on mac (7bbec94066643c39cc957a5ae3934ead)
+[INFO ] 2023-10-16 16:59:13.871 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 16:59:13.889 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 16:59:14.310 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 16:59:19.966 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 16:59:19.970 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 16:59:19.976 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 16:59:19.987 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 16:59:32.975 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 16:59:40.707 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 16:59:45.071 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 16:59:53.948 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 16:59:58.487 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:00:02.493 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 17:00:08.041 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 17:00:08.042 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 17:00:11.949 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:00:17.237 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:00:22.905 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:00:26.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:00:26.736 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 17:00:27.334 [main] Log - Execution Finished
+[INFO ] 2023-10-16 17:00:27.596 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 17:00:27.598 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:00:27.600 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 17:20:11.102 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:20:11.155 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:20:11.175 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:20:13.370 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:20:13.384 [main] Log - ChromeDriver: chrome on mac (2ed8139d76e1bdebe120a50ce972464f)
+[INFO ] 2023-10-16 17:20:13.487 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:20:13.516 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 17:20:13.521 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 17:20:13.942 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 17:20:19.080 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 17:20:19.085 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 17:20:19.091 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 17:20:19.106 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 17:20:32.114 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:20:38.670 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:20:43.076 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:20:51.810 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:20:56.336 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:21:00.339 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 17:21:03.891 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:21:03.891 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 17:21:03.892 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:21:05.795 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:21:05.800 [main] Log - ChromeDriver: chrome on mac (1b733a949619957c165ffdcfad518534)
+[INFO ] 2023-10-16 17:21:09.593 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 17:21:09.593 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 17:21:09.812 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:21:09.812 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 17:21:10.233 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:21:10.343 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:21:10.343 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 17:21:10.754 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:21:21.049 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:21:21.050 [main] Log - Click on Login
+[INFO ] 2023-10-16 17:21:21.457 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:21:32.177 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:21:35.691 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-16 17:21:43.870 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 17:21:43.888 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 17:21:43.908 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 17:21:43.960 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:21:46.087 [main] Log - Webelement clicked, cleared and text entered
+[WARN ] 2023-10-16 17:22:00.100 [main] Log - WebElement Not found
+[ERROR] 2023-10-16 17:22:00.100 [main] Log - Element is not clickable
+[INFO ] 2023-10-16 17:22:00.101 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:22:00.553 [main] Log - Execution Finished
+[INFO ] 2023-10-16 17:22:03.831 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 17:22:03.833 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:22:03.835 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 17:30:18.734 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:30:18.786 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:30:18.805 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:30:21.324 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:30:21.336 [main] Log - ChromeDriver: chrome on mac (2ea113223bb859ebf48ce6c3a726a7cd)
+[INFO ] 2023-10-16 17:30:21.509 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:30:21.522 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:30:21.522 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 17:30:21.523 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:30:22.981 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:30:22.984 [main] Log - ChromeDriver: chrome on mac (47258da1c70f30a6865d6aa05edc9b86)
+[INFO ] 2023-10-16 17:30:26.647 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 17:30:26.662 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 17:30:26.863 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:30:26.863 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 17:30:27.282 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:30:27.392 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:30:27.392 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 17:30:28.508 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:30:39.906 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:30:39.907 [main] Log - Click on Login
+[INFO ] 2023-10-16 17:30:40.294 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-16 17:30:50.366 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 17:30:50.372 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 17:30:50.374 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 17:30:50.416 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:30:52.407 [main] Log - Webelement clicked, cleared and text entered
+[WARN ] 2023-10-16 17:31:06.445 [main] Log - WebElement Not found
+[ERROR] 2023-10-16 17:31:06.446 [main] Log - Element is not clickable
+[INFO ] 2023-10-16 17:31:06.448 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:31:06.829 [main] Log - Execution Finished
+[INFO ] 2023-10-16 17:31:07.039 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 17:31:07.041 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:31:07.042 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 17:32:16.432 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:32:16.481 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:32:16.501 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:32:18.708 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:32:18.722 [main] Log - ChromeDriver: chrome on mac (026f0228098a25076dc25a80e761df15)
+[INFO ] 2023-10-16 17:32:18.843 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:32:18.854 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:32:18.855 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 17:32:18.855 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:32:20.328 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:32:20.347 [main] Log - ChromeDriver: chrome on mac (660915d56caaf09dd8aa453886f185f9)
+[INFO ] 2023-10-16 17:32:23.930 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 17:32:23.930 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 17:32:24.132 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:32:24.132 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 17:32:24.520 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:32:24.620 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:32:24.620 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 17:32:25.037 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:32:36.796 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:32:36.797 [main] Log - Click on Login
+[INFO ] 2023-10-16 17:32:37.243 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-16 17:32:47.310 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 17:32:47.318 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 17:32:47.321 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 17:32:47.364 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:32:49.545 [main] Log - Webelement clicked, cleared and text entered
+[WARN ] 2023-10-16 17:33:03.590 [main] Log - WebElement Not found
+[ERROR] 2023-10-16 17:33:03.592 [main] Log - Element is not clickable
+[INFO ] 2023-10-16 17:33:03.594 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:33:04.155 [main] Log - Execution Finished
+[INFO ] 2023-10-16 17:33:04.401 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 17:33:04.403 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:33:04.404 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 17:37:34.827 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:37:34.878 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:37:34.896 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:37:37.246 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:37:37.257 [main] Log - ChromeDriver: chrome on mac (dd4f9b4e8e01a6797eac13c0d9cfc3e3)
+[INFO ] 2023-10-16 17:37:37.420 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 17:37:37.432 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:37:37.432 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 17:37:37.433 [main] Log - Open the Browser
+[INFO ] 2023-10-16 17:37:38.917 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 17:37:38.942 [main] Log - ChromeDriver: chrome on mac (6a8011c135b980bb93759c0eebb7dea6)
+[INFO ] 2023-10-16 17:37:42.568 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 17:37:42.569 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 17:37:42.771 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:37:42.771 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 17:37:43.163 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:37:43.250 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:37:43.250 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 17:37:43.653 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:37:54.590 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:37:54.591 [main] Log - Click on Login
+[INFO ] 2023-10-16 17:37:54.967 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:38:10.408 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 17:38:13.886 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:38:23.110 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 17:38:28.177 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:38:33.663 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 17:38:33.668 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 17:38:33.669 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 17:38:33.710 [main] Log - Element clicked
+[INFO ] 2023-10-16 17:38:35.728 [main] Log - Webelement clicked, cleared and text entered
+[WARN ] 2023-10-16 17:38:49.754 [main] Log - WebElement Not found
+[ERROR] 2023-10-16 17:38:49.756 [main] Log - Element is not clickable
+[INFO ] 2023-10-16 17:38:49.758 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 17:38:50.186 [main] Log - Execution Finished
+[INFO ] 2023-10-16 17:38:50.412 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 17:38:50.414 [main] Log - Execution Started
+[INFO ] 2023-10-16 17:38:50.415 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 18:03:24.946 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:03:24.996 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:03:25.014 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:03:27.455 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:03:27.466 [main] Log - ChromeDriver: chrome on mac (f745b235aa20378202f5a264aed4a604)
+[INFO ] 2023-10-16 18:03:27.658 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:03:27.682 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:03:27.682 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 18:03:27.683 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:03:29.108 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:03:29.126 [main] Log - ChromeDriver: chrome on mac (f45265fc4b08c314e9daf8ea8559a0ce)
+[INFO ] 2023-10-16 18:03:33.034 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 18:03:33.034 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 18:03:33.228 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:03:33.228 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 18:03:33.633 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:03:33.744 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:03:33.744 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 18:03:34.871 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:03:45.784 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:03:45.784 [main] Log - Click on Login
+[INFO ] 2023-10-16 18:03:46.218 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:04:01.705 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:04:05.156 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:04:14.541 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 18:04:19.639 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:04:25.156 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:04:25.160 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 18:04:25.161 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 18:04:25.285 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:04:27.632 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:04:31.755 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:04:31.900 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:04:32.350 [main] Log - Execution Finished
+[INFO ] 2023-10-16 18:04:32.623 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 18:04:32.625 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:04:32.627 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 18:23:27.702 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:23:27.818 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:23:27.860 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:23:30.659 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:23:30.666 [main] Log - ChromeDriver: chrome on mac (414ad07264e1ebc285064deb4382f9c3)
+[INFO ] 2023-10-16 18:23:30.798 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:23:30.809 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:23:30.809 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 18:23:30.809 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:23:32.373 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:23:32.386 [main] Log - ChromeDriver: chrome on mac (44d87ec2ff079488c0da343506257113)
+[INFO ] 2023-10-16 18:23:36.046 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 18:23:36.046 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 18:23:36.276 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:23:36.276 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 18:23:36.680 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:23:36.789 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:23:36.790 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 18:23:37.840 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:23:48.978 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:23:48.978 [main] Log - Click on Login
+[INFO ] 2023-10-16 18:23:49.409 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:24:04.885 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:24:08.339 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:24:17.482 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 18:24:22.587 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:24:28.115 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:24:28.119 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 18:24:28.121 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 18:24:28.160 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:24:30.116 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:24:34.158 [main] Log - Element clicked
+[ERROR] 2023-10-16 18:24:37.143 [main] Log - Element is not clickable
+[WARN ] 2023-10-16 18:24:47.209 [main] Log - WebElement Not found
+[ERROR] 2023-10-16 18:24:47.210 [main] Log - Element is not clickable
+[INFO ] 2023-10-16 18:24:47.213 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:24:47.594 [main] Log - Execution Finished
+[INFO ] 2023-10-16 18:24:47.830 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 18:24:47.833 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:24:47.834 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 18:26:55.374 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:26:55.424 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:26:55.443 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:26:57.822 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:26:57.832 [main] Log - ChromeDriver: chrome on mac (e0cd3556b15f700a016435338b4d6dc5)
+[INFO ] 2023-10-16 18:26:57.984 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:26:58.007 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:26:58.007 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 18:26:58.007 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:26:59.430 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:26:59.432 [main] Log - ChromeDriver: chrome on mac (3ab359d3cf792fdd909916223b53d7b5)
+[INFO ] 2023-10-16 18:27:02.933 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 18:27:02.934 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 18:27:03.144 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:27:03.144 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 18:27:03.545 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:27:03.648 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:27:03.648 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 18:27:04.372 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:27:16.031 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:27:16.031 [main] Log - Click on Login
+[INFO ] 2023-10-16 18:27:16.425 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:27:31.863 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:27:35.312 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:27:44.529 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 18:27:49.599 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:27:55.233 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:27:55.237 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 18:27:55.239 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 18:27:55.286 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:27:57.364 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:28:01.418 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:28:01.420 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:28:01.852 [main] Log - Execution Finished
+[INFO ] 2023-10-16 18:28:02.090 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 18:28:02.092 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:28:02.094 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 18:29:27.499 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:29:27.550 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:29:27.569 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:29:29.894 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:29:29.902 [main] Log - ChromeDriver: chrome on mac (6d841b3d2725d5f17e1a44079f11a1bf)
+[INFO ] 2023-10-16 18:29:30.032 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:29:30.047 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:29:30.047 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 18:29:30.048 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:29:31.510 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:29:31.527 [main] Log - ChromeDriver: chrome on mac (44e3d574086f64784a5f6a30201b06dd)
+[INFO ] 2023-10-16 18:29:35.124 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 18:29:35.124 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 18:29:35.325 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:29:35.325 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 18:29:35.724 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:29:35.832 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:29:35.832 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 18:29:36.201 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:29:47.382 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:29:47.382 [main] Log - Click on Login
+[INFO ] 2023-10-16 18:29:47.758 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:30:03.276 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:30:06.722 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:30:15.965 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 18:30:21.039 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:30:26.522 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:30:26.526 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 18:30:26.528 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 18:30:26.575 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:30:28.488 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:30:32.544 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:30:36.591 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:30:37.034 [main] Log - Execution Finished
+[INFO ] 2023-10-16 18:30:37.270 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 18:30:37.272 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:30:37.274 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 18:37:32.475 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:37:32.524 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:37:32.543 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:37:34.859 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:37:34.873 [main] Log - ChromeDriver: chrome on mac (48fb98d5293b622dbdc6b76cdcc450c6)
+[INFO ] 2023-10-16 18:37:35.013 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:37:35.027 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:37:35.027 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 18:37:35.028 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:37:36.416 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:37:36.436 [main] Log - ChromeDriver: chrome on mac (65f17eb13df775f0af3e0fa78c91a39e)
+[INFO ] 2023-10-16 18:37:39.938 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 18:37:39.938 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 18:37:40.155 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:37:40.169 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 18:37:40.561 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:37:40.681 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:37:40.681 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 18:37:42.009 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:37:52.347 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:37:52.348 [main] Log - Click on Login
+[INFO ] 2023-10-16 18:37:52.770 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:38:08.290 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:38:11.787 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:38:20.977 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 18:38:26.038 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:38:31.535 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:38:31.540 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 18:38:31.542 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 18:38:31.586 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:38:33.480 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:38:37.533 [main] Log - Element clicked
+[WARN ] 2023-10-16 18:38:51.687 [main] Log - WebElement Not found
+[ERROR] 2023-10-16 18:38:51.688 [main] Log - Element is not clickable
+[INFO ] 2023-10-16 18:38:51.689 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:38:52.125 [main] Log - Execution Finished
+[INFO ] 2023-10-16 18:38:55.422 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 18:38:55.424 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:38:55.425 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 18:44:35.154 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:44:35.206 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:44:35.226 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:44:37.517 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:44:37.522 [main] Log - ChromeDriver: chrome on mac (f555974d91f79a14667ae153abd3d3b7)
+[INFO ] 2023-10-16 18:44:37.649 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 18:44:37.677 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:44:37.677 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 18:44:37.677 [main] Log - Open the Browser
+[INFO ] 2023-10-16 18:44:39.075 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 18:44:39.081 [main] Log - ChromeDriver: chrome on mac (cac13dc9dcd900044dab09fea1c0af42)
+[INFO ] 2023-10-16 18:44:42.607 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 18:44:42.607 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 18:44:42.822 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:44:42.825 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 18:44:43.248 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:44:43.347 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:44:43.347 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 18:44:43.711 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:44:54.254 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:44:54.255 [main] Log - Click on Login
+[INFO ] 2023-10-16 18:44:54.653 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:45:10.136 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:45:13.600 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:45:23.347 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 18:45:28.542 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:45:34.048 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 18:45:34.052 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 18:45:34.054 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 18:45:34.097 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:45:36.202 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 18:45:40.256 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:45:48.151 [main] Log - Element clicked
+[INFO ] 2023-10-16 18:45:48.154 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 18:45:48.587 [main] Log - Execution Finished
+[INFO ] 2023-10-16 18:45:48.823 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 18:45:48.825 [main] Log - Execution Started
+[INFO ] 2023-10-16 18:45:48.827 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 19:03:36.413 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:03:36.463 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:03:36.482 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:03:39.156 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:03:39.172 [main] Log - ChromeDriver: chrome on mac (da3969c72e3e379cfe9b54badadc6c21)
+[INFO ] 2023-10-16 19:03:39.344 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:03:39.363 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:03:39.363 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 19:03:39.364 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:03:40.767 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:03:40.772 [main] Log - ChromeDriver: chrome on mac (82a8abb885463f004e137d6d03594b6b)
+[INFO ] 2023-10-16 19:03:44.319 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 19:03:44.319 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 19:03:44.535 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:03:44.536 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 19:03:44.957 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:03:45.091 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:03:45.091 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 19:03:46.479 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:03:57.199 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:03:57.199 [main] Log - Click on Login
+[INFO ] 2023-10-16 19:03:57.577 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:04:13.082 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:04:16.538 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:04:25.797 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 19:04:30.859 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:04:36.502 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:04:36.507 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 19:04:36.509 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 19:04:36.552 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:04:38.613 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:04:42.659 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:04:43.097 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:04:43.099 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:04:44.485 [main] Log - Execution Finished
+[INFO ] 2023-10-16 19:04:44.732 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 19:04:44.735 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:04:44.737 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 19:05:42.874 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:05:42.925 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:05:42.944 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:05:45.281 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:05:45.289 [main] Log - ChromeDriver: chrome on mac (8a0e6b581c50fd0cb415dd79979570db)
+[INFO ] 2023-10-16 19:05:45.453 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:05:45.465 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:05:45.465 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 19:05:45.466 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:05:46.946 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:05:46.959 [main] Log - ChromeDriver: chrome on mac (a04e49e6b9957b084e87a2e195e767b4)
+[INFO ] 2023-10-16 19:05:50.487 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 19:05:50.488 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 19:05:50.718 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:05:50.719 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 19:05:51.129 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:05:51.223 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:05:51.223 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 19:05:51.581 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:06:01.704 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:06:01.705 [main] Log - Click on Login
+[INFO ] 2023-10-16 19:06:02.089 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:06:17.551 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:06:21.003 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:06:30.187 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 19:06:35.247 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:06:40.829 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:06:40.834 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 19:06:40.837 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 19:06:40.889 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:06:42.853 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:06:46.910 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:06:47.340 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:06:53.089 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:06:56.672 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:06:56.674 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:06:57.138 [main] Log - Execution Finished
+[INFO ] 2023-10-16 19:06:57.368 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 19:06:57.370 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:06:57.372 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 19:22:26.561 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:22:26.624 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:22:26.654 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:22:29.437 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:22:29.445 [main] Log - ChromeDriver: chrome on mac (8fa7204dd465a79a83e1e506e71c2bbb)
+[INFO ] 2023-10-16 19:22:29.579 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:22:29.597 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:22:29.597 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 19:22:29.598 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:22:31.100 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:22:31.114 [main] Log - ChromeDriver: chrome on mac (b1c62e10fa73b49443d0f134441d3de3)
+[INFO ] 2023-10-16 19:22:34.811 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 19:22:34.812 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 19:22:35.028 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:22:35.029 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 19:22:35.439 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:22:35.541 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:22:35.541 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 19:22:35.954 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:22:46.292 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:22:46.292 [main] Log - Click on Login
+[INFO ] 2023-10-16 19:22:46.693 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:23:02.172 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:23:05.618 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:23:14.793 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 19:23:19.862 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:23:25.401 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:23:25.405 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 19:23:25.407 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 19:23:25.447 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:23:27.671 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:23:31.735 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:23:32.214 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:23:38.833 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:23:42.315 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:23:42.317 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:23:42.784 [main] Log - Execution Finished
+[INFO ] 2023-10-16 19:23:43.052 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 19:23:43.055 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:23:43.058 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 19:31:11.534 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:31:11.584 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:31:11.605 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:31:13.873 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:31:13.886 [main] Log - ChromeDriver: chrome on mac (e5b02d692484c7bffd4cde98570696b7)
+[INFO ] 2023-10-16 19:31:14.082 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:31:14.094 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:31:14.094 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 19:31:14.094 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:31:15.523 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:31:15.543 [main] Log - ChromeDriver: chrome on mac (0a12e71d55d2d1a64ee03f8f694a7a7d)
+[INFO ] 2023-10-16 19:31:19.610 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 19:31:19.610 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 19:31:19.819 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:31:19.819 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 19:31:20.205 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:31:20.293 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:31:20.293 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 19:31:20.667 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:31:31.089 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:31:31.089 [main] Log - Click on Login
+[INFO ] 2023-10-16 19:31:31.459 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:31:46.920 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:31:50.379 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:31:59.616 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 19:32:04.692 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:32:10.207 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:32:10.211 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 19:32:10.213 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 19:32:10.264 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:32:12.295 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:32:16.335 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:32:17.709 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:32:24.670 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:32:28.161 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:32:28.164 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:32:28.603 [main] Log - Execution Finished
+[INFO ] 2023-10-16 19:32:28.862 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 19:32:28.865 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:32:28.866 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 19:34:33.398 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:34:33.448 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:34:33.467 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:34:36.210 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:34:36.226 [main] Log - ChromeDriver: chrome on mac (6a0a7f445613cdc406f074f9254b3450)
+[INFO ] 2023-10-16 19:34:36.397 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:34:36.408 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:34:36.408 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 19:34:36.409 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:34:37.813 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:34:37.818 [main] Log - ChromeDriver: chrome on mac (706e5431b361d921ac51c045b6492b17)
+[INFO ] 2023-10-16 19:34:41.301 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 19:34:41.301 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 19:34:41.535 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:34:41.535 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 19:34:41.963 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:34:42.060 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:34:42.061 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 19:34:42.452 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:34:53.295 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:34:53.296 [main] Log - Click on Login
+[INFO ] 2023-10-16 19:34:53.684 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:35:09.171 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:35:12.644 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:35:21.851 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 19:35:26.926 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:35:33.064 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:35:33.072 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 19:35:33.075 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 19:35:33.172 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:35:35.121 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 19:35:39.158 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:35:39.594 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:35:45.232 [main] Log - Element clicked
+[INFO ] 2023-10-16 19:35:48.932 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:35:48.933 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 19:35:49.380 [main] Log - Execution Finished
+[INFO ] 2023-10-16 19:35:49.626 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 19:35:49.629 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:35:49.630 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 19:56:47.685 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:56:47.736 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:56:47.749 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:56:47.763 [main] Log - Execution Started
+[INFO ] 2023-10-16 19:56:47.808 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 19:56:47.842 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-16 19:56:47.842 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 19:56:47.843 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:56:50.189 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:56:50.199 [main] Log - ChromeDriver: chrome on mac (4e7337cbf91c97de87c1668c4ffcd93d)
+[INFO ] 2023-10-16 19:56:50.642 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 19:56:50.642 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 19:56:57.244 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 19:56:57.251 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 19:56:57.251 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 19:56:57.256 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 19:56:58.034 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:07.098 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:11.506 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:13.450 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:14.940 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:24.811 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:30.228 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:43.403 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:44.696 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:45.993 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:53.349 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:57:58.668 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:03.950 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:13.217 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:25.909 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 19:58:26.535 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:31.571 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 19:58:31.849 [main] Log - Open the Browser
+[INFO ] 2023-10-16 19:58:33.270 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 19:58:33.303 [main] Log - ChromeDriver: chrome on mac (be496305b5d6c3aad4550c134603c637)
+[INFO ] 2023-10-16 19:58:33.732 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 19:58:33.733 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 19:58:38.155 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 19:58:38.158 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 19:58:38.158 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 19:58:38.160 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 19:58:38.979 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:47.239 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:51.608 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:53.314 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:58:54.818 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:03.200 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:18.696 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:26.040 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:27.315 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:28.562 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:35.917 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:41.250 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:46.541 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 19:59:55.800 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:00:07.553 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:00:08.163 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:00:13.191 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:00:13.456 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-16 20:00:13.522 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-16 20:00:13.522 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:00:13.522 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:00:14.962 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:00:14.980 [main] Log - ChromeDriver: chrome on mac (4461353644c7c6492b8dfc7a370405b5)
+[INFO ] 2023-10-16 20:00:15.423 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:00:15.423 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:00:19.614 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:00:19.616 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:00:19.617 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 20:00:19.619 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:00:22.556 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:00:29.109 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:00:33.523 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:00:41.006 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:00:45.541 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:00.410 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:06.027 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:11.703 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:12.300 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:28.875 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:34.494 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:47.762 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:47.763 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-16 20:01:48.285 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-16 20:01:48.285 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:01:48.285 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:01:49.668 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:01:49.702 [main] Log - ChromeDriver: chrome on mac (924c1d7c64fafe167314d4a6767ab956)
+[INFO ] 2023-10-16 20:01:53.358 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:01:53.358 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 20:01:53.560 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:01:53.560 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 20:01:53.961 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:01:54.065 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:01:54.065 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 20:01:54.463 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:02:05.713 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:02:05.714 [main] Log - Click on Login
+[INFO ] 2023-10-16 20:02:06.110 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-16 20:02:16.166 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 20:02:21.560 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:02:25.085 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:02:33.750 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:02:34.794 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:02:39.931 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:02:44.997 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:02:45.488 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:02:45.947 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:02:46.415 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:02:46.853 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:02:46.853 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-16 20:02:47.281 [main] Log - Execution Finished
+[INFO ] 2023-10-16 20:02:47.670 [main] Log - Suite FinishedDRM Indra Suite
+[INFO ] 2023-10-16 20:02:47.672 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:02:47.673 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:02:49.299 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:02:49.300 [main] Log - ChromeDriver: chrome on mac (94d88e22ed8b22e2da0a170dcca522df)
+[INFO ] 2023-10-16 20:02:49.325 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:02:49.360 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:02:49.392 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:02:49.804 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:02:53.813 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:02:53.815 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:02:53.818 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:02:53.829 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:03:06.884 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:03:13.461 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:03:17.847 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:03:25.302 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:03:29.819 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:03:33.823 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:03:38.815 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 20:03:38.815 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:03:42.714 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:03:51.371 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:03:57.056 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:04:00.701 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:04:00.841 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 20:04:01.434 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 20:04:01.434 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:04:01.434 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:04:03.130 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:04:03.143 [main] Log - ChromeDriver: chrome on mac (1ac1c22fd6f4215ad7964b52d8260a5a)
+[INFO ] 2023-10-16 20:04:06.603 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:04:06.603 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 20:04:06.809 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:04:06.809 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 20:04:07.229 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:04:07.313 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:04:07.313 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 20:04:07.718 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:04:18.190 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:04:18.190 [main] Log - Click on Login
+[INFO ] 2023-10-16 20:04:18.589 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:04:34.082 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:04:37.557 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:04:46.968 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:04:52.037 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:04:57.522 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:04:57.524 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 20:04:57.528 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 20:04:57.579 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:04:59.502 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:05:03.593 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:05:04.050 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:05:09.880 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:05:13.527 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:05:13.528 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 20:05:14.021 [main] Log - Execution Finished
+[INFO ] 2023-10-16 20:05:14.219 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 20:05:14.220 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:05:14.221 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:05:15.743 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:05:15.748 [main] Log - ChromeDriver: chrome on mac (cbdf30001a3b4c121c49230c7f73ffef)
+[INFO ] 2023-10-16 20:05:15.775 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:05:15.796 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 20:05:15.827 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:05:16.246 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:05:16.246 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:05:21.628 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:05:21.634 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:05:21.635 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 20:05:21.637 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:05:21.653 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:05:21.653 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 20:05:22.456 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:05:22.456 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:05:22.456 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-16 20:05:35.348 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:05:41.980 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:05:46.357 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:05:53.806 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:05:58.343 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:02.347 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:06:09.494 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 20:06:09.494 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:06:15.735 [main] Log - Browser refreshed
+[ERROR] 2023-10-16 20:06:26.014 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-16 20:06:26.015 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-16 20:06:26.025 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:06:26.629 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:26.695 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-16 20:06:31.308 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-16 20:06:31.308 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 20:06:31.784 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:31.861 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 20:06:32.309 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:32.851 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-16 20:06:36.912 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-16 20:06:37.580 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:42.748 [main] Log - Browser refreshed
+[ERROR] 2023-10-16 20:06:48.784 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-16 20:06:49.471 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:49.479 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:06:50.139 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:50.919 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:06:55.644 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:07:01.138 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:07:08.101 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:07:08.569 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:07:09.013 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:07:15.424 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:07:15.924 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:07:16.379 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:07:23.055 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:07:23.568 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:07:23.569 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 20:07:24.048 [main] Log - Driver Closed
+[INFO ] 2023-10-16 20:07:24.048 [main] Log - Execution Finished
+[INFO ] 2023-10-16 20:07:27.274 [main] Log - Suite FinishedFREE CRM Application Test Automation Test Suite
+[INFO ] 2023-10-16 20:07:27.276 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:07:27.277 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 20:26:06.599 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:26:06.649 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:26:06.662 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:26:06.672 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:26:06.682 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:26:06.724 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:26:06.756 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-16 20:26:06.757 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:26:06.757 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:26:09.353 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:26:09.386 [main] Log - ChromeDriver: chrome on mac (e0278b966178306d368e00a993146d03)
+[INFO ] 2023-10-16 20:26:09.827 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:26:09.827 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:27:09.997 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:27:10.053 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:27:10.068 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:27:10.078 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:27:10.092 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:27:10.140 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:27:10.179 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-16 20:27:10.180 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:27:10.182 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:27:12.485 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:27:12.501 [main] Log - ChromeDriver: chrome on mac (85fbb0fde397d916284ebaefa77d4b0c)
+[INFO ] 2023-10-16 20:27:12.941 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:27:12.941 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:27:16.412 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:27:16.418 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:27:16.419 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 20:27:16.423 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:27:17.353 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:27:26.846 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:27:31.294 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:27:32.908 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:27:34.423 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:27:43.995 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:27:57.345 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:04.689 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:06.002 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:07.302 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:14.658 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:19.970 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:25.267 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:34.519 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:46.563 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:28:47.135 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:28:52.164 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:28:52.440 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:28:53.844 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:28:53.857 [main] Log - ChromeDriver: chrome on mac (085687fec3490f11d1ab363d10897823)
+[INFO ] 2023-10-16 20:28:54.293 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:28:54.293 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:28:59.671 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:28:59.678 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:28:59.678 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 20:28:59.681 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:29:00.444 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:09.724 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:14.088 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:15.833 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:17.345 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:25.721 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:31.140 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:40.915 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:42.205 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:43.474 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:50.761 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:29:56.061 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:30:01.380 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:30:10.650 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:30:22.569 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:30:23.186 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:30:28.212 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:30:28.481 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-16 20:30:28.552 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-16 20:30:28.553 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:30:28.553 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:30:30.012 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:30:30.019 [main] Log - ChromeDriver: chrome on mac (2e8b9c640dcc9a9576ad185eacaee6c9)
+[INFO ] 2023-10-16 20:30:30.462 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:30:30.463 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:30:35.565 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:30:35.567 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:30:35.567 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 20:30:35.571 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:30:38.519 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:30:45.049 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:30:49.483 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:30:57.102 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:31:01.620 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:31:16.934 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:31:22.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:31:28.252 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:31:28.865 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:31:45.412 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:31:51.027 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:32:04.709 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:32:04.709 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-16 20:32:05.184 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-16 20:32:05.184 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:32:05.185 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:32:06.609 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:32:06.614 [main] Log - ChromeDriver: chrome on mac (fd30567550c8fc0ea06f273d85e7639c)
+[INFO ] 2023-10-16 20:32:10.256 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:32:10.256 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 20:32:10.414 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:32:10.414 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 20:32:10.808 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:32:10.886 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:32:10.886 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 20:32:11.314 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:32:21.460 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:32:21.460 [main] Log - Click on Login
+[INFO ] 2023-10-16 20:32:21.893 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:32:37.333 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:32:40.813 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:32:49.426 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:32:50.415 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:32:55.568 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:33:00.632 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:33:01.134 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:01.592 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:02.052 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:02.496 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:12.987 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:33:16.532 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:25.089 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:27.325 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:33:32.392 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:33:37.448 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:33:37.925 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:38.374 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:38.816 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:39.260 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:33:39.261 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-16 20:33:39.686 [main] Log - Execution Finished
+[INFO ] 2023-10-16 20:33:40.093 [main] Log - Suite FinishedDRM Indra Suite
+[INFO ] 2023-10-16 20:33:40.095 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:33:40.096 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:33:41.506 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:33:41.540 [main] Log - ChromeDriver: chrome on mac (e26db72004a4d7f6ccb95de669db2ce0)
+[INFO ] 2023-10-16 20:33:41.546 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:33:41.565 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:33:41.580 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:33:42.001 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:33:47.237 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:33:47.239 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:33:47.241 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:33:47.256 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:34:00.161 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:34:06.752 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:34:11.097 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:34:18.549 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:34:23.023 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:34:27.027 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:34:31.357 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 20:34:31.357 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:34:35.259 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:35:23.952 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:35:29.587 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:35:33.233 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:35:33.371 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 20:35:33.973 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 20:35:33.973 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:35:33.973 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:35:35.410 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:35:35.415 [main] Log - ChromeDriver: chrome on mac (992c2bceea305196350fa7e86a81cb3b)
+[INFO ] 2023-10-16 20:35:38.886 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:35:38.886 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 20:35:39.044 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:35:39.044 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 20:35:39.429 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:35:39.503 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:35:39.503 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 20:35:39.917 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:35:58.994 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:35:58.995 [main] Log - Click on Login
+[INFO ] 2023-10-16 20:35:59.398 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:36:14.828 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:36:18.295 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:36:27.701 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:36:32.764 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:36:38.246 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:36:38.249 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 20:36:38.252 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 20:36:38.319 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:36:40.335 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:36:44.383 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:36:44.788 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-16 20:36:58.912 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 20:36:59.284 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:36:59.285 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 20:36:59.658 [main] Log - Execution Finished
+[INFO ] 2023-10-16 20:36:59.847 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 20:36:59.848 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:36:59.849 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:37:01.271 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:37:01.280 [main] Log - ChromeDriver: chrome on mac (ca9e207f0372ffe03738222578c9e7b1)
+[INFO ] 2023-10-16 20:37:01.302 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:37:01.325 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 20:37:01.356 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:37:01.770 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:37:01.770 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:37:07.387 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:37:07.391 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:37:07.391 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 20:37:07.393 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:37:07.411 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:37:07.412 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 20:37:08.260 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:37:08.260 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:37:08.260 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-16 20:37:21.157 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:37:28.552 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:37:32.939 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:37:40.380 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:37:44.906 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:37:48.917 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 20:37:53.034 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 20:37:53.035 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:37:59.418 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:38:12.571 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 20:38:12.572 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-16 20:38:12.580 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:38:13.181 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:13.250 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-16 20:38:19.683 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-16 20:38:19.684 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 20:38:20.175 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:20.256 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 20:38:20.663 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:21.177 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-16 20:38:25.263 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-16 20:38:25.931 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:29.130 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:38:35.196 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 20:38:35.811 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:35.818 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:38:36.427 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:37.128 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:40.153 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:45.658 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:54.102 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:38:54.564 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:38:55.021 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:01.488 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:39:01.964 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:02.396 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:09.406 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:39:09.888 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:09.888 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 20:39:10.407 [main] Log - Driver Closed
+[INFO ] 2023-10-16 20:39:10.408 [main] Log - Execution Finished
+[INFO ] 2023-10-16 20:39:10.615 [main] Log - Suite FinishedHire Me Test Suite
+[INFO ] 2023-10-16 20:39:10.617 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:39:10.618 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:39:12.099 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:39:12.111 [main] Log - ChromeDriver: chrome on mac (d5dbcfbb445da0057fe447240d0eb819)
+[INFO ] 2023-10-16 20:39:12.133 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 20:39:12.153 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-10-16 20:39:12.170 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:39:12.617 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 20:39:12.617 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 20:39:16.715 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:39:16.717 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 20:39:16.717 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 20:39:16.719 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 20:39:16.736 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 20:39:17.529 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:26.026 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:30.358 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:32.348 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:33.795 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:42.263 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:39:57.858 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:05.169 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:06.414 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:07.665 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:15.021 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:20.326 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:25.611 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:34.839 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:46.157 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 20:40:46.773 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:40:51.778 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-10-16 20:40:52.349 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.test_connect_disconnect_account
+[INFO ] 2023-10-16 20:40:52.350 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:41:07.485 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:41:13.162 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:41:13.744 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:41:30.263 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-16 20:41:44.187 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-16 20:41:44.187 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.test_connect_disconnect_account
+[INFO ] 2023-10-16 20:41:44.645 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.drm_verification
+[INFO ] 2023-10-16 20:41:44.645 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 20:41:44.645 [main] Log - Open the Browser
+[INFO ] 2023-10-16 20:41:46.178 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 20:41:46.198 [main] Log - ChromeDriver: chrome on mac (fe4c24e5ba4dff3eaa172ba858966bd7)
+[INFO ] 2023-10-16 20:41:49.841 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 20:41:49.842 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 20:41:50.006 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:41:50.007 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 20:41:50.408 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:41:50.496 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:41:50.496 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 20:41:50.875 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:01.465 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:42:01.466 [main] Log - Click on Login
+[INFO ] 2023-10-16 20:42:01.826 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:17.286 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:42:20.725 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:29.305 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:30.406 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 20:42:35.454 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:42:40.513 [main] Log - Element clicked
+[INFO ] 2023-10-16 20:42:41.048 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:41.508 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:41.976 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:42.450 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:52.865 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 20:42:56.323 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 20:42:59.355 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.drm_verification
+[INFO ] 2023-10-16 20:42:59.800 [main] Log - Execution Finished
+[INFO ] 2023-10-16 20:43:00.163 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-16 20:43:00.167 [main] Log - Execution Started
+[INFO ] 2023-10-16 20:43:00.168 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 21:53:03.659 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 21:53:03.713 [main] Log - Execution Started
+[INFO ] 2023-10-16 21:53:03.731 [main] Log - Open the Browser
+[INFO ] 2023-10-16 21:53:06.451 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 21:53:06.453 [main] Log - ChromeDriver: chrome on mac (40ec566edac44de3bfdd32e90d937e4f)
+[INFO ] 2023-10-16 21:53:06.575 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 21:53:06.590 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 21:53:06.590 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 21:53:07.012 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 21:53:07.012 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 21:53:11.817 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 21:53:11.823 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 21:53:11.823 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 21:53:11.827 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 21:53:11.840 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 21:53:11.841 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 21:53:12.626 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 21:53:12.626 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 21:53:12.627 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-16 21:53:25.566 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:53:32.219 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:53:36.632 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:53:45.545 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:53:50.072 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:53:54.075 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 21:53:57.502 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 21:53:57.503 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 21:54:03.489 [main] Log - Browser refreshed
+[ERROR] 2023-10-16 21:54:12.506 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-16 21:54:12.507 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-16 21:54:12.516 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 21:54:13.168 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:13.255 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-16 21:54:17.293 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-16 21:54:17.294 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:54:17.739 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:17.838 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:54:18.273 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:18.811 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-16 21:54:22.885 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-16 21:54:23.544 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:28.538 [main] Log - Browser refreshed
+[ERROR] 2023-10-16 21:54:34.578 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-16 21:54:35.168 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:35.176 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 21:54:35.749 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:36.477 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:39.634 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:45.117 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:52.357 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:54:52.850 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:53.300 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:54:59.429 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:54:59.900 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:55:00.345 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:55:07.432 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:55:07.933 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:55:07.933 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 21:55:08.439 [main] Log - Driver Closed
+[INFO ] 2023-10-16 21:55:08.439 [main] Log - Execution Finished
+[INFO ] 2023-10-16 21:55:11.743 [main] Log - Suite FinishedHire Me Test Suite
+[INFO ] 2023-10-16 21:55:11.745 [main] Log - Execution Started
+[INFO ] 2023-10-16 21:55:11.746 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 21:56:36.311 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 21:56:36.364 [main] Log - Execution Started
+[INFO ] 2023-10-16 21:56:36.383 [main] Log - Open the Browser
+[INFO ] 2023-10-16 21:56:38.626 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 21:56:38.639 [main] Log - ChromeDriver: chrome on mac (38101f9f73f25fa176b944b94ed3fdae)
+[INFO ] 2023-10-16 21:56:38.671 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 21:56:38.706 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 21:56:38.716 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 21:56:39.153 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 21:56:39.153 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 21:56:45.696 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 21:56:45.702 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 21:56:45.702 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 21:56:45.705 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 21:56:45.721 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 21:56:45.723 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 21:56:46.524 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 21:56:46.524 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 21:56:46.525 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-16 21:56:59.476 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:06.030 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:10.406 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:19.064 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:23.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:27.598 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 21:57:31.548 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 21:57:31.566 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 21:57:38.735 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:57:49.324 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:57:49.324 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-16 21:57:49.334 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 21:57:49.959 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:50.043 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-16 21:57:54.476 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-16 21:57:54.476 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:57:54.947 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:55.046 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:57:55.479 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:57:55.991 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-16 21:58:00.065 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-16 21:58:00.724 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:03.106 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:58:09.158 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:58:09.787 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:09.796 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 21:58:10.407 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:11.134 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:12.834 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:18.306 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:26.027 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:58:26.493 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:26.924 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:34.973 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:58:35.432 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:35.877 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:43.775 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 21:58:44.273 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:44.274 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 21:58:44.720 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-16 21:58:44.720 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 21:58:44.720 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-16 21:58:48.812 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 21:58:48.812 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 21:58:48.971 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 21:58:48.971 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 21:58:49.455 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:58:49.867 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 21:58:49.867 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 21:58:50.353 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:59:00.849 [main] Log - Element clicked
+[INFO ] 2023-10-16 21:59:00.850 [main] Log - Click on Login
+[INFO ] 2023-10-16 21:59:01.337 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:59:06.341 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 21:59:06.345 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 21:59:06.393 [main] Log - Element clicked
+[INFO ] 2023-10-16 21:59:09.364 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 21:59:13.420 [main] Log - Element clicked
+[INFO ] 2023-10-16 21:59:16.833 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:59:17.371 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 21:59:17.986 [main] Log - Element clicked
+[INFO ] 2023-10-16 21:59:18.000 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:59:18.000 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 21:59:24.003 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-16 21:59:24.554 [main] Log - Driver Closed
+[INFO ] 2023-10-16 21:59:24.555 [main] Log - Execution Finished
+[INFO ] 2023-10-16 21:59:24.831 [main] Log - Suite FinishedHire Me Test Suite
+[INFO ] 2023-10-16 21:59:24.833 [main] Log - Execution Started
+[INFO ] 2023-10-16 21:59:24.834 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 22:16:30.452 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 22:16:30.504 [main] Log - Execution Started
+[INFO ] 2023-10-16 22:16:30.523 [main] Log - Open the Browser
+[INFO ] 2023-10-16 22:16:33.053 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 22:16:33.065 [main] Log - ChromeDriver: chrome on mac (ecc098cc2641963b51671fd5aa723723)
+[INFO ] 2023-10-16 22:16:33.116 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 22:16:33.151 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 22:16:33.162 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 22:16:33.582 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 22:16:37.430 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 22:16:37.434 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 22:16:37.440 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 22:16:37.451 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 22:16:50.415 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:16:58.260 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:02.668 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:11.250 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:15.760 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:19.768 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 22:17:21.671 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 22:17:21.671 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 22:17:25.521 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:33.904 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:39.543 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:43.252 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:43.435 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 22:17:44.061 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 22:17:44.061 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 22:17:44.061 [main] Log - Open the Browser
+[INFO ] 2023-10-16 22:17:45.521 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 22:17:45.530 [main] Log - ChromeDriver: chrome on mac (af8e386bdd319075a2931a3311931e82)
+[INFO ] 2023-10-16 22:17:50.405 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 22:17:50.405 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 22:17:50.582 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 22:17:50.582 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 22:17:50.942 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:17:51.021 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 22:17:51.021 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 22:17:51.428 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:18:02.131 [main] Log - Element clicked
+[INFO ] 2023-10-16 22:18:02.131 [main] Log - Click on Login
+[INFO ] 2023-10-16 22:18:02.530 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:18:17.978 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 22:18:21.449 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:18:30.629 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 22:18:35.876 [main] Log - Element clicked
+[INFO ] 2023-10-16 22:18:41.371 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:18:41.373 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 22:18:41.375 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 22:18:41.415 [main] Log - Element clicked
+[INFO ] 2023-10-16 22:18:43.310 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 22:18:47.351 [main] Log - Element clicked
+[INFO ] 2023-10-16 22:18:47.764 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:18:55.065 [main] Log - Element clicked
+[INFO ] 2023-10-16 22:18:59.957 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 22:18:59.958 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 22:19:00.393 [main] Log - Execution Finished
+[INFO ] 2023-10-16 22:19:00.627 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 22:19:00.629 [main] Log - Execution Started
+[INFO ] 2023-10-16 22:19:00.630 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-16 23:30:37.775 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:30:37.822 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:30:37.836 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:30:37.846 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:30:37.856 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:30:37.864 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:30:37.876 [main] Log - Execution Started
+[INFO ] 2023-10-16 23:30:37.920 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:30:37.956 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-16 23:30:37.956 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:30:37.957 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:30:40.631 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:30:40.639 [main] Log - ChromeDriver: chrome on mac (642e634ee14954c0eb117eff1374cd2b)
+[INFO ] 2023-10-16 23:30:41.060 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:30:41.061 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 23:30:46.984 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:30:46.989 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:30:46.989 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 23:30:46.994 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:30:47.763 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:30:57.794 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:02.131 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:03.731 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:05.175 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:14.918 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:20.295 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:32.220 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:33.476 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:34.767 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:42.099 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:47.432 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:31:52.677 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:01.884 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:12.199 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 23:32:12.872 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:17.897 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 23:32:18.167 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:32:19.602 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:32:19.611 [main] Log - ChromeDriver: chrome on mac (9c96fa4f342261d3f8392e97c34bc786)
+[INFO ] 2023-10-16 23:32:20.039 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:32:20.039 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 23:32:23.547 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:32:23.549 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:32:23.550 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 23:32:23.551 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:32:24.305 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:32.265 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:36.627 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:38.143 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:39.621 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:32:48.407 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:04.924 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:12.294 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:13.533 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:14.793 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:22.075 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:27.374 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:32.591 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:41.902 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:51.765 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 23:33:52.349 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:33:57.375 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 23:33:57.638 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-16 23:33:57.702 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-16 23:33:57.703 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:33:57.703 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:33:59.098 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:33:59.105 [main] Log - ChromeDriver: chrome on mac (d8f9d3399897e516cd1391510fb703a6)
+[INFO ] 2023-10-16 23:33:59.522 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:33:59.523 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 23:34:03.937 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:34:03.939 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:34:03.939 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 23:34:03.941 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:34:06.870 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:13.439 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:17.833 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:25.254 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:29.776 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:46.514 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:52.130 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:57.779 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:34:58.377 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:35:15.429 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:35:21.068 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:35:34.960 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:35:34.961 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-16 23:35:35.441 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-16 23:35:35.441 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:35:35.442 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:35:36.848 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:35:36.848 [main] Log - ChromeDriver: chrome on mac (777b583f96c15f0ae403e040bd5edb48)
+[INFO ] 2023-10-16 23:35:41.341 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:35:41.341 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 23:35:41.513 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:35:41.513 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 23:35:41.891 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:35:41.966 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:35:41.966 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 23:35:42.332 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:35:53.829 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:35:53.829 [main] Log - Click on Login
+[INFO ] 2023-10-16 23:35:54.215 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:09.672 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:36:13.145 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:21.743 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:22.777 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:36:27.844 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:36:32.902 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:36:33.363 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:33.791 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:34.225 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:34.667 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:45.097 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:36:48.565 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:57.144 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:36:58.654 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:37:03.721 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:37:08.787 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:37:09.263 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:09.691 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:10.151 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:10.576 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:10.577 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-16 23:37:11.005 [main] Log - Execution Finished
+[INFO ] 2023-10-16 23:37:11.400 [main] Log - Suite FinishedDRM Indra Suite
+[INFO ] 2023-10-16 23:37:11.402 [main] Log - Execution Started
+[INFO ] 2023-10-16 23:37:11.403 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:37:12.869 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:37:12.892 [main] Log - ChromeDriver: chrome on mac (032deaf972a26e2d7697840c1b93b412)
+[INFO ] 2023-10-16 23:37:12.895 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:37:12.914 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-10-16 23:37:12.932 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:37:13.366 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:37:13.366 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 23:37:18.794 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:37:18.796 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:37:18.796 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 23:37:18.799 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:37:18.833 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 23:37:19.649 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:27.759 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:32.086 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:33.710 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:35.159 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:43.577 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:37:56.159 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:03.426 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:04.674 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:05.931 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:13.201 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:18.464 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:23.749 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:32.997 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:43.996 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 23:38:44.627 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:38:49.631 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-10-16 23:38:50.317 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.test_connect_disconnect_account
+[INFO ] 2023-10-16 23:38:50.317 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:39:05.018 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:39:10.685 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:39:11.274 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:39:27.977 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-16 23:39:39.416 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-16 23:39:39.417 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.test_connect_disconnect_account
+[INFO ] 2023-10-16 23:39:39.892 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.drm_verification
+[INFO ] 2023-10-16 23:39:39.892 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:39:39.892 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:39:41.387 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:39:41.398 [main] Log - ChromeDriver: chrome on mac (745d5a1b333b8e54bacd647c46aadff3)
+[INFO ] 2023-10-16 23:39:45.146 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:39:45.146 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 23:39:45.314 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:39:45.315 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 23:39:45.700 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:39:45.795 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:39:45.796 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 23:39:46.218 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:39:55.509 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:39:55.510 [main] Log - Click on Login
+[INFO ] 2023-10-16 23:39:55.896 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:11.345 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:40:14.821 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:23.429 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:24.428 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:40:29.585 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:40:34.643 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:40:35.127 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:35.590 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:36.023 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:36.474 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:46.894 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:40:50.325 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:40:53.364 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.drm_verification
+[INFO ] 2023-10-16 23:40:53.781 [main] Log - Execution Finished
+[INFO ] 2023-10-16 23:40:54.117 [main] Log - Suite FinishedConnect Disconnect Test Suite
+[INFO ] 2023-10-16 23:40:54.119 [main] Log - Execution Started
+[INFO ] 2023-10-16 23:40:54.120 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:40:55.578 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:40:55.591 [main] Log - ChromeDriver: chrome on mac (9aa460eb906b01df4a220f589a524151)
+[INFO ] 2023-10-16 23:40:55.615 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:40:55.633 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 23:40:55.649 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:40:56.073 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:40:59.449 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:40:59.451 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:40:59.453 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:40:59.468 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 23:41:12.440 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:41:18.954 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:41:23.331 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:41:30.883 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:41:35.365 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:41:39.374 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 23:41:43.052 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 23:41:43.052 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:41:46.971 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:41:57.541 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:42:03.187 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:42:06.822 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:42:06.970 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 23:42:07.557 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 23:42:07.557 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:42:07.557 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:42:08.998 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:42:09.008 [main] Log - ChromeDriver: chrome on mac (6d8876aedeaa59ab4e5bbe48bf8041dc)
+[INFO ] 2023-10-16 23:42:12.464 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:42:12.465 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 23:42:12.624 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:42:12.624 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 23:42:13.029 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:42:13.101 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:42:13.101 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 23:42:13.505 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:42:24.291 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:42:24.291 [main] Log - Click on Login
+[INFO ] 2023-10-16 23:42:24.694 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:42:40.133 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:42:43.578 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:42:52.672 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:42:57.850 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:43:03.337 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:43:03.339 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 23:43:03.342 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 23:43:03.375 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:43:05.243 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:43:09.301 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:43:09.728 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:43:16.249 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:43:19.900 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:43:19.901 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 23:43:20.409 [main] Log - Execution Finished
+[INFO ] 2023-10-16 23:43:20.711 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-16 23:43:20.713 [main] Log - Execution Started
+[INFO ] 2023-10-16 23:43:20.714 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:43:22.160 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:43:22.191 [main] Log - ChromeDriver: chrome on mac (3cb6bd2b1ce0e3d67dde57413fb6e739)
+[INFO ] 2023-10-16 23:43:22.217 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:43:22.233 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 23:43:22.250 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:43:22.692 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:43:22.692 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 23:43:26.553 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:43:26.557 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:43:26.558 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 23:43:26.568 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:43:26.584 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 23:43:26.584 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-16 23:43:27.513 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 23:43:27.514 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:43:27.514 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-16 23:43:40.414 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:43:46.993 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:43:51.364 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:43:58.830 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:03.339 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:07.350 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 23:44:11.623 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 23:44:11.623 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:44:17.569 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:44:24.827 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 23:44:24.827 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-16 23:44:24.835 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 23:44:25.457 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:25.518 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-16 23:44:29.568 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-16 23:44:29.571 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 23:44:30.027 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:30.100 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 23:44:30.513 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:31.147 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-16 23:44:35.220 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-16 23:44:35.853 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:38.223 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:44:44.287 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 23:44:44.874 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:44.882 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-16 23:44:45.450 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:46.160 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:49.332 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:44:54.810 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:00.738 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:45:01.230 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:01.725 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:07.315 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:45:07.778 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:08.213 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:14.281 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:45:14.779 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:14.779 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-16 23:45:15.278 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-16 23:45:15.278 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:45:15.278 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-16 23:45:18.971 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:45:18.971 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 23:45:19.111 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:45:19.112 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 23:45:19.569 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:19.643 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:45:19.643 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 23:45:20.111 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:29.988 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:45:29.989 [main] Log - Click on Login
+[INFO ] 2023-10-16 23:45:30.479 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:35.486 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 23:45:35.486 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 23:45:35.527 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:45:37.582 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:45:41.631 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:45:42.103 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:45.177 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:45:45.980 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:45:45.991 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 23:45:45.991 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-16 23:45:51.993 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-16 23:45:52.543 [main] Log - Driver Closed
+[INFO ] 2023-10-16 23:45:52.544 [main] Log - Execution Finished
+[INFO ] 2023-10-16 23:45:52.829 [main] Log - Suite FinishedHire Me Test Suite
+[INFO ] 2023-10-16 23:45:52.831 [main] Log - Execution Started
+[INFO ] 2023-10-16 23:45:52.832 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:45:54.493 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:45:54.509 [main] Log - ChromeDriver: chrome on mac (d4d1c6bbbdac3291b8dee3b35f208292)
+[INFO ] 2023-10-16 23:45:54.531 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:45:54.550 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 23:45:54.567 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:45:54.972 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:45:58.737 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:45:58.740 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:45:58.741 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:45:58.751 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 23:46:11.724 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:46:18.278 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:46:22.681 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:46:30.157 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:46:34.638 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:46:38.640 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-16 23:46:41.441 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 23:46:41.442 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:46:45.281 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:46:53.909 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:46:59.568 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:47:03.235 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:47:03.374 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-16 23:47:03.978 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 23:47:03.979 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:47:03.979 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:47:05.513 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:47:05.523 [main] Log - ChromeDriver: chrome on mac (874305a025bc5614ea6616fd20a8b35c)
+[INFO ] 2023-10-16 23:47:09.248 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:47:09.248 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-16 23:47:09.454 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:47:09.454 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-16 23:47:09.957 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:47:10.067 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:47:10.067 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-16 23:47:10.845 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:47:20.416 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:47:20.416 [main] Log - Click on Login
+[INFO ] 2023-10-16 23:47:20.842 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:47:36.291 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:47:39.723 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:47:48.919 [main] Log - Browser refreshed
+[INFO ] 2023-10-16 23:47:53.983 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:47:59.467 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:47:59.469 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-16 23:47:59.469 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-16 23:47:59.504 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:48:01.611 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:48:05.660 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:48:06.064 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-16 23:48:20.144 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 23:48:20.539 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:48:20.540 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-16 23:48:20.937 [main] Log - Execution Finished
+[INFO ] 2023-10-16 23:48:24.257 [main] Log - Suite FinishedCommunity Tag Test Suite (0)
+[INFO ] 2023-10-16 23:48:24.260 [main] Log - Execution Started
+[INFO ] 2023-10-16 23:48:24.262 [main] Log - Open the Browser
+[INFO ] 2023-10-16 23:48:26.072 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-16 23:48:26.088 [main] Log - ChromeDriver: chrome on mac (6f2fa5d7a96d01bdd0d5e4d41c681c2e)
+[INFO ] 2023-10-16 23:48:26.090 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-16 23:48:26.112 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-16 23:48:26.146 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:48:26.585 [main] Log - Browser window maximised
+[INFO ] 2023-10-16 23:48:26.585 [main] Log - Navigation to URL
+[INFO ] 2023-10-16 23:48:30.968 [main] Log - Navigated to URL
+[INFO ] 2023-10-16 23:48:30.970 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-16 23:48:30.970 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-16 23:48:30.971 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-16 23:48:30.979 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-16 23:48:30.980 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-16 23:48:31.746 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-16 23:48:31.746 [main] Log - This message is from my own project
+[INFO ] 2023-10-16 23:48:35.877 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-10-16 23:48:36.711 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:48:47.772 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-10-16 23:48:48.231 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:48:48.236 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522MFhBRXFucVVibTZES1ZKb29uSTBaS0J4UHZGa2hobWZEdkpXbER2MERjajBESEhTS2lYT3JOUERuVzFJU3ZFdg%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1697480323736%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522MFhBRXFucVVibTZES1ZKb29uSTBaS0J4UHZGa2hobWZEdkpXbER2MERjajBESEhTS2lYT3JOUERuVzFJU3ZFdg%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1697480323736%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%257D
+[INFO ] 2023-10-16 23:48:50.241 [main] Log - Enter email address.
+[INFO ] 2023-10-16 23:48:50.402 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:48:50.838 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:48:51.037 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-16 23:48:51.038 [main] Log - Enter password.
+[INFO ] 2023-10-16 23:48:51.488 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-16 23:48:54.187 [main] Log - Element clicked
+[INFO ] 2023-10-16 23:48:54.187 [main] Log - click on login button.
+[WARN ] 2023-10-16 23:51:59.200 [main] Log - WebElement Not found
+[INFO ] 2023-10-16 23:51:59.203 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-16 23:54:59.240 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2023-10-16 23:54:59.240 [main] Log - This message is from my own project

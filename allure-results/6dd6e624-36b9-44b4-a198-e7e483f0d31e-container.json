@@ -1,0 +1,1 @@
+{"uuid":"6dd6e624-36b9-44b4-a198-e7e483f0d31e","name":"Login Using Linkdin","children":["6bbb789d-ac3b-4817-b6d7-90c7268aad61"],"befores":[{"name":"suiteSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1717415629124,"stop":1717415633423}],"afters":[],"start":1717415629091,"stop":1717415675505}

@@ -1,0 +1,140 @@
+[INFO ] 2024-05-15 23:04:06.218 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:04:06.290 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:04:06.316 [main] Log - Open the Browser
+[INFO ] 2024-05-15 23:04:17.742 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-15 23:04:17.761 [main] Log - ChromeDriver: chrome on mac (e60423f6674c4da4ac60b84d7da639ea)
+[INFO ] 2024-05-15 23:04:17.819 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:04:17.868 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:04:17.885 [main] Log - This message is from my own project
+[INFO ] 2024-05-15 23:04:18.212 [main] Log - Browser window maximised
+[INFO ] 2024-05-15 23:04:18.221 [main] Log - Navigation to URL
+[INFO ] 2024-05-15 23:04:24.393 [main] Log - Navigated to URL
+[INFO ] 2024-05-15 23:04:24.399 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-15 23:04:24.399 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-05-15 23:04:24.403 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-15 23:04:24.424 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-15 23:04:47.496 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:04:48.244 [main] Log - Execution Finished
+[INFO ] 2024-05-15 23:04:48.583 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-15 23:04:48.586 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:04:48.589 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-15 23:10:09.091 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:10:09.153 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:10:09.179 [main] Log - Open the Browser
+[INFO ] 2024-05-15 23:10:11.859 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-15 23:10:11.859 [main] Log - ChromeDriver: chrome on mac (b03b5d9bf7e2406634a38237ac89914a)
+[INFO ] 2024-05-15 23:10:11.918 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:10:12.001 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:10:12.011 [main] Log - This message is from my own project
+[INFO ] 2024-05-15 23:10:12.372 [main] Log - Browser window maximised
+[INFO ] 2024-05-15 23:10:12.376 [main] Log - Navigation to URL
+[INFO ] 2024-05-15 23:10:14.826 [main] Log - Navigated to URL
+[INFO ] 2024-05-15 23:10:14.840 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-15 23:10:14.841 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-05-15 23:10:14.848 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-15 23:10:18.775 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-15 23:10:22.001 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:10:22.893 [main] Log - Execution Finished
+[INFO ] 2024-05-15 23:10:23.342 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-15 23:10:23.344 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:10:23.345 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-15 23:22:32.143 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:22:32.494 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:22:32.635 [main] Log - Open the Browser
+[INFO ] 2024-05-15 23:22:45.608 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-15 23:22:45.611 [main] Log - ChromeDriver: chrome on mac (c848e625727b58056de4b9ca10b25e82)
+[INFO ] 2024-05-15 23:22:45.750 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:22:46.156 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:22:46.162 [main] Log - This message is from my own project
+[INFO ] 2024-05-15 23:22:46.661 [main] Log - Browser window maximised
+[INFO ] 2024-05-15 23:22:46.662 [main] Log - Navigation to URL
+[INFO ] 2024-05-15 23:22:50.416 [main] Log - Navigated to URL
+[INFO ] 2024-05-15 23:22:50.445 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-15 23:22:50.446 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-05-15 23:22:50.474 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-15 23:23:14.069 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-15 23:23:18.773 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:24:01.403 [main] Log - Execution Finished
+[INFO ] 2024-05-15 23:24:03.402 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-15 23:24:03.419 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:24:03.424 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-15 23:38:34.081 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:38:34.145 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:38:34.162 [main] Log - Open the Browser
+[INFO ] 2024-05-15 23:38:36.596 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-15 23:38:36.613 [main] Log - ChromeDriver: chrome on mac (34b9cefa6289e4f55313294c3ecb7313)
+[INFO ] 2024-05-15 23:38:36.648 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:38:36.695 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:38:36.709 [main] Log - This message is from my own project
+[INFO ] 2024-05-15 23:38:37.031 [main] Log - Browser window maximised
+[INFO ] 2024-05-15 23:38:37.044 [main] Log - Navigation to URL
+[INFO ] 2024-05-15 23:38:43.630 [main] Log - Navigated to URL
+[INFO ] 2024-05-15 23:38:43.638 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-15 23:38:43.638 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-05-15 23:38:43.643 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-15 23:38:43.660 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-15 23:38:46.878 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:38:52.771 [main] Log - Execution Finished
+[INFO ] 2024-05-15 23:38:53.025 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-15 23:38:53.027 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:38:53.029 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-15 23:41:58.060 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:41:58.112 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:41:58.132 [main] Log - Open the Browser
+[INFO ] 2024-05-15 23:42:00.666 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-15 23:42:00.667 [main] Log - ChromeDriver: chrome on mac (c2ccc5175d4a44e341fb3af2b7f497b9)
+[INFO ] 2024-05-15 23:42:00.695 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:42:00.745 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:42:00.760 [main] Log - This message is from my own project
+[INFO ] 2024-05-15 23:42:01.098 [main] Log - Browser window maximised
+[INFO ] 2024-05-15 23:42:01.109 [main] Log - Navigation to URL
+[INFO ] 2024-05-15 23:42:06.766 [main] Log - Navigated to URL
+[INFO ] 2024-05-15 23:42:06.772 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-15 23:42:06.772 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-05-15 23:42:06.775 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-15 23:42:06.798 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-15 23:42:35.044 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:42:36.270 [main] Log - Execution Finished
+[INFO ] 2024-05-15 23:42:36.522 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-15 23:42:36.525 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:42:36.527 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-15 23:44:02.599 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:44:02.650 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:44:02.669 [main] Log - Open the Browser
+[INFO ] 2024-05-15 23:44:05.039 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-15 23:44:05.043 [main] Log - ChromeDriver: chrome on mac (10c8b9d2cc225bb5a2fc61c74f928f6e)
+[INFO ] 2024-05-15 23:44:05.096 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:44:05.145 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:44:05.157 [main] Log - This message is from my own project
+[INFO ] 2024-05-15 23:44:05.484 [main] Log - Browser window maximised
+[INFO ] 2024-05-15 23:44:05.499 [main] Log - Navigation to URL
+[INFO ] 2024-05-15 23:44:12.507 [main] Log - Navigated to URL
+[INFO ] 2024-05-15 23:44:12.513 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-15 23:44:12.513 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-05-15 23:44:12.517 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-15 23:44:12.537 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-15 23:44:21.303 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:44:22.530 [main] Log - Execution Finished
+[INFO ] 2024-05-15 23:44:22.770 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-15 23:44:22.772 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:44:22.774 [main] Log - Suite FinishedSuite
+[INFO ] 2024-05-15 23:57:13.207 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:57:13.277 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:57:13.305 [main] Log - Open the Browser
+[INFO ] 2024-05-15 23:57:16.017 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-05-15 23:57:16.027 [main] Log - ChromeDriver: chrome on mac (aa7df200b2db5bdf61492c7af486b7fe)
+[INFO ] 2024-05-15 23:57:16.081 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-05-15 23:57:16.150 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:57:16.164 [main] Log - This message is from my own project
+[INFO ] 2024-05-15 23:57:16.494 [main] Log - Browser window maximised
+[INFO ] 2024-05-15 23:57:16.501 [main] Log - Navigation to URL
+[INFO ] 2024-05-15 23:57:23.011 [main] Log - Navigated to URL
+[INFO ] 2024-05-15 23:57:23.017 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-05-15 23:57:23.017 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-05-15 23:57:23.023 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-05-15 23:57:23.047 [main] Log - All Browser cookies deleted
+[INFO ] 2024-05-15 23:57:31.866 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Demo.navigateToUrl
+[INFO ] 2024-05-15 23:57:33.154 [main] Log - Execution Finished
+[INFO ] 2024-05-15 23:57:33.528 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2024-05-15 23:57:33.531 [main] Log - Execution Started
+[INFO ] 2024-05-15 23:57:33.532 [main] Log - Suite FinishedSuite

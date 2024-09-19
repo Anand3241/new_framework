@@ -1,0 +1,1 @@
+{"uuid":"f2297d5b-bc1a-4de0-bd81-89765b3c93c1","name":"com.thtechops.qa.Login.LoginTest","children":["bfd38d71-dcef-469f-b691-2b6d77691e86"],"befores":[],"afters":[{"name":"endClassTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1726737996680,"stop":1726737996876}],"start":1726737991064,"stop":1726737996907}

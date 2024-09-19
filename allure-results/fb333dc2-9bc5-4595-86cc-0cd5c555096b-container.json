@@ -1,0 +1,1 @@
+{"uuid":"fb333dc2-9bc5-4595-86cc-0cd5c555096b","name":"Firefox SignUp Test Suite","children":["e7d423ed-ea65-4d82-a0b0-802d2546dc21"],"befores":[{"name":"suiteSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1696850761856,"stop":1696850765428}],"afters":[],"start":1696850761834,"stop":1696850781371}

@@ -1,0 +1,36 @@
+[INFO ] 2023-01-02 19:07:31.175 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-01-02 19:07:31.213 [main] Log - Execution Started
+[INFO ] 2023-01-02 19:07:31.312 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2023-01-02 19:07:31.312 [main] Log - This message is from my own project
+[INFO ] 2023-01-02 19:07:34.087 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2023-01-02 19:07:34.087 [main] Log - Browser opened
+[INFO ] 2023-01-02 19:07:34.104 [main] Log - current url fetched data:,
+[INFO ] 2023-01-02 19:07:34.221 [main] Log - Browser window maximised
+[INFO ] 2023-01-02 19:07:34.495 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-01-02 19:07:46.802 [main] Log - Navigated to URL
+[INFO ] 2023-01-02 19:07:46.850 [main] Log - Browser refreshed
+[ERROR] 2023-01-02 19:07:47.435 [main] Log - Verification of actual vs expected title failed GET
+[INFO ] 2023-01-02 19:07:48.415 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-01-02 19:07:48.481 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2023-01-02 19:07:49.270 [main] Log - Execution Finished
+[INFO ] 2023-01-02 19:07:49.659 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-01-02 19:07:49.688 [main] Log - Execution Started
+[INFO ] 2023-01-02 19:07:49.699 [main] Log - Suite FinishedSuite
+[INFO ] 2023-01-02 19:13:38.609 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-01-02 19:13:38.635 [main] Log - Execution Started
+[INFO ] 2023-01-02 19:13:38.735 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2023-01-02 19:13:38.735 [main] Log - This message is from my own project
+[INFO ] 2023-01-02 19:13:41.130 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2023-01-02 19:13:41.130 [main] Log - Browser opened
+[INFO ] 2023-01-02 19:13:41.145 [main] Log - current url fetched data:,
+[INFO ] 2023-01-02 19:13:41.260 [main] Log - Browser window maximised
+[INFO ] 2023-01-02 19:13:41.523 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-01-02 19:13:55.174 [main] Log - Navigated to URL
+[INFO ] 2023-01-02 19:13:55.228 [main] Log - Browser refreshed
+[ERROR] 2023-01-02 19:13:55.746 [main] Log - Verification of actual vs expected title failed GET
+[INFO ] 2023-01-02 19:13:56.562 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-01-02 19:13:56.627 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2023-01-02 19:13:57.595 [main] Log - Execution Finished
+[INFO ] 2023-01-02 19:13:57.976 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-01-02 19:13:57.980 [main] Log - Execution Started
+[INFO ] 2023-01-02 19:13:57.981 [main] Log - Suite FinishedSuite

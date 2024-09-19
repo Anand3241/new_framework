@@ -1,0 +1,828 @@
+[INFO ] 2023-10-17 10:05:06.891 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:05:06.956 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:05:06.977 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:05:09.741 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:05:09.760 [main] Log - ChromeDriver: chrome on mac (aeeaffb9a62f3fbc6be065e52111e944)
+[INFO ] 2023-10-17 10:05:09.806 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:05:09.856 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:05:09.857 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:05:10.279 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:05:10.279 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:05:16.137 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:05:16.144 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:05:16.144 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:05:16.150 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:05:16.174 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:05:16.175 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:05:16.995 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:05:16.995 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:05:21.130 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-10-17 10:05:21.941 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:05:34.274 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-10-17 10:05:34.788 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:05:34.794 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522YUZaZFFqaW96TkVUQVFNYjVVWk9kYlRSbXRJdkpzMG0yZjlHTE1lZGJJYTVTekt3WGJ1Y2FJTGg2RHBtSkRndA%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1697517330527%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522YUZaZFFqaW96TkVUQVFNYjVVWk9kYlRSbXRJdkpzMG0yZjlHTE1lZGJJYTVTekt3WGJ1Y2FJTGg2RHBtSkRndA%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1697517330527%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-10-17 10:05:36.797 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:05:36.941 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:05:37.420 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:05:37.620 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:05:37.620 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:05:38.087 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:05:41.054 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:05:41.055 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:05:42.195 [main] Log - Browser refreshed
+[WARN ] 2023-10-17 10:06:00.246 [main] Log - WebElement Not found
+[INFO ] 2023-10-17 10:06:38.204 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:06:38.254 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:06:38.272 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:06:40.573 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:06:40.591 [main] Log - ChromeDriver: chrome on mac (5c2e202e721105d3f1809e598bc8956b)
+[INFO ] 2023-10-17 10:06:40.669 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:06:40.714 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:06:40.724 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:06:41.147 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:06:41.147 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:06:44.865 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:06:44.869 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:06:44.869 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:06:44.874 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:06:44.883 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:06:44.884 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:06:45.754 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:06:45.755 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:06:49.891 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-10-17 10:06:50.708 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:07:01.506 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-10-17 10:07:01.961 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:07:01.968 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522TVJMR1hBVnN2bmZwNGRyTUFBcDY0cXNpSXNRNDBSQXRUejZuVzZKejZ2b0pNNitSMVBKUm9ndHpWaGRGcHdKSA%2522%252C%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1697517417836%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522TVJMR1hBVnN2bmZwNGRyTUFBcDY0cXNpSXNRNDBSQXRUejZuVzZKejZ2b0pNNitSMVBKUm9ndHpWaGRGcHdKSA%2522%252C%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1697517417836%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-10-17 10:07:03.971 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:07:04.131 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:07:04.574 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:07:04.832 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:07:04.832 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:07:05.327 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:07:08.464 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:07:08.465 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:07:09.421 [main] Log - Browser refreshed
+[WARN ] 2023-10-17 10:07:34.468 [main] Log - WebElement Not found
+[INFO ] 2023-10-17 10:07:34.471 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:07:35.128 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2023-10-17 10:07:35.128 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:07:38.780 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:07:38.780 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 10:07:38.927 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:07:38.927 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 10:07:39.370 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:07:39.491 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:07:39.492 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 10:07:39.960 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:07:51.900 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:07:51.900 [main] Log - Click on Login
+[INFO ] 2023-10-17 10:07:52.583 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:07:57.587 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2023-10-17 10:07:58.303 [main] Log - Execution Finished
+[INFO ] 2023-10-17 10:07:58.616 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2023-10-17 10:07:58.619 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:07:58.621 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-17 10:09:50.936 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:09:50.989 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:09:51.008 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:09:53.369 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:09:53.380 [main] Log - ChromeDriver: chrome on mac (eb4c67462a42565360881508c312ad17)
+[INFO ] 2023-10-17 10:09:53.412 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:09:53.447 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:09:53.456 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:09:53.876 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:09:53.876 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:09:57.357 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:09:57.361 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:09:57.361 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:09:57.365 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:09:57.378 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:09:57.380 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:09:58.208 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:09:58.208 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:10:02.350 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-10-17 10:10:03.128 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:10:13.846 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-10-17 10:10:14.328 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:10:14.334 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522cHJwS2xRbWh2bXBKVUhTek9pKzFLem1BUU56clFNOFVWcGVFYTVRYjA3UkcxL3NyelJMc2FtMHhSN1B2R0VFYQ%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1697517610160%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522cHJwS2xRbWh2bXBKVUhTek9pKzFLem1BUU56clFNOFVWcGVFYTVRYjA3UkcxL3NyelJMc2FtMHhSN1B2R0VFYQ%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1697517610160%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%257D
+[INFO ] 2023-10-17 10:10:16.340 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:10:16.500 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:10:16.954 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:10:17.150 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:10:17.150 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:10:17.640 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:10:20.516 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:10:20.516 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:10:21.677 [main] Log - Browser refreshed
+[WARN ] 2023-10-17 10:10:46.739 [main] Log - WebElement Not found
+[INFO ] 2023-10-17 10:10:46.741 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:10:47.195 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2023-10-17 10:10:47.195 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:10:51.136 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:10:51.136 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 10:10:51.280 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:10:51.280 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 10:10:51.736 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:10:51.829 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:10:51.829 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 10:10:52.617 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:02.339 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:11:02.339 [main] Log - Click on Login
+[INFO ] 2023-10-17 10:11:02.807 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:18.288 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:11:21.842 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:31.018 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:32.003 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 10:11:37.080 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:11:42.146 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:11:42.720 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:43.283 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:43.818 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:44.374 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:11:44.375 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2023-10-17 10:11:44.887 [main] Log - Execution Finished
+[INFO ] 2023-10-17 10:11:45.138 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2023-10-17 10:11:45.140 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:11:45.141 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-17 10:18:09.225 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:18:09.277 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:18:09.296 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:18:11.661 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:18:11.663 [main] Log - ChromeDriver: chrome on mac (2254f1000baa48b04f97a298d2abbaa5)
+[INFO ] 2023-10-17 10:18:11.795 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:18:11.810 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:18:11.816 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:18:12.235 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:18:12.235 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:18:16.106 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:18:16.113 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:18:16.113 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:18:16.117 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:18:16.133 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:18:16.136 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:18:17.106 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:18:17.106 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:18:29.219 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-17 10:18:29.826 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:18:31.827 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-17 10:18:33.118 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:18:33.131 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYtBHRe7MDAwMDAwMDAwMDAwMDAwAAAA9qXCZ4hP0MHKw8rYR1a1ZLD3UUDEqIo9-kZnZE3spRlFO3i1llEXnXYifC-hCmmuhlu5ctUEvKo_7IgupfIgevNkBgnIesB-Mxge1iptqa1e0gJrWGMYtUr78tbeDfAUgJC8geHjNN9en_Etcbt_Xd6J8AhL92QNK4ssuk0Yc4XDgbCiNQ149plfk9tnPpM6yBCBWo9y_wxefOjka2DseOqyuGy0Z2i0Th9xnZNnNhzbNshU5yntrXMIijCB-_UGOEFoEf4d2MViwtX9Degz4brmibC8POjRBBQC5Sx0BV3IKrMqBYCoq5gHTKbp4WwsIJrDiBbAhGsrLA9HkL6p7gHhUjPAzcTNPLCH_eVFmLMMl2VkPVtr7cMUOy9wQJQNv3QEXWUDWYjvU7inzlmlx0fglnSHcUE4T3dztGOy9VqIGIzD56IjVZR1f1NeOwWCL3UCtsvoUvdCXE0JzloKcDgVIXQc7bBwYHVmmbp_fs3u6DYIqrY_EKvkL4OZytMmBWLVIGnHUp1PbjcxCa1ApjKinVmrao_UPRNCSAH0zPv0P95OmNheLT75pWgQyizUocFPr87diZ7MqeHfMq03kOLAxihsq9tZCHJar24nkdPcQPRqjJitx2D03gjdvYHuDESI_eJECtcz-EuNeKOCZirQg13tLkO5Jdl3NB_nYl2k9j_XpiC6WOyTjApeeNFCetK9HTP7YR4KQmYfP4OY0ydGntMwQW4R4FPTjg1SYnme7aWIdYcHXR7BAPa0CP9k9FQKJdKNKkMo0u4ctj6pBCddqQKMlRJPLcVwd1_oAFxeqGJ0M3_BRxxVx2InrKR6KUcLZjo2pPtV0F3ww-DvouuH5fmc-jkvCYmSmYkAFz-mbNYpj-CKZ1IGmccpmJOk5cIb0mwKCuZtFsN96Fu7Eic%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-17 10:18:35.135 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:18:35.307 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:18:36.211 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:18:36.331 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:18:36.331 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:18:37.218 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:18:41.986 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:18:41.986 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:19:35.664 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:19:36.301 [main] Log - Execution Finished
+[INFO ] 2023-10-17 10:19:36.555 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-17 10:19:36.557 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:19:36.559 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-17 10:23:19.381 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:23:19.432 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:23:19.450 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:23:21.638 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:23:21.642 [main] Log - ChromeDriver: chrome on mac (590be57bfab2c85bac7220a555429c4d)
+[INFO ] 2023-10-17 10:23:21.676 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:23:21.712 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:23:21.721 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:23:22.146 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:23:22.147 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:23:25.774 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:23:25.778 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:23:25.778 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:23:25.783 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:23:25.887 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:23:25.889 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:23:26.750 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:23:26.750 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:23:40.512 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-17 10:23:41.026 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:23:43.027 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-17 10:23:44.386 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:23:44.398 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYtBIdYFMDAwMDAwMDAwMDAwMDAwAAAA9vRjOn6ApMIxg-32EMgmZ_diLqaDI-ApvjWcNotsJ0IHtxEYcl5Tr08GDkjU-g-0M0zbvguzCTbygFLvSTpbKS8GJnQHOKY8_qLlKoyI7kfhVo0UlM-chtw9pm-GyoR9FIl_12tGl4jqFfJRgCl0FkUJeRDWHtl4qMernpbG627tZ8Sz6d3eBuO2iCUI3aJPDzGYJXIMB75kyz_h8jb2ci0oAQwKKM4nwlQ99vhCUNa43UH1e4mfEIqhoL6fmr_oe-oy_rd7ndsHYJfrYreqmu_ZMwMrzpyn2h3Nh-Yohgmv1Is0uHhYcBjRbxCUo7wLsRIrAt6Dn6_ZAXYS26lZuEGPz3P-mFHFR6MOuP-cmUN6GdDizX9MZcTCIsSAtllqK0EnE9VSGl3FNQi4PuwkncMD1_k1jwvQuERRBD4XpqNqrAMiBG_rXEM189bfMh7cEjv0vE8CqQd0tLwY03TLJpACbSHdNhjdrS1awVnUdRWmVecBA0SO3Y9OHEMPuYDzfHywctLANNfhZuvr8DP98K5iOFv0rpLxlTx83I-JfCVXN33O_5b7y-pLPCFzixdvcP85r3ojOZK_6ntmnRAb540-xa2RXIUqpeTPOG_hOt7v9LW3Agijwq_kDzZkOGDsx5e3TWCNYIc09L464UyWUv3sAjxioqJhjTvwqCkzoc8EGqSeDkugHYNCBx3JbRe7078J0Wsdupx2Am9kX41FvlG_Nsz-3XNc1YKRGOQwGMzKpyJwYwXf-adl7OsNy-jLBg2znPOjSvCA_ZoqQvoRs864r-m4m2b3rnoqmwNs-vDltQqy_vVWtdzhhlJlruOQ0sBn8VBvrX6vGOojrlPWWzuXp4AB89J9F-Uk1OON-gNEp2Ogii0ewVxvC-w8fuMPAUn1-xHjE73B03ORcx5UirY%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-17 10:23:46.399 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:23:46.578 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:23:47.303 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:23:47.393 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:23:47.393 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:23:48.144 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:23:52.711 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:23:52.712 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:24:44.351 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:24:45.003 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.drm_verification
+[INFO ] 2023-10-17 10:24:45.004 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:25:10.111 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.drm_verification
+[INFO ] 2023-10-17 10:28:41.641 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:28:41.688 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:28:41.707 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:28:43.966 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:28:43.980 [main] Log - ChromeDriver: chrome on mac (2fb79d2f147006d9736e40cc47c5c9ec)
+[INFO ] 2023-10-17 10:28:44.021 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:28:44.065 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:28:44.079 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:28:44.497 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:28:44.498 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:28:48.954 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:28:48.959 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:28:48.959 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:28:48.963 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:28:48.975 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:28:48.977 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:28:49.777 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:28:49.777 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:29:03.864 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-17 10:29:04.474 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:29:06.478 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-17 10:29:08.060 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:29:08.078 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYtBJsamMDAwMDAwMDAwMDAwMDAwAAAA9oQVPvx4DMRYb8f9106pQu65QtABwRS80epgBzcrYbRhCnIbPC72oM4HPKxSjrFTQHkd6ND40BImlV2bea2iPl2tamkVLJRoiusY2xzG9q6Bjoj881ib-awhku5sCi1GKoo1JoDPoeTq7DYrtDUn6x__TG6V3JujUSa8fxC4bS68OuyhIwct9JF_cI8Vvaf2EnTTLbOp-TNhunTLResIMzcLQsjQMBpIwNQf-QKWVPJKtZ8dVVZv1Yxwz-g05BBwMfWH1U8hVx-w4hybTXHynFG5cF8hTrsk8frTa0k2YJL3L8fmbf9OpBozLvU2_xHbP3WEPJF54pQDqWpMPsi60Df3HQ2KwQeHhvHCdST7TYysPrriHwOzhHrESvcVZKFAk3suRW_f2jHscjUalf9WJw96ZWiPgPYBEw_8cZSJhKjOr1yoV2aiuoGmJCP1J3fB5b0If0HzMgVnXaXAvHMEIiL5kehAJReU99grdzazRlGjN6wKYTL9mOCXO8HNpY9vwh8GQ0A6rvNVo1mgXUZJGyQ62eYRCmzCd0DmpPU4o6D91QiVquVlvah6bYh_u0QNBB2aMhomfUliP10J6Bin1TElH0vWXeoBWXvfOrdU-tNADwnVlyFswnkHMgBq0JwLL7AHHstrlTOZdnmEWMXvuvKwc3wCr1VMdLpk4Mg_2O6fKWFm_P7p47e6vMeqahudzIWDMjiKGWnixGaJJUmM9e00f5ejOrV2-UgXkEGKRYyDtiUMPoxwzh3QAvw0qpxQXkEk9f5yEgeC8STsfutgHEUn09wBkhrhD0AcW_EahGnqHgvImVwmQi4VR4hp6kolRCiXRLvhdYU0UfL_wK9D6bWfd2v1IGRzTH-V4UFswmcei6DtpO5DnunC64DJwhODUD0VfX3UwAXF3qTW3vgt4vE%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-17 10:29:10.084 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:29:10.256 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:29:11.243 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:29:11.353 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:29:11.353 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:29:12.350 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:29:16.755 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:29:16.755 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:30:29.863 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:30:29.913 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:30:29.932 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:30:32.635 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:30:32.653 [main] Log - ChromeDriver: chrome on mac (154a50e26b1d29d189553b7735a899ff)
+[INFO ] 2023-10-17 10:30:32.706 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:30:32.737 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:30:32.750 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:30:33.184 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:30:33.184 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:30:37.183 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:30:37.188 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:30:37.188 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:30:37.192 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:30:37.202 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:30:37.204 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:30:38.001 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:30:38.002 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:30:51.733 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-17 10:30:52.662 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:30:54.679 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-17 10:30:56.151 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:30:56.255 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYtBKGyeMDAwMDAwMDAwMDAwMDAwAAAA9urMU6NqYbZ-vX2ka2k6jHiRMObaZthI3UCybjrgOFlp2xnI9THBXmCgH5_WYC_WDEoKIt0bLS8BZ_YMxGjNc6ns8-mRiVgRB9zOXpqqocKM4KRLBW0G3XJOhWj383nQSaSGpancW-hB2M5MReRuCSh9e0qAyOxDTIwW6f8bWYMmQlL2Q6HegrycLgVpmmRtHEc2KAEGOmFpNU-z-MGbdAyfIA7PHmZLvyu6820ppJTbDDK2Hf975EJVyVZdo8o0WoUt0ASMr1VULNXZUH7ULUwk_l8mQ6o1pqC_0_-e0-PvMgMAtFi-UvYKkn4-RvG0KQiizfyrAcbAZzW7J5C5XslVlAplo7eHS6k1Klp6tT_o5XI2PlSU2qPQfeS4UsyXoRGOMbyYgMHHtTTrSfcc9XzaBVnfV2A30CXxzXfs6cy3ksZ74I0SgTfA2_37gGkB1bheWZY8SE1czJC09ORMAqsETcBrEyzcZM5kduouWQ8WKG6bWfo4tAoALE7GjN_XCO52joTXLAja8dMJLrq3vffyszo7MATG3smWkG-2M8Y0y7fMCYFkgNtSVGEm1bmj3Kvwl2F2bydeLB1pV1PUyRRTsdR21-6rynSSCUuD0V4qP03taFE2q9oVm65kq2tNpsCjyxCrLBkeoBknUAVAbVTOJqMRN_SyxHLS66uj7aYaeAws4iaJhQz2VtMB6VDWPGSlfcCQ4zB12Fu2X-8aqaZoPu-VptwvNirO00sWxOTLN02l47re2xY_dOUrNCYo6Z1QaDNjZddKJ8G-ZduS5pUjghRkyiT9-9upiWSeiSBXKALPaLRRPoV1dvEjjFoyCmuzHtg0LHeso4IIqWSKaijgQwH-c2cumAJkKW0IcGgK5SxJtUpsOUB6DydHIMyGFbH-NfeKu7ok_JIE0c81RoQ%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-17 10:30:58.260 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:30:58.446 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:30:59.339 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:30:59.430 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:30:59.430 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:31:00.355 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:31:05.268 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:31:05.268 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:32:39.936 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:32:39.990 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:32:40.011 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:32:42.398 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:32:42.409 [main] Log - ChromeDriver: chrome on mac (7ac00681ff7fa9dec9ec4b2ecd79a000)
+[INFO ] 2023-10-17 10:32:42.459 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:32:42.519 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:32:42.522 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:32:42.939 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:32:42.940 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:32:46.777 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:32:46.781 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:32:46.782 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:32:46.785 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:32:46.797 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:32:46.798 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 10:32:47.691 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 10:32:47.691 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:32:59.421 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-17 10:33:00.019 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:33:02.024 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-17 10:33:04.017 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:33:04.031 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYtBKmCIMDAwMDAwMDAwMDAwMDAwAAAA9jyBkikIxVMc7Ujr54m-ievmJS-59eBT6BHTEMS5vQVcgWaQOwOFGhqo7KTcsolCZeq2DOhK9MOmbU_f9_GcBkedvVxHe5mpgtj-W4PgrppjuEsnW9Hek81WenR60_FdejdTy1n5YncDD8E4ciSIiHa9v5-fD1oFmRNAqrckMCdu3DWYAxMeh6492QYeszVfBe0Cl3qP837ETk3_tOyLb06htOTDRWybW87Ahkt0iBcOLeiauI_9NkNn2iBc2V1UabR5dxJNGV1uXAZMlO7gkbRxLj5zH7ALf_b4dDbHL7CRrYjjZIfsCPumDJsrQthwUTq6QO-bbEq1fTEy2VYduH1GGcdauOaVcSZCq2qMy4uetk_-zEwnH81IvSw9mojwCq2cc349tkwl3M5vrKQ9NP44JIKBpgAlshGGgca-X1xRDG5jKiXJE-nnjNYs0tDRk4C12qIxgdldo9e26DItLjneYggtJtsv4DPqD4NNVX6I4g7KaaxX47kMokB61foRWYX9Xt8dGPHmsxjtlmc-ONvUe3K6qAjNPcjZO-FwPPCd405-Aq0CUcx5OlOQUM45R2Htg-ahFiIoGwKlx6iTTtqyMPRWSFFPWSOmvM0W-a5aQIa_wZ1hrRRImfr-IZuD4wfaf_r3CfG9BVHgwIAnS7cGM1xzb0wb4WGltfW4OJlJMepbujY2ENAaWP2YKDQpTFPPHP-WU3_pmcbe4r-B1BHHYQ2UhlwdMb9kNxQYHsUkWT1ogZDUTldu2T1VWdTBj_7iy7iJO1IoHJaEn1tauoQSLBcDtp-zX9YTDcM00JwuyHOOjpzfRsr-DL2i6RKFX2p8T5SKneQu-JzjUuysg8m8N5SEZAk5gXOmy_MW-47n6ENb6RtZzUZ3uS2n01evS8idv_aARSoHjHd6DcYfDrk%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-17 10:33:06.035 [main] Log - Enter email address.
+[INFO ] 2023-10-17 10:33:06.221 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:33:06.979 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:33:07.068 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 10:33:07.068 [main] Log - Enter password.
+[INFO ] 2023-10-17 10:33:07.859 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:33:11.731 [main] Log - Element clicked
+[INFO ] 2023-10-17 10:33:11.732 [main] Log - click on login button.
+[INFO ] 2023-10-17 10:33:13.669 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 10:55:18.321 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:55:18.373 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:55:18.387 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:55:18.397 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:55:18.409 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:55:18.417 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:55:18.430 [main] Log - Execution Started
+[INFO ] 2023-10-17 10:55:18.476 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 10:55:18.518 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-17 10:55:18.518 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:55:18.519 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:55:20.986 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:55:21.004 [main] Log - ChromeDriver: chrome on mac (10a4afc264b013b5ca59852e08cdac15)
+[INFO ] 2023-10-17 10:55:21.451 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:55:21.452 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:55:30.579 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:55:30.587 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:55:30.587 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:55:30.591 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:55:31.363 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:55:41.796 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:55:46.147 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:55:47.979 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:55:49.442 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:55:59.401 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:18.815 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:26.201 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:27.430 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:28.768 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:36.051 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:41.342 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:46.611 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:56:55.861 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:57:08.036 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-17 10:57:08.678 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:57:13.721 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:57:13.944 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:57:15.300 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:57:15.326 [main] Log - ChromeDriver: chrome on mac (3748f50e57d3f06ddf0e938fbf337d33)
+[INFO ] 2023-10-17 10:57:15.743 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:57:15.744 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:57:19.265 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:57:19.267 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:57:19.268 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:57:19.270 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:57:20.026 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:57:29.273 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:57:33.570 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:57:35.413 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:57:36.857 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:57:45.487 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:02.394 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:09.686 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:10.922 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:12.150 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:19.420 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:24.711 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:29.967 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:39.182 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:50.042 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-17 10:58:50.593 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:58:55.625 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 10:58:55.837 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-17 10:58:55.901 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-17 10:58:55.901 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 10:58:55.902 [main] Log - Open the Browser
+[INFO ] 2023-10-17 10:58:57.313 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 10:58:57.320 [main] Log - ChromeDriver: chrome on mac (466986793336f9eca94053bb46f25864)
+[INFO ] 2023-10-17 10:58:57.732 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 10:58:57.732 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 10:59:01.094 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 10:59:01.095 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 10:59:01.095 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 10:59:01.097 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 10:59:03.997 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:10.529 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:14.871 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:22.432 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:26.954 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:44.429 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:50.044 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:55.719 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 10:59:56.303 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:00:13.465 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:00:19.044 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:00:32.762 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:00:32.762 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2023-10-17 11:00:33.236 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-17 11:00:33.236 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:00:33.237 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:00:34.739 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:00:34.746 [main] Log - ChromeDriver: chrome on mac (f7cb7c915b3135779743e01da4b25b0c)
+[INFO ] 2023-10-17 11:00:39.242 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:00:39.242 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 11:00:39.400 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:00:39.400 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 11:00:39.838 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:00:39.932 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:00:39.933 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 11:00:40.326 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:00:51.901 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:00:51.901 [main] Log - Click on Login
+[INFO ] 2023-10-17 11:00:52.312 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:01:07.782 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:01:11.260 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-17 11:01:19.422 [main] Log - WebElement Not found
+[INFO ] 2023-10-17 11:01:29.821 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:01:33.244 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:01:41.814 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:01:42.792 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:01:47.847 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:01:52.904 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:01:53.377 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:01:53.867 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:01:54.387 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:01:54.832 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:01:54.833 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-17 11:01:55.247 [main] Log - Execution Finished
+[INFO ] 2023-10-17 11:01:55.641 [main] Log - Suite FinishedDRM Indra Suite
+[INFO ] 2023-10-17 11:01:55.642 [main] Log - Execution Started
+[INFO ] 2023-10-17 11:01:55.643 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:01:57.211 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:01:57.220 [main] Log - ChromeDriver: chrome on mac (f5fcff3fba49c17c5a46623ae9e22e9a)
+[INFO ] 2023-10-17 11:01:57.242 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 11:01:57.262 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-17 11:01:57.293 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:01:57.748 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 11:02:01.758 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:02:01.759 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 11:02:01.761 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 11:02:01.771 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 11:02:14.719 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:02:21.371 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:02:25.715 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:02:33.258 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:02:37.774 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:02:41.777 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-17 11:02:45.209 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-17 11:02:45.209 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:02:49.104 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:02:55.275 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:03:00.918 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:03:04.542 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:03:04.673 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality._2_community_tag_functionality
+[INFO ] 2023-10-17 11:03:05.266 [main] Log - Test Started : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-17 11:03:05.266 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:03:05.266 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:03:06.834 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:03:06.853 [main] Log - ChromeDriver: chrome on mac (bcb1dfafc9a85d1d36dfb3fd0a03a71e)
+[INFO ] 2023-10-17 11:03:10.246 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:03:10.247 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 11:03:10.442 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:03:10.442 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 11:03:10.834 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:03:10.949 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:03:10.949 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 11:03:11.381 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:03:29.907 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:03:29.907 [main] Log - Click on Login
+[INFO ] 2023-10-17 11:03:30.363 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:03:45.781 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:03:49.254 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:03:58.391 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:04:03.432 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:04:08.904 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:04:08.906 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-17 11:04:08.909 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-17 11:04:08.952 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:04:10.799 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:04:14.849 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:04:15.247 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:04:21.590 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:04:25.247 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:04:25.248 [main] Log - Test Passed : com.thtechops.qa.communityTag.testcases.T1_Community_tag_functionality.drm_verification
+[INFO ] 2023-10-17 11:04:25.717 [main] Log - Execution Finished
+[INFO ] 2023-10-17 11:04:29.050 [main] Log - Suite FinishedCommunity Tag Test Suite
+[INFO ] 2023-10-17 11:04:29.052 [main] Log - Execution Started
+[INFO ] 2023-10-17 11:04:29.053 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:04:30.414 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:04:30.433 [main] Log - ChromeDriver: chrome on mac (7d2d7b8304aaefaaebeabff7c7fbe7bc)
+[INFO ] 2023-10-17 11:04:30.437 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 11:04:30.455 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-10-17 11:04:30.472 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:04:30.883 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 11:04:30.884 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 11:04:36.392 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:04:36.395 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 11:04:36.395 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 11:04:36.399 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 11:04:36.416 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 11:04:37.180 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:04:45.855 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:04:50.272 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:04:52.072 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:04:53.580 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:01.984 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:07.384 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:17.916 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:19.216 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:20.498 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:27.817 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:33.108 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:38.365 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:47.621 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:05:56.724 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-17 11:05:57.265 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:06:02.269 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-10-17 11:06:02.835 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.test_connect_disconnect_account
+[INFO ] 2023-10-17 11:06:02.835 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:06:18.483 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:06:24.116 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:06:24.706 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:06:41.384 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-17 11:06:54.127 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-17 11:06:54.128 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.test_connect_disconnect_account
+[INFO ] 2023-10-17 11:06:54.599 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.drm_verification
+[INFO ] 2023-10-17 11:06:54.600 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:06:54.600 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:06:56.163 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:06:56.176 [main] Log - ChromeDriver: chrome on mac (08d45aabc495b2bb6dc8e35eca524d7d)
+[INFO ] 2023-10-17 11:07:00.045 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:07:00.045 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 11:07:00.208 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:07:00.208 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 11:07:00.622 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:07:00.729 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:07:00.729 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 11:07:01.099 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:07:20.521 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:07:20.522 [main] Log - Click on Login
+[INFO ] 2023-10-17 11:07:20.905 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:07:36.317 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:07:39.727 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:07:48.319 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:07:49.352 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:07:54.423 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:07:59.479 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:07:59.977 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:00.426 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:00.868 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:01.293 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:11.780 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:08:15.190 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:18.221 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.drm_verification
+[INFO ] 2023-10-17 11:08:18.616 [main] Log - Execution Finished
+[INFO ] 2023-10-17 11:08:18.949 [main] Log - Suite FinishedConnect Disconnect Test Suite
+[INFO ] 2023-10-17 11:08:18.950 [main] Log - Execution Started
+[INFO ] 2023-10-17 11:08:18.951 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:08:20.416 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:08:20.419 [main] Log - ChromeDriver: chrome on mac (1c127c8a727f0592a7a363411db20b05)
+[INFO ] 2023-10-17 11:08:20.424 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 11:08:20.442 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-17 11:08:20.475 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:08:20.926 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 11:08:20.926 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 11:08:25.850 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:08:25.852 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 11:08:25.852 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 11:08:25.853 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 11:08:25.866 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 11:08:25.866 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-17 11:08:26.670 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-17 11:08:26.670 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:08:26.671 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-17 11:08:39.601 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:47.075 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:51.449 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:08:58.960 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:03.489 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:07.491 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-17 11:09:09.818 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-17 11:09:09.819 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:09:16.771 [main] Log - Browser refreshed
+[ERROR] 2023-10-17 11:09:23.124 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-17 11:09:23.124 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-17 11:09:23.132 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-17 11:09:23.789 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:23.858 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-17 11:09:27.887 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-17 11:09:27.888 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-17 11:09:28.370 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:28.453 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-17 11:09:28.903 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:29.417 [main] Log - Screenshot Taken and attached to report
+[ERROR] 2023-10-17 11:09:33.481 [main] Log - Issue in switching window focus
+[INFO ] 2023-10-17 11:09:34.155 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:41.693 [main] Log - Browser refreshed
+[ERROR] 2023-10-17 11:09:47.733 [main] Log - Method Failed : verifyText
+[INFO ] 2023-10-17 11:09:48.335 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:48.343 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-17 11:09:48.928 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:49.658 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:09:55.110 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:00.563 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:07.726 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:10:08.184 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:08.646 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:15.301 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:10:15.779 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:16.211 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:23.251 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:10:23.746 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:23.746 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-17 11:10:24.206 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-17 11:10:24.206 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:10:24.207 [main] Log - This Method is to verify Add Hire Me Button UI Validation
+[INFO ] 2023-10-17 11:10:28.148 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:10:28.148 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 11:10:28.278 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:10:28.278 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 11:10:28.717 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:28.796 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:10:28.796 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 11:10:29.606 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:39.407 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:10:39.407 [main] Log - Click on Login
+[INFO ] 2023-10-17 11:10:39.878 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:44.882 [main] Log - Implicit wait completed for : 10
+[ERROR] 2023-10-17 11:10:44.883 [main] Log - Element is not yet visibleBy.xpath: //div[@class='slds-icon-waffle']
+[INFO ] 2023-10-17 11:10:45.119 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:10:47.314 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:10:51.365 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:10:51.808 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:55.021 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:10:55.758 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:10:55.769 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-17 11:10:55.769 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-17 11:11:01.770 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._3_drm_validation
+[INFO ] 2023-10-17 11:11:02.308 [main] Log - Driver Closed
+[INFO ] 2023-10-17 11:11:02.309 [main] Log - Execution Finished
+[INFO ] 2023-10-17 11:11:02.575 [main] Log - Suite FinishedHire Me Test Suite
+[INFO ] 2023-10-17 11:11:02.577 [main] Log - Execution Started
+[INFO ] 2023-10-17 11:11:02.578 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:11:04.110 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:11:04.128 [main] Log - ChromeDriver: chrome on mac (34e2a7422b499160ef030a12a656c827)
+[INFO ] 2023-10-17 11:11:04.149 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 11:11:04.170 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 11:11:04.189 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:11:04.621 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 11:11:04.622 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 11:11:08.285 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:11:08.287 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 11:11:08.287 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 11:11:08.288 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 11:11:08.297 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 11:11:08.297 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 11:11:09.144 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 11:11:09.145 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:11:13.265 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-10-17 11:11:14.057 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:11:26.191 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-10-17 11:11:26.646 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:11:26.652 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522NnFMaXpxTHNpOU1KV0tuendqTTRwQmRBR09FQ3hQZExHc0pkTFF1enY5VllqaW9sTG4rM1RqdUN3a3czN3N5Kw%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1697521282510%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522NnFMaXpxTHNpOU1KV0tuendqTTRwQmRBR09FQ3hQZExHc0pkTFF1enY5VllqaW9sTG4rM1RqdUN3a3czN3N5Kw%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1697521282510%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-10-17 11:11:28.656 [main] Log - Enter email address.
+[INFO ] 2023-10-17 11:11:28.801 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:11:29.286 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:11:29.474 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:11:29.474 [main] Log - Enter password.
+[INFO ] 2023-10-17 11:11:29.935 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:11:33.078 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:11:33.078 [main] Log - click on login button.
+[INFO ] 2023-10-17 11:11:34.266 [main] Log - Browser refreshed
+[WARN ] 2023-10-17 11:11:59.330 [main] Log - WebElement Not found
+[INFO ] 2023-10-17 11:11:59.331 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 11:11:59.766 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2023-10-17 11:11:59.766 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:12:03.433 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:12:03.433 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 11:12:03.558 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:12:03.558 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 11:12:04.002 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:04.080 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:12:04.080 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 11:12:04.552 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:16.220 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:12:16.220 [main] Log - Click on Login
+[INFO ] 2023-10-17 11:12:16.705 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:32.142 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:12:35.685 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:44.365 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:45.368 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:12:50.438 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:12:55.480 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:12:56.051 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:56.590 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:57.135 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:57.699 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:12:57.700 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Linkdin_Login_Test.drm_verification
+[INFO ] 2023-10-17 11:12:58.197 [main] Log - Execution Finished
+[INFO ] 2023-10-17 11:12:58.469 [main] Log - Suite FinishedLogin Using Linkdin
+[INFO ] 2023-10-17 11:12:58.470 [main] Log - Execution Started
+[INFO ] 2023-10-17 11:12:58.471 [main] Log - Open the Browser
+[INFO ] 2023-10-17 11:12:59.972 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 11:12:59.983 [main] Log - ChromeDriver: chrome on mac (7da61e5fd6bebeb187a364b7717ac27d)
+[INFO ] 2023-10-17 11:12:59.986 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 11:13:00.003 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 11:13:00.019 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:13:00.426 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 11:13:00.426 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 11:13:04.240 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:13:04.250 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 11:13:04.269 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 11:13:04.270 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 11:13:04.297 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 11:13:04.308 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 11:13:05.077 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 11:13:05.077 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:13:16.776 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-17 11:13:17.306 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:13:19.307 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-17 11:13:20.733 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:13:20.752 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYtBT0PXMDAwMDAwMDAwMDAwMDAwAAAA9vW-LtlbXhal-JBFYaoETEoPkJFi5GV2KpogZTYZuJZXNzwPbzpw5qdoO6A5H7uNWW5id-R1Pi4rNGqHN491Zk2BUbLZNpwdHwYS2k_X4o97HjBOXBjjbtBdJ06d3t7m4NUc1d0XKO3nzyUQpIJaG6HcmbciK4GUE-TKTBBmURXE7X7d_vIsNpu3EDEcuKWt0XVMgc1LH1ctLMMpgtsFsuxMRC0gj9N0JMjXy8Ou1fBCVh_woDeHnADgB453m7TkMveRTfwiyUVxW9ZN0SdAwGQtKRmGdePXnd_NNprb6BhH_7dprAZT2kBL0mvWQd9H_69pMQpIY1OwkN1YkcVTkHi0TiPwu4tzWZDUXNR9gNh6RzqA6XHzkdWOZDSBqWx8EaYUz5UXd0OEaepCPtw6F7m3tU47DkrtT3ORYFsaKWahGZXG859jD0dMFzduTKZP8Nm9W5139iAcEW48JE2uUsYoqx7ELmkWGHBos0Iwt7lQvQzbEUegeAN_SPAO-zLwAdeJQw2aM80dPtcdTGlTb8XpXqCMmAe9fLR1pLJPqX3KHwOluQ_V8Fo22932LcUKq4ma11Y_EQ51U5WweZyV1qEFYww2bIru-m3kfPAZ4MM51Aossq1FHaT2yZ38TGiQRwY1IbrCIoKtosBH6g5I_O-O_-XMGuxVBl5_FsWT5WuSn6ZD4awFifqV9pI_lvTV3CA1bl8pyLcWhdSS_ciNjlAYtGYRYmIxv70OdUwyvsau7mJTPQHP6_TapjwMDrOoCvbZekDq7NZuj2-mRyQ2oq6smHzZhXfx6lFjqZ1VA04oRVE579bGd4S3AiDEh8HUgnPms3_6bWk8o6t_BVIMHhBG4ary7iWLVSWrNXMgVF2SV4s5I7PxkStIL3p7FrKkCmIxw-xH3orha17stVZ2EyU%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-17 11:13:22.771 [main] Log - Enter email address.
+[INFO ] 2023-10-17 11:13:22.922 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:13:23.665 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:13:23.773 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:13:23.774 [main] Log - Enter password.
+[INFO ] 2023-10-17 11:13:24.527 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:13:28.939 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:13:28.940 [main] Log - click on login button.
+[INFO ] 2023-10-17 11:13:30.815 [main] Log - Browser refreshed
+[WARN ] 2023-10-17 11:13:55.830 [main] Log - WebElement Not found
+[INFO ] 2023-10-17 11:13:55.830 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 11:13:56.270 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.drm_verification
+[INFO ] 2023-10-17 11:13:56.270 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 11:14:00.472 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 11:14:00.472 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-17 11:14:00.599 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:14:00.599 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-17 11:14:01.188 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:01.296 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:14:01.296 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-17 11:14:02.347 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:11.935 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:14:11.935 [main] Log - Click on Login
+[INFO ] 2023-10-17 11:14:12.433 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:27.827 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 11:14:31.377 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:40.045 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:41.235 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 11:14:46.285 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:14:51.345 [main] Log - Element clicked
+[INFO ] 2023-10-17 11:14:52.039 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:52.794 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:53.358 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:53.894 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 11:14:53.895 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.drm_verification
+[INFO ] 2023-10-17 11:14:54.403 [main] Log - Execution Finished
+[INFO ] 2023-10-17 11:14:54.726 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-17 11:14:54.727 [main] Log - Execution Started
+[INFO ] 2023-10-17 11:14:54.728 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-17 17:21:34.697 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 17:21:34.751 [main] Log - Execution Started
+[INFO ] 2023-10-17 17:21:34.771 [main] Log - Open the Browser
+[INFO ] 2023-10-17 17:21:37.459 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 17:21:37.462 [main] Log - ChromeDriver: chrome on mac (1465b7822489c72a01ce2d332f6eaa56)
+[INFO ] 2023-10-17 17:21:37.498 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 17:21:37.534 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 17:21:37.538 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 17:21:37.963 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 17:21:37.964 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 17:21:43.323 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 17:21:43.328 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 17:21:43.328 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 17:21:43.333 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 17:21:43.347 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 17:21:43.349 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.navigateToUrl
+[INFO ] 2023-10-17 17:21:44.174 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Salesforce_Login_Test.login_via_linkdin
+[INFO ] 2023-10-17 17:21:44.174 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 17:21:57.321 [main] Log - Click on salesforce sign in option.
+[INFO ] 2023-10-17 17:21:57.918 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:21:59.920 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-10-17 17:22:01.758 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:22:01.787 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYtCoMu1MDAwMDAwMDAwMDAwMDAwAAAA9lkG1TTZpUL420f_UVEskXNwiBoMzFyvDiui1A8aMu3xoYK_LwFf8mcBJa67GsIRLm4B5MuwbMXCHQQiVYv6yuRZfemE0VMuLbzt1Zv02Nimy7-G5b-j4lxvZl97aPW4fhN3CMHiUGiDDIPaN2C6mzqiip6MjedrtoZctpbD7iNcR_dG_DhxEcx6Nm-szbjT6iFNs19GRSWSZzq-m-3g3YCtniYDWzxA5Ys34y5Gi1gHaqpeLphndiU6JyD41cbd1nnZzDTAq-OH6fQQ-Ql90V3dCP8jlmuUoBG4Eis7HeVf2KAX5_hgWE8QbVQ8Jwi-7z8bYmUaiPysH0Gmi7eGhc2Sq591MbZXavQxMuRPvKmezLxF82ihvJ5EXThqyBe-6nR-alJ_FksfvhJwj_YaoYEHsVvqhVAqi0R4SBbAxKBmwI9KyLpJOZNAgIM_13eQkxR1L9ub-MpI8lmf9kJE0S5DYmpFD3itQlrmqkNOHye3xL0hpSR-KeEuEwp3TnaW1142hWrqBYaVYwjz-qjvoULRSlRrbbGYTaWX_EhCv0eMTVN9OmIQiJLezFNBOdc9sg9cofP0R8974gKBFVqfYB6xRrAAUwFU60ramww-BLa0_7PtwL0Xe89_85AkpOO-0na9i12kevaMV7YnHNkqJ5frWUShmFRBbKObZacvyBpivfAAQ3lDGxEGsyBNdqAAF5scLWGBya2Ip3IYTp2WuMK0GEFq3u-t7A8VQ1svYPKio2kQhWl0P0SugderGkbhD4uLodx7aYrvjkjm1puLqqfvxWsUdpR653Z0hWK16fYVavRMlSA9gWqFnvFUZP2M_PwIX61op5kiCwtL6Qfnxd8DoK81zbadSKWNvYmbfMrUerbQdg_Pone0pJRMdVkkrmru0U18Ei1lb1tnBiltoWA%253D%26display%3Dpage&display=page&sdtd=1
+[INFO ] 2023-10-17 17:22:03.790 [main] Log - Enter email address.
+[INFO ] 2023-10-17 17:22:03.976 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 17:22:04.891 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:22:05.027 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-17 17:22:05.028 [main] Log - Enter password.
+[INFO ] 2023-10-17 17:22:05.979 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:22:10.681 [main] Log - Element clicked
+[INFO ] 2023-10-17 17:22:10.681 [main] Log - click on login button.
+[INFO ] 2023-10-17 17:22:12.440 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 17:23:48.593 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 17:23:48.647 [main] Log - Execution Started
+[INFO ] 2023-10-17 17:23:48.667 [main] Log - Open the Browser
+[INFO ] 2023-10-17 17:23:51.155 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-17 17:23:51.164 [main] Log - ChromeDriver: chrome on mac (61075c557014683da4b61f6f2fcc5bcc)
+[INFO ] 2023-10-17 17:23:51.231 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-17 17:23:51.268 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-17 17:23:51.277 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 17:23:51.700 [main] Log - Browser window maximised
+[INFO ] 2023-10-17 17:23:51.700 [main] Log - Navigation to URL
+[INFO ] 2023-10-17 17:23:55.533 [main] Log - Navigated to URL
+[INFO ] 2023-10-17 17:23:55.540 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-17 17:23:55.541 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-17 17:23:55.546 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-17 17:23:55.558 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-17 17:23:55.559 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-17 17:23:56.399 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-17 17:23:56.399 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 17:23:56.399 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-17 17:24:09.350 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:24:15.957 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:24:20.355 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:24:29.515 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:24:34.043 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:24:38.049 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-17 17:24:42.254 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-17 17:24:42.254 [main] Log - This message is from my own project
+[INFO ] 2023-10-17 17:24:48.229 [main] Log - Browser refreshed
+[INFO ] 2023-10-17 17:25:03.130 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-17 17:25:03.131 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-17 17:25:03.141 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-17 17:25:03.869 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-17 17:25:03.968 [main] Log - click on the Add Hire Me Button

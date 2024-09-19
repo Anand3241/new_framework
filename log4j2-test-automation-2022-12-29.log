@@ -1,0 +1,198 @@
+[INFO ] 2022-12-29 16:25:06.915 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:25:07.004 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:25:07.075 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:25:07.137 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:25:07.599 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:25:07.601 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:25:07.602 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 16:27:20.384 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:27:20.479 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:27:20.548 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:27:20.614 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:27:21.088 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:27:21.090 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:27:21.092 [main] Log - Suite FinishedSuite
+[ERROR] 2022-12-29 16:31:35.396 [main] Log - Configuration file not found
+[INFO ] 2022-12-29 16:31:35.434 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:31:35.521 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:31:35.590 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:31:35.663 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:31:36.118 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:31:36.121 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:31:36.122 [main] Log - Suite FinishedSuite
+[ERROR] 2022-12-29 16:32:47.659 [main] Log - Configuration file not found
+[ERROR] 2022-12-29 16:36:12.235 [main] Log - Configuration file not found
+[INFO ] 2022-12-29 16:36:12.275 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:36:12.356 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:36:12.427 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:36:12.501 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:36:12.966 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:36:12.969 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:36:12.971 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 16:40:18.063 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 16:40:18.099 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:40:18.176 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:40:18.251 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:40:18.317 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:40:18.770 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:40:18.773 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:40:18.774 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 16:46:46.063 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 16:46:46.100 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:46:46.175 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:46:46.248 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:46:46.317 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:46:46.786 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:46:46.789 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:46:46.790 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 16:52:47.161 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 16:52:47.194 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:52:47.275 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:52:47.340 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:52:47.405 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:52:47.882 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:52:47.883 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:52:47.884 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 16:54:25.985 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 16:55:16.670 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 16:55:16.700 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:55:16.829 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:55:16.903 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:55:16.971 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:55:17.476 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:55:17.482 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:55:17.483 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 16:55:41.272 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 16:56:19.886 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 16:56:19.915 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:56:20.040 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:56:20.115 [main] Log - Test Failed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 16:56:20.185 [main] Log - Execution Finished
+[INFO ] 2022-12-29 16:56:20.694 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 16:56:20.699 [main] Log - Execution Started
+[INFO ] 2022-12-29 16:56:20.700 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 17:01:14.664 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:01:14.690 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:01:14.808 [main] Log - Test Started : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:01:17.580 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:01:17.580 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:01:17.593 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:01:17.711 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:01:21.985 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:01:21.994 [main] Log - Browser refreshed
+[ERROR] 2022-12-29 17:01:23.411 [main] Log - Verification of actual vs expected title failed GET
+[INFO ] 2022-12-29 17:01:23.797 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2022-12-29 17:01:23.871 [main] Log - Test Passed : com.thtechops.qa.core.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:01:24.210 [main] Log - Execution Finished
+[INFO ] 2022-12-29 17:01:24.658 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 17:01:24.664 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:01:24.667 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 17:04:19.625 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:06:37.395 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:06:37.421 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:06:37.541 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:06:40.501 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:06:40.505 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:06:40.516 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:06:40.634 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:06:40.707 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:06:41.035 [main] Log - Execution Finished
+[INFO ] 2022-12-29 17:06:41.526 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 17:06:41.532 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:06:41.535 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 17:08:20.879 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:08:23.505 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:08:23.506 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:08:23.518 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:08:23.634 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:08:34.988 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:08:35.038 [main] Log - Browser refreshed
+[INFO ] 2022-12-29 17:15:42.263 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:15:42.288 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:15:42.409 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:15:45.029 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:15:45.030 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:15:45.042 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:15:45.159 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:15:57.182 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:15:57.235 [main] Log - Browser refreshed
+[INFO ] 2022-12-29 17:15:57.330 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:15:58.766 [main] Log - Execution Finished
+[INFO ] 2022-12-29 17:15:59.264 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 17:15:59.271 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:15:59.273 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 17:19:44.099 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:19:44.133 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:19:44.208 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:19:46.655 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:19:46.656 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:19:46.668 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:19:46.784 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:20:26.531 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:20:26.579 [main] Log - Browser refreshed
+[ERROR] 2022-12-29 17:20:27.068 [main] Log - Verification of actual vs expected title failed GET
+[INFO ] 2022-12-29 17:20:27.835 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2022-12-29 17:20:27.905 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:20:28.875 [main] Log - Execution Finished
+[INFO ] 2022-12-29 17:20:29.276 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 17:20:29.278 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:20:29.280 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 17:34:55.620 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:34:58.211 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:34:58.212 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:34:58.223 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:34:58.337 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:35:09.724 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:35:09.772 [main] Log - Browser refreshed
+[INFO ] 2022-12-29 17:37:22.626 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:37:25.452 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:37:25.453 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:37:25.464 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:37:25.581 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:38:06.412 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:38:06.463 [main] Log - Browser refreshed
+[INFO ] 2022-12-29 17:48:08.124 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:48:08.161 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:48:08.236 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:48:10.741 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:48:10.742 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:48:10.753 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:48:10.870 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:48:11.149 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2022-12-29 17:48:22.433 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:48:22.478 [main] Log - Browser refreshed
+[INFO ] 2022-12-29 17:48:23.789 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2022-12-29 17:48:23.854 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:48:24.841 [main] Log - Execution Finished
+[INFO ] 2022-12-29 17:48:25.255 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 17:48:25.271 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:48:25.272 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 17:52:07.721 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:52:10.541 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:52:10.541 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:53:22.801 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:53:22.835 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:53:22.920 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:53:25.375 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:53:25.376 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:53:25.390 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:53:25.508 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:53:25.772 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2022-12-29 17:53:37.915 [main] Log - Navigated to URL
+[INFO ] 2022-12-29 17:53:37.961 [main] Log - Browser refreshed
+[ERROR] 2022-12-29 17:53:38.470 [main] Log - Verification of actual vs expected title failed GET
+[INFO ] 2022-12-29 17:53:39.421 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2022-12-29 17:53:39.482 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:53:40.175 [main] Log - Execution Finished
+[INFO ] 2022-12-29 17:53:40.562 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2022-12-29 17:53:40.565 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:53:40.566 [main] Log - Suite FinishedSuite
+[INFO ] 2022-12-29 17:56:16.650 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2022-12-29 17:56:16.687 [main] Log - Execution Started
+[INFO ] 2022-12-29 17:56:16.761 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.AppTest.shouldAnswerWithTrue
+[INFO ] 2022-12-29 17:56:16.761 [main] Log - This message is from my own project
+[INFO ] 2022-12-29 17:56:19.207 [main] Log - Browser Opened : chrome with headless mode : true
+[INFO ] 2022-12-29 17:56:19.208 [main] Log - Browser opened
+[INFO ] 2022-12-29 17:56:19.222 [main] Log - current url fetched data:,
+[INFO ] 2022-12-29 17:56:19.339 [main] Log - Browser window maximised
+[INFO ] 2022-12-29 17:56:19.599 [main] Log - Screenshot Taken and attached to report

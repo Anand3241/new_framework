@@ -1,0 +1,125 @@
+[INFO ] 2023-10-20 11:40:42.494 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:40:42.541 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:40:42.640 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:40:42.653 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:40:42.653 [main] Log - This message is from my own project
+[INFO ] 2023-10-20 11:40:42.654 [main] Log - Open the Browser
+[INFO ] 2023-10-20 11:40:50.775 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-20 11:40:50.787 [main] Log - ChromeDriver: chrome on mac (070343ad57354f2a3f59082ebfe5556e)
+[INFO ] 2023-10-20 11:40:54.545 [main] Log - Navigated to URL
+[INFO ] 2023-10-20 11:40:54.545 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-20 11:40:54.772 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:40:54.772 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-20 11:40:55.176 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:40:55.276 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:40:55.277 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-20 11:40:56.360 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:41:07.147 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:41:07.148 [main] Log - Click on Login
+[INFO ] 2023-10-20 11:41:07.535 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:41:22.995 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:41:26.550 [main] Log - Screenshot Taken and attached to report
+[WARN ] 2023-10-20 11:41:34.720 [main] Log - WebElement Not found
+[INFO ] 2023-10-20 11:41:34.723 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:41:35.148 [main] Log - Execution Finished
+[INFO ] 2023-10-20 11:41:35.354 [main] Log - Suite FinishedDRM Infra Suite
+[INFO ] 2023-10-20 11:41:35.357 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:41:35.358 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-20 11:42:00.201 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:42:00.248 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:42:00.351 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:42:00.366 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:42:00.366 [main] Log - This message is from my own project
+[INFO ] 2023-10-20 11:42:00.366 [main] Log - Open the Browser
+[INFO ] 2023-10-20 11:42:03.180 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-20 11:42:03.183 [main] Log - ChromeDriver: chrome on mac (5029d89a3f5fd1fda51c247a902b4cb8)
+[INFO ] 2023-10-20 11:42:06.586 [main] Log - Navigated to URL
+[INFO ] 2023-10-20 11:42:06.586 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-20 11:42:06.788 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:42:06.788 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-20 11:42:07.191 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:42:07.289 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:42:07.289 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-20 11:42:08.444 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:42:18.206 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:42:18.206 [main] Log - Click on Login
+[INFO ] 2023-10-20 11:42:18.618 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:42:34.098 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:42:37.540 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:42:45.699 [main] Log - Method Passed : verifyElementSize
+[INFO ] 2023-10-20 11:42:46.109 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:42:47.166 [main] Log - Browser refreshed
+[INFO ] 2023-10-20 11:42:52.311 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:43:02.715 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:43:03.129 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:43:03.605 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:43:04.041 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:43:04.601 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:43:05.034 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:43:05.036 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:43:05.455 [main] Log - Execution Finished
+[INFO ] 2023-10-20 11:43:05.677 [main] Log - Suite FinishedDRM Infra Suite
+[INFO ] 2023-10-20 11:43:05.678 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:43:05.680 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-20 11:49:57.504 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:49:57.549 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:49:57.648 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:49:57.662 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:49:57.663 [main] Log - This message is from my own project
+[INFO ] 2023-10-20 11:49:57.664 [main] Log - Open the Browser
+[INFO ] 2023-10-20 11:50:00.021 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-20 11:50:00.022 [main] Log - ChromeDriver: chrome on mac (0df6e10b6290742783256ad1ee16de74)
+[INFO ] 2023-10-20 11:50:03.459 [main] Log - Navigated to URL
+[INFO ] 2023-10-20 11:50:03.459 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-20 11:50:03.660 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:50:03.661 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-20 11:50:04.099 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:50:04.215 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:50:04.215 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-20 11:50:04.982 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:50:15.136 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:50:15.136 [main] Log - Click on Login
+[INFO ] 2023-10-20 11:50:15.549 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:50:31.010 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:50:34.457 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:50:37.496 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:50:37.953 [main] Log - Execution Finished
+[INFO ] 2023-10-20 11:50:38.177 [main] Log - Suite FinishedDRM Infra Suite
+[INFO ] 2023-10-20 11:50:38.179 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:50:38.181 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-20 11:54:43.152 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:54:43.199 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:54:43.298 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-20 11:54:43.312 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:54:43.312 [main] Log - This message is from my own project
+[INFO ] 2023-10-20 11:54:43.313 [main] Log - Open the Browser
+[INFO ] 2023-10-20 11:54:45.807 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-20 11:54:45.808 [main] Log - ChromeDriver: chrome on mac (2b0ad2da1c05cc700a94a7422aa5646d)
+[INFO ] 2023-10-20 11:54:49.398 [main] Log - Navigated to URL
+[INFO ] 2023-10-20 11:54:49.398 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-20 11:54:49.598 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:54:49.598 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-20 11:54:49.990 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:54:50.080 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:54:50.080 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-20 11:54:50.472 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:01.122 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:55:01.122 [main] Log - Click on Login
+[INFO ] 2023-10-20 11:55:01.522 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:16.952 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-20 11:55:20.392 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:28.556 [main] Log - Method Passed : verifyElementSize
+[INFO ] 2023-10-20 11:55:28.971 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:30.072 [main] Log - Browser refreshed
+[INFO ] 2023-10-20 11:55:35.130 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:55:45.239 [main] Log - Element clicked
+[INFO ] 2023-10-20 11:55:45.705 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:46.201 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:46.636 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:47.071 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:47.454 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-20 11:55:47.455 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-20 11:55:47.830 [main] Log - Execution Finished
+[INFO ] 2023-10-20 11:55:48.056 [main] Log - Suite FinishedDRM Infra Suite
+[INFO ] 2023-10-20 11:55:48.058 [main] Log - Execution Started
+[INFO ] 2023-10-20 11:55:48.060 [main] Log - Suite FinishedSuite

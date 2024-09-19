@@ -1,0 +1,95 @@
+[INFO ] 2023-09-11 11:32:42.842 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-11 11:32:42.902 [main] Log - Execution Started
+[INFO ] 2023-09-11 11:32:42.922 [main] Log - Open the Browser
+[INFO ] 2023-09-11 11:32:46.077 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-11 11:32:46.096 [main] Log - ChromeDriver: chrome on mac (e1d70e600d003ab193c75e26676626f6)
+[INFO ] 2023-09-11 11:32:46.179 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 11:32:46.179 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 11:32:46.605 [main] Log - Browser window maximised
+[INFO ] 2023-09-11 11:32:46.606 [main] Log - Navigation to URL
+[INFO ] 2023-09-11 11:33:00.642 [main] Log - Navigated to URL
+[INFO ] 2023-09-11 11:33:00.648 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-11 11:33:00.648 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/en/trailblazerconnect/workforce-partners/apply
+[INFO ] 2023-09-11 11:33:00.653 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-11 11:33:00.665 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-11 11:33:00.667 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 11:33:01.344 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 11:33:01.344 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 11:33:01.460 [main] Log - Element clicked
+[INFO ] 2023-09-11 11:33:32.620 [main] Log - Element clicked
+[INFO ] 2023-09-11 11:33:59.141 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 11:33:59.657 [main] Log - Execution Finished
+[INFO ] 2023-09-11 11:33:59.954 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-11 11:33:59.956 [main] Log - Execution Started
+[INFO ] 2023-09-11 11:33:59.958 [main] Log - Suite FinishedSuite
+[INFO ] 2023-09-11 11:37:41.789 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-11 11:37:41.845 [main] Log - Execution Started
+[INFO ] 2023-09-11 11:37:41.866 [main] Log - Open the Browser
+[INFO ] 2023-09-11 11:37:44.311 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-11 11:37:44.328 [main] Log - ChromeDriver: chrome on mac (d7aa1730c34957b9ad266e02bd19c9da)
+[INFO ] 2023-09-11 11:37:44.401 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 11:37:44.401 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 11:37:44.817 [main] Log - Browser window maximised
+[INFO ] 2023-09-11 11:37:44.817 [main] Log - Navigation to URL
+[INFO ] 2023-09-11 11:37:54.259 [main] Log - Navigated to URL
+[INFO ] 2023-09-11 11:37:54.264 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-11 11:37:54.264 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/en/trailblazerconnect/workforce-partners/apply
+[INFO ] 2023-09-11 11:37:54.268 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-11 11:37:54.275 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-11 11:37:54.277 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 11:37:54.949 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 11:37:54.949 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 11:37:55.007 [main] Log - Element clicked
+[INFO ] 2023-09-11 11:38:18.960 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 11:38:19.032 [main] Log - Execution Finished
+[INFO ] 2023-09-11 11:38:19.339 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-11 11:38:19.341 [main] Log - Execution Started
+[INFO ] 2023-09-11 11:38:19.343 [main] Log - Suite FinishedSuite
+[INFO ] 2023-09-11 11:38:41.831 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-11 11:38:41.886 [main] Log - Execution Started
+[INFO ] 2023-09-11 11:38:41.909 [main] Log - Open the Browser
+[INFO ] 2023-09-11 11:38:44.443 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-11 11:38:44.444 [main] Log - ChromeDriver: chrome on mac (0f13f683a1b39458ee1bc774b4548fc5)
+[INFO ] 2023-09-11 11:38:44.532 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 11:38:44.532 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 11:38:44.958 [main] Log - Browser window maximised
+[INFO ] 2023-09-11 11:38:44.959 [main] Log - Navigation to URL
+[INFO ] 2023-09-11 11:38:49.098 [main] Log - Navigated to URL
+[INFO ] 2023-09-11 11:38:49.104 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-11 11:38:49.104 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/en/trailblazerconnect/workforce-partners/apply
+[INFO ] 2023-09-11 11:38:49.107 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-11 11:38:49.116 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-11 11:38:49.117 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 11:38:49.791 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 11:38:49.791 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 11:38:49.853 [main] Log - Element clicked
+[INFO ] 2023-09-11 11:39:31.714 [main] Log - Element clicked
+[INFO ] 2023-09-11 11:39:38.239 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 11:39:38.745 [main] Log - Execution Finished
+[INFO ] 2023-09-11 11:39:38.958 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-11 11:39:38.960 [main] Log - Execution Started
+[INFO ] 2023-09-11 11:39:38.962 [main] Log - Suite FinishedSuite
+[INFO ] 2023-09-11 18:34:40.072 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-11 18:34:40.130 [main] Log - Execution Started
+[INFO ] 2023-09-11 18:34:40.156 [main] Log - Open the Browser
+[INFO ] 2023-09-11 18:34:43.573 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-11 18:34:43.598 [main] Log - ChromeDriver: chrome on mac (4e0980806d624f663c58031dbcbfb196)
+[INFO ] 2023-09-11 18:34:43.684 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 18:34:43.684 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 18:34:44.111 [main] Log - Browser window maximised
+[INFO ] 2023-09-11 18:34:44.111 [main] Log - Navigation to URL
+[INFO ] 2023-09-11 18:34:48.792 [main] Log - Navigated to URL
+[INFO ] 2023-09-11 18:34:48.799 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-11 18:34:48.799 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/en/trailblazerconnect/workforce-partners/apply
+[INFO ] 2023-09-11 18:34:48.807 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-11 18:34:48.828 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-11 18:34:48.830 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.navigateToUrl
+[INFO ] 2023-09-11 18:34:49.587 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 18:34:49.588 [main] Log - This message is from my own project
+[INFO ] 2023-09-11 18:34:49.661 [main] Log - Element clicked
+[INFO ] 2023-09-11 18:35:35.041 [main] Log - Element clicked
+[INFO ] 2023-09-11 18:35:55.074 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.FormHandler_UI_Test.formhandler_submission_test
+[INFO ] 2023-09-11 18:35:55.616 [main] Log - Execution Finished
+[INFO ] 2023-09-11 18:35:55.874 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-11 18:35:55.876 [main] Log - Execution Started
+[INFO ] 2023-09-11 18:35:55.877 [main] Log - Suite FinishedSuite

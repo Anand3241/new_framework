@@ -1,0 +1,219 @@
+[INFO ] 2023-09-21 17:54:41.483 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 17:54:41.539 [main] Log - Execution Started
+[INFO ] 2023-09-21 17:54:41.559 [main] Log - Open the Browser
+[INFO ] 2023-09-21 17:54:44.373 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-21 17:54:44.382 [main] Log - ChromeDriver: chrome on mac (35b68c183679796c0a0aeb7be0ca88f8)
+[INFO ] 2023-09-21 17:54:44.426 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 17:54:44.467 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 17:54:44.467 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 17:54:44.889 [main] Log - Browser window maximised
+[INFO ] 2023-09-21 17:54:44.890 [main] Log - Navigation to URL
+[INFO ] 2023-09-21 17:54:50.823 [main] Log - Navigated to URL
+[INFO ] 2023-09-21 17:54:50.829 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-21 17:54:50.829 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-09-21 17:54:50.834 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-21 17:54:50.850 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-21 17:54:50.871 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 17:54:51.730 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 17:54:51.730 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 17:54:55.872 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-09-21 17:54:56.656 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 17:55:06.958 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-09-21 17:55:07.447 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 17:55:07.454 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522UWNOZTUxUjRjRWpDdUVGM1VaN2srWlJ5VGFpMUFwNm4wNmNjM09ZblljTUtJdGlYMzUyMW5PTTg3TjNmZUFwYQ%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1695299103434%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522UWNOZTUxUjRjRWpDdUVGM1VaN2srWlJ5VGFpMUFwNm4wNmNjM09ZblljTUtJdGlYMzUyMW5PTTg3TjNmZUFwYQ%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1695299103434%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-09-21 17:55:09.458 [main] Log - Enter email address.
+[INFO ] 2023-09-21 17:55:09.617 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 17:55:10.065 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 17:55:10.328 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 17:55:10.329 [main] Log - Enter password.
+[INFO ] 2023-09-21 17:55:10.822 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 17:55:14.871 [main] Log - Element clicked
+[INFO ] 2023-09-21 17:55:14.872 [main] Log - click on login button.
+[INFO ] 2023-09-21 17:55:55.504 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-09-21 17:55:55.724 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 17:55:55.730 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYq82nt_MDAwMDAwMDAwMDAwMDAwAAAA9PReK0cGA_l5MbWesff5RAMDh8Fo57ug7k5-oi7vRHaHOyHhAuTZH07XdS_89jwF5e68XZputEXiEUS55H7A15VWzCRD10cltXim9FUQG0N963nSrN83vw7iJtoDUq1Cf8E8_tGXLxJgJ4G3ctwomJDNYKmjCZoq1ObiLQeoZcJ3s-6enSA7wMOQ5E_hkeWI6zPtmoxVweyRT3q05Sdwb8TJmaY7gnH4CmkPyk9sIVaV5bWIKRbRoZIUi7Gh6mpz2axazIlFh5FMLQKjkjTzHgeI-ZVrNWvJ0I7GhGwUymoSwXcdRgmAjqgjAqm7wGVvWL2mCfhDBWhGo3QUStmRkzeLvMK6lfBQmVjkn3-G2Y_2Zeclj5x-Ida5gb2HKbCu3sCrFJvk8hKAgEw2jgdNaSbCIUcIgaUFQjjP5WfJz4IMO2g_tr65p-st6DuOPxUh7YJVzsa3WUZYqkShmPD5nqQUhl_VAW8sb0joUD6lmhCdEylY1rgHXQEzGeB9wGvPsHseCLMrB3_orIZb-sPyKOEj9pO616YHIW83wE0Zx7X2LYPc8kTVzK45AVuZWdztjEkB0vK6WQcN0F-MeobFPh2hOt1MxjkV10xh_kk4gFbQxAGhUPwypQHb2thYtFXOPHbgWUcqkQGAF_8RnYulaZnqiJ_GxhZfKNDEG6LBnQ4zBF_F6nspQyfn-inKUGn1KoMHp3bTam1nu459h2ggwyi1q4kJ4n63sATUP8p2NGpSQoNL1-N80Ixx1nJhoEyLaR5-9O8Q5OkyvpBDBVvrgBENbSvtV6zp_g34r_EQW6jLucv7wdkCpN7e-Foq5VnMhKu-9ZE2L5c9-XYpaGpVQUuhdYhrNyMWmc6FQPSjo8WzPRTQ9LK9bvY3C4vGS-QawMWPYCxuEpmF0Vc6vOT66Yo%253D%26display%3Dpopup&display=popup&sdtd=1
+[INFO ] 2023-09-21 17:56:00.736 [main] Log - Enter email address.
+[INFO ] 2023-09-21 17:56:00.871 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 17:56:01.076 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 17:56:01.162 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 17:56:01.163 [main] Log - Enter password.
+[INFO ] 2023-09-21 17:56:01.393 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 17:56:07.206 [main] Log - Element clicked
+[INFO ] 2023-09-21 17:56:07.206 [main] Log - click on login button.
+[INFO ] 2023-09-21 17:56:39.394 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 17:56:39.872 [main] Log - Execution Finished
+[INFO ] 2023-09-21 17:56:40.109 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-21 17:56:40.111 [main] Log - Execution Started
+[INFO ] 2023-09-21 17:56:40.113 [main] Log - Suite FinishedSuite
+[INFO ] 2023-09-21 18:00:38.512 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 18:00:38.567 [main] Log - Execution Started
+[INFO ] 2023-09-21 18:00:38.586 [main] Log - Open the Browser
+[INFO ] 2023-09-21 18:00:40.811 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-21 18:00:40.825 [main] Log - ChromeDriver: chrome on mac (365053f23fc81a8cf74492f11306019c)
+[INFO ] 2023-09-21 18:00:40.850 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 18:00:40.916 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 18:00:40.916 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 18:00:41.330 [main] Log - Browser window maximised
+[INFO ] 2023-09-21 18:00:41.330 [main] Log - Navigation to URL
+[INFO ] 2023-09-21 18:00:45.349 [main] Log - Navigated to URL
+[INFO ] 2023-09-21 18:00:45.354 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-21 18:00:45.354 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-09-21 18:00:45.358 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-21 18:00:45.380 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-21 18:00:45.382 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 18:00:46.272 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 18:00:46.272 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 18:00:50.413 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-09-21 18:00:51.251 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:01:01.605 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-09-21 18:01:02.073 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:01:02.079 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522cjNqSDRKd1FCV1BoSGsyb08vZXRLNGhOQmlURHpBRitSTmMwM08zV3FBeGNTUzZTclprazhUL3NLbHFMNkcybw%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1695299457921%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522cjNqSDRKd1FCV1BoSGsyb08vZXRLNGhOQmlURHpBRitSTmMwM08zV3FBeGNTUzZTclprazhUL3NLbHFMNkcybw%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1695299457921%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-09-21 18:01:04.080 [main] Log - Enter email address.
+[INFO ] 2023-09-21 18:01:04.239 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:01:04.685 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:01:04.942 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:01:04.943 [main] Log - Enter password.
+[INFO ] 2023-09-21 18:01:05.434 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:01:08.840 [main] Log - Element clicked
+[INFO ] 2023-09-21 18:01:08.841 [main] Log - click on login button.
+[INFO ] 2023-09-21 18:01:47.309 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-09-21 18:01:47.505 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:01:47.512 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYq839VzMDAwMDAwMDAwMDAwMDAwAAAA9KMRodIBDH4i6SfZaLBruBTaMo28fZ8dF4KYx_curMMtl0rjmb6o3dC6_zlQUxw9cxk6B_CVNuZdvUd9KjTT3-KmPeKF2D1azMv1SiNkIm7yB7akL4nCWF9J8rsBA40MAZ6e7_sdT4LYutOTsOVL0DSn7t0G0aDDo2ruKUjWEXTFFnkIS-wju-w_VQXKZxj6Y9OHPwm5kCkJL-nO6DyX6phePEc_rvu5T2NSukJTtsiQhBVfxzB9pUMCEmhDjxkPEoqV2HcxZpSGmUW5yPAjpTelwH2BQJjkUdj5NLQPSrdhm0vblePQw5J8o5ElmNclRS3oYqdMwpwV44cwSHrqzYFfhKSXfBot8bD0IZfpYB6KmVfy6cqs-Muo7EfOsZcAJ536Qik4drCr3x6mjffgwQ546kW4kmYRpbWrd19JEw4sFZOvAenzuLDx2xTIgl6yXeo_QKZteXivYKciuAioICHd60Yd4TrXTqCOq035XyF1bSufmKSLeW6Cb9lSNaYXbaVS6H9B9OIP-dhFWouhLJpmbw-AY35J-EjDFmXqdliH9Yg3wrXEQZQwmEmpD12lFojyvf5N0xbMKBAdv-S_O-iqMU1Wabf_Cbim1gjU3YuF1JeW4r8nZxlZtqoyqv6lv4J934Ft-najuCuTPEcP6yO8J2XGTAuc7N0T4Jv3NMsCdI1GVXpJdgJrhMa3lLERo9fPP9C2Mp_lmBx8SYd01OgCJGLIwWiNWWjShrHFOp9-woBeloAbsRaF9WGa9vZmftoC4aTH0pQem8NrpX19GTm3LE7SGsCQkvqAlMvXaeVMgsH4nJsPQe2Aw3EDqy_9ckzDijokx9ULrmrf2Su9HxYO6jRX4ELukcTm-IC2QRPPWJool9wVtMtONbZr445xhV4B9JAK_mJMuDbasU9MzJs%253D%26display%3Dpopup&display=popup&sdtd=1
+[INFO ] 2023-09-21 18:01:52.517 [main] Log - Enter email address.
+[INFO ] 2023-09-21 18:01:52.655 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:01:52.858 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:01:52.944 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:01:52.944 [main] Log - Enter password.
+[INFO ] 2023-09-21 18:01:53.169 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:02:00.571 [main] Log - Element clicked
+[INFO ] 2023-09-21 18:02:00.571 [main] Log - click on login button.
+[INFO ] 2023-09-21 18:02:21.849 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 18:02:22.333 [main] Log - Execution Finished
+[INFO ] 2023-09-21 18:02:22.575 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-21 18:02:22.578 [main] Log - Execution Started
+[INFO ] 2023-09-21 18:02:22.579 [main] Log - Suite FinishedSuite
+[INFO ] 2023-09-21 18:07:29.654 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 18:07:29.702 [main] Log - Execution Started
+[INFO ] 2023-09-21 18:07:29.721 [main] Log - Open the Browser
+[INFO ] 2023-09-21 18:07:31.936 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-21 18:07:31.938 [main] Log - ChromeDriver: chrome on mac (7a14da97b58da0d58a485d9931e5f900)
+[INFO ] 2023-09-21 18:07:31.982 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 18:07:32.033 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 18:07:32.033 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 18:07:32.464 [main] Log - Browser window maximised
+[INFO ] 2023-09-21 18:07:32.464 [main] Log - Navigation to URL
+[INFO ] 2023-09-21 18:07:40.065 [main] Log - Navigated to URL
+[INFO ] 2023-09-21 18:07:40.069 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-21 18:07:40.069 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-09-21 18:07:40.073 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-21 18:07:40.088 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-21 18:07:40.090 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 18:07:40.913 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 18:07:40.913 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 18:07:45.049 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-09-21 18:07:45.827 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:07:57.535 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-09-21 18:07:58.017 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:07:58.025 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522OHlEUVJmbG1LUEtpaTJETlRDTVY2dlRCYURiV0RBdzZEWjRBVFAzY29HYUgreGhyL0syNXpmbnU3aWNIcnpyeQ%2522%252C%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1695299873412%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522OHlEUVJmbG1LUEtpaTJETlRDTVY2dlRCYURiV0RBdzZEWjRBVFAzY29HYUgreGhyL0syNXpmbnU3aWNIcnpyeQ%2522%252C%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1695299873412%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-09-21 18:08:00.026 [main] Log - Enter email address.
+[INFO ] 2023-09-21 18:08:00.222 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:08:00.699 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:08:01.010 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:08:01.011 [main] Log - Enter password.
+[INFO ] 2023-09-21 18:08:01.472 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:08:05.320 [main] Log - Element clicked
+[INFO ] 2023-09-21 18:08:05.321 [main] Log - click on login button.
+[INFO ] 2023-09-21 18:10:48.610 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 18:10:48.678 [main] Log - Execution Started
+[INFO ] 2023-09-21 18:10:48.706 [main] Log - Open the Browser
+[INFO ] 2023-09-21 18:10:51.123 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-21 18:10:51.125 [main] Log - ChromeDriver: chrome on mac (1d913c571472cdd5ce21b00d099de20a)
+[INFO ] 2023-09-21 18:10:51.174 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 18:10:51.217 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 18:10:51.217 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 18:10:51.647 [main] Log - Browser window maximised
+[INFO ] 2023-09-21 18:10:51.648 [main] Log - Navigation to URL
+[INFO ] 2023-09-21 18:10:56.509 [main] Log - Navigated to URL
+[INFO ] 2023-09-21 18:10:56.512 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-21 18:10:56.512 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-09-21 18:10:56.518 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-21 18:10:56.528 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-21 18:10:56.529 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 18:10:57.380 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 18:10:57.380 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 18:11:01.522 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-09-21 18:11:02.340 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:11:12.725 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-09-21 18:11:13.191 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:11:13.211 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522R3dDMzNtRDRLS1owQ1E3RTcvdDBUM2xIQUVwOGhzNEdWSEkyaGZ2NHh3Qlo1RUczTkRpL2lsYnc3aFpRY1g2eg%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1695300068983%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522state%2522%253A%2522R3dDMzNtRDRLS1owQ1E3RTcvdDBUM2xIQUVwOGhzNEdWSEkyaGZ2NHh3Qlo1RUczTkRpL2lsYnc3aFpRY1g2eg%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522currentSubStage%2522%253A0%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522creationTime%2522%253A1695300068983%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-09-21 18:11:15.217 [main] Log - Enter email address.
+[INFO ] 2023-09-21 18:11:15.383 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:11:15.862 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:11:16.122 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:11:16.122 [main] Log - Enter password.
+[INFO ] 2023-09-21 18:11:16.587 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:11:20.921 [main] Log - Element clicked
+[INFO ] 2023-09-21 18:11:20.921 [main] Log - click on login button.
+[INFO ] 2023-09-21 18:12:04.280 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-09-21 18:12:04.473 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:12:04.479 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYq86UKZMDAwMDAwMDAwMDAwMDAwAAAA9EZyf2DNwozUEgcQD6q5Vi5J_kz2ugukC_gz4_aWWxHpaP4qDh3L_PB3aaPoxLfDjCYy6I0ZHmDWR130sKIUT6Pt2MTpKNW605DS8_HTJtKKhUsfKQWYFr59yG6CRvAfELY0KEOindCO1iEfuhK2gW_UkYM_o4HYBPYuXbMeJLV97NwGy4EDlIsnVlWx0kJBAn0BlAIKG0EEl03g5uvEZnm_VJgUjKcTSs07qZDobfvyxxxwsuCQLvL3YU5i8-UEXp7R7Xi7U69E40qPr7Agi9wSDWVwJUikyvZGRUJ4dEmiWK1l45zTx0-37vaHcnfz1h9Yj3vgqYmQ07TIsjfMHc3cQLzZyOpQ3qzWeANL4VwxL71cnpLlZctJF4RrZVKrviay9EMiNEBieqfMvxRDo9S2cUro60ftu1ot_B8wy6T5Npw0s6-XdZoP_eSunWj4-Xe90gf8ZdCkRFcqZy-Krxxt3aLOkfAwXeaRI2W4Ou9rPaAReUCdUOVM9B1L4jDx3sm7_t6uKjhDnhoVZRfnBO6FxGUlou5VSMJvtkkbx2uMAaxaCxOmWel9v4jm1o5eM6jaeeDsZVlL4HPf--nx1qJR74XTfG3KjeD9HiZ8JZ2XSbiaYvEjQw7cLZqnMTHWkm4uGeE7-zD-hPdAxhLKJDNdHJtZYDOlzP75eFjxXllEuClOCVB_OSPYRL6HzBOVcHBT8m1N0MovzqnH7xoHHUN4-703fn8g0aPTmwBOXRXcHVgwvNKrRA3uXRa4IkNFGsleaqsWviBGuACT0AIpwssPsmQHZv7jrWu3ovlMi7R-JjHfTGzHrsXJDzXyHebcam7wM14HTDwjLb7DbN2hiaW2KMjVrfzMpkaD8EzrZlhvqGnX5TdQPxAL5eqP3RMkPzErP12a627g28B__EMCiCY%253D%26display%3Dpopup&display=popup&sdtd=1
+[INFO ] 2023-09-21 18:12:09.479 [main] Log - Enter email address.
+[INFO ] 2023-09-21 18:12:09.642 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:12:09.847 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:12:09.940 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 18:12:09.940 [main] Log - Enter password.
+[INFO ] 2023-09-21 18:12:10.167 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 18:12:20.351 [main] Log - Element clicked
+[INFO ] 2023-09-21 18:12:20.351 [main] Log - click on login button.
+[INFO ] 2023-09-21 18:12:46.668 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 18:12:47.186 [main] Log - Execution Finished
+[INFO ] 2023-09-21 18:12:50.855 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-21 18:12:50.858 [main] Log - Execution Started
+[INFO ] 2023-09-21 18:12:50.859 [main] Log - Suite FinishedSuite
+[INFO ] 2023-09-21 22:08:03.559 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 22:08:03.607 [main] Log - Execution Started
+[INFO ] 2023-09-21 22:08:03.627 [main] Log - Open the Browser
+[INFO ] 2023-09-21 22:08:06.352 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-09-21 22:08:06.367 [main] Log - ChromeDriver: chrome on mac (80d785fe0319f165eb6c3c3f6960004a)
+[INFO ] 2023-09-21 22:08:06.391 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-09-21 22:08:06.422 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 22:08:06.422 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 22:08:06.846 [main] Log - Browser window maximised
+[INFO ] 2023-09-21 22:08:06.846 [main] Log - Navigation to URL
+[INFO ] 2023-09-21 22:08:12.057 [main] Log - Navigated to URL
+[INFO ] 2023-09-21 22:08:12.063 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-09-21 22:08:12.064 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-09-21 22:08:12.069 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-09-21 22:08:12.089 [main] Log - All Browser cookies deleted
+[INFO ] 2023-09-21 22:08:12.092 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.navigateToUrl
+[INFO ] 2023-09-21 22:08:12.995 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 22:08:12.995 [main] Log - This message is from my own project
+[INFO ] 2023-09-21 22:08:17.127 [main] Log - Click on Linkdin Log in option.
+[INFO ] 2023-09-21 22:08:17.930 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 22:08:31.226 [main] Log - Navigated to https://www.linkedin.com/
+[INFO ] 2023-09-21 22:08:31.668 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 22:08:31.674 [main] Log - current url fetched https://www.linkedin.com/uas/login?session_redirect=%2Foauth%2Fv2%2Flogin-success%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522dGpPTWhQemtNczFRL2hvWS9LMnY3T0JsQTBqRjUwU2pXb3pYdm9OMjhyQkJYbTRMRmp2d3pLMHI0R3puTEZrWg%2522%252C%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1695314307841%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D&fromSignIn=1&trk=oauth&cancel_redirect=%2Foauth%2Fv2%2Flogin-cancel%3Fapp_id%3D209385490%26auth_type%3DAC%26flow%3D%257B%2522state%2522%253A%2522dGpPTWhQemtNczFRL2hvWS9LMnY3T0JsQTBqRjUwU2pXb3pYdm9OMjhyQkJYbTRMRmp2d3pLMHI0R3puTEZrWg%2522%252C%2522scope%2522%253A%2522r_liteprofile%2Br_emailaddress%2522%252C%2522appId%2522%253A209385490%252C%2522authorizationType%2522%253A%2522OAUTH2_AUTHORIZATION_CODE%2522%252C%2522authFlowName%2522%253A%2522generic-permission-list%2522%252C%2522currentSubStage%2522%253A0%252C%2522creationTime%2522%253A1695314307841%252C%2522currentStage%2522%253A%2522LOGIN_SUCCESS%2522%252C%2522redirectUri%2522%253A%2522https%253A%252F%252Ftbid-stage.digital.salesforce.com%252Foauth2%252Fv1%252Fauthorize%252Fcallback%2522%257D
+[INFO ] 2023-09-21 22:08:33.679 [main] Log - Enter email address.
+[INFO ] 2023-09-21 22:08:33.865 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 22:08:34.315 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 22:08:34.560 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 22:08:34.560 [main] Log - Enter password.
+[INFO ] 2023-09-21 22:08:34.993 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 22:08:38.872 [main] Log - Element clicked
+[INFO ] 2023-09-21 22:08:38.872 [main] Log - click on login button.
+[INFO ] 2023-09-21 22:09:19.012 [main] Log - Navigated to login.salesforce.com
+[INFO ] 2023-09-21 22:09:19.229 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 22:09:19.235 [main] Log - current url fetched https://login.salesforce.com/?startURL=%2Fsetup%2Fsecur%2FRemoteAccessAuthorizationPage.apexp%3Fsource%3DCAAAAYq9wnV7MDAwMDAwMDAwMDAwMDAwAAAA9JV3q46_HM6paWl1HVo71VMF-GA9QnchAXDtggg6uh2Ihv0LYbHDqWXBVDIWQPf6Epfwae-tw3HpbOFZkVN1VEdlt5DpbphU2XqUt4jFkAKzgBwDOxHlEL4Q8vq08p8CfVZDAeGTeu5j5ifa7qqwbm5ckEXJwQ-oHHvat2bnCvpk4IC0oemDiVO9w6KZHs4jVutBR7omq9wiC_saLVJ4L2W7Crh08vsLfZHee_GWtCATQYSaWL7k_nRKZ7vQGCbolFju1KQ6PRZucY3lIKg4Z5KNyBXsUElDU2GWypXZlT7bglPzL4IGoR9Wsa9T6eL12E5pJ3ezfd3MisJArnQPdmnpuJSj_IIJ4iqcY2zo9zY8arv2zsZKzRd3VQkVchluH1171uBcG4YuKYrup_MoybEOpLCx4BfRXzQ6rCetuXCaXuVIRcFA14iuao5A9VlyvGdpxj0BhYenxB-KKP1XgN5VmYmVeI31_gYr8laSWKquCSujweCc2m6YtDjXqKf_LorZtTZ0LrNdU3L78yHSIGFJCiGl8rJWgt6OULQ4-R3biuorzgD38vPwNcVvHLYf0AuRWh9s-UzvgUCjzKJUj9RXn-bqaVPU1tNTBTgVT5F1ffBg1I-bvHtPjxMCRQWaWDYe131LKMJ6nUqAzsgaLtUwde17DhSgXiin_c_BdNPwAiVjMDKAyiLQJwpjHFuRnJn5JoGZMTU37GmkxOu2_jCHuertulL1IhaLMOzfSZaO0Gvuu6MtLnrEYVazDe2pzgZOj_muZd3gvi1Z-wuKsDmOz8cQYXTRQjhIQuwadljSoLSMNarw73VdUEYcp9f_xIU_0ebAPmi9mFzsLsyjpp4ijKNZ8k8IaofCqY4l8Xw7feIZk6c8EDa3IU5So7VslXcqfBmeu4lf8bNa1OdZWM8%253D%26display%3Dpopup&display=popup&sdtd=1
+[INFO ] 2023-09-21 22:09:24.238 [main] Log - Enter email address.
+[INFO ] 2023-09-21 22:09:24.372 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 22:09:24.588 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 22:09:24.674 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-09-21 22:09:24.675 [main] Log - Enter password.
+[INFO ] 2023-09-21 22:09:24.933 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-09-21 22:09:35.935 [main] Log - Element clicked
+[INFO ] 2023-09-21 22:09:35.936 [main] Log - click on login button.
+[INFO ] 2023-09-21 22:10:02.202 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.Connect_disconnect_An_Account.login_via_linkdin
+[INFO ] 2023-09-21 22:10:02.746 [main] Log - Execution Finished
+[INFO ] 2023-09-21 22:10:02.967 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-09-21 22:10:02.969 [main] Log - Execution Started
+[INFO ] 2023-09-21 22:10:02.971 [main] Log - Suite FinishedSuite

@@ -1,0 +1,45 @@
+[INFO ] 2023-10-30 12:32:34.608 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-30 12:32:34.679 [main] Log - Execution Started
+[INFO ] 2023-10-30 12:32:34.707 [main] Log - Open the Browser
+[INFO ] 2023-10-30 12:32:37.994 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-30 12:32:38.005 [main] Log - ChromeDriver: chrome on mac (12e8987fb74ddc2d87c982598ecd3334)
+[INFO ] 2023-10-30 12:32:38.198 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-30 12:32:38.211 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-30 12:32:38.211 [main] Log - This message is from my own project
+[INFO ] 2023-10-30 12:32:38.632 [main] Log - Browser window maximised
+[INFO ] 2023-10-30 12:32:38.632 [main] Log - Navigation to URL
+[INFO ] 2023-10-30 12:32:44.179 [main] Log - Navigated to URL
+[INFO ] 2023-10-30 12:32:44.187 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-30 12:32:44.187 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-30 12:32:44.191 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-30 12:32:44.205 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-30 12:32:44.206 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality.navigateToUrl
+[INFO ] 2023-10-30 12:32:44.960 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-30 12:32:44.960 [main] Log - This message is from my own project
+[INFO ] 2023-10-30 12:32:44.960 [main] Log - This Method is to Login on Help Portal and Redirection to Category Page
+[INFO ] 2023-10-30 12:32:57.876 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:33:05.198 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:33:09.539 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:33:18.777 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:33:23.295 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:33:27.297 [main] Log - Test Passed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._1_LogIn_HelpPortal
+[INFO ] 2023-10-30 12:33:32.744 [main] Log - Test Started : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-30 12:33:32.745 [main] Log - This message is from my own project
+[INFO ] 2023-10-30 12:33:38.911 [main] Log - Browser refreshed
+[INFO ] 2023-10-30 12:34:26.103 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-30 12:34:26.103 [main] Log - Verified  Add Hire Me Button
+[INFO ] 2023-10-30 12:34:26.112 [main] Log - Method Passed : verifyBooleanCondition
+[INFO ] 2023-10-30 12:34:26.749 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:34:26.821 [main] Log - click on the Add Hire Me Button
+[INFO ] 2023-10-30 12:34:59.873 [main] Log - current url fetched https://www-uat1.salesforce.com/trailblazer/settings#availableForHire
+[INFO ] 2023-10-30 12:34:59.874 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-30 12:35:00.393 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:35:00.933 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:35:00.947 [main] Log - Method Passed : verifyText
+[INFO ] 2023-10-30 12:35:01.446 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-30 12:35:02.539 [main] Log - Test Failed : com.thtechops.qa.AddTohireme.testcases.T1_Add_to_Hire_Me_functionality._2_add_hire_me_functionality
+[INFO ] 2023-10-30 12:35:03.067 [main] Log - Driver Closed
+[INFO ] 2023-10-30 12:35:03.069 [main] Log - Execution Finished
+[INFO ] 2023-10-30 12:35:03.367 [main] Log - Suite FinishedHire Me Test Suite
+[INFO ] 2023-10-30 12:35:03.369 [main] Log - Execution Started
+[INFO ] 2023-10-30 12:35:03.371 [main] Log - Suite FinishedSuite

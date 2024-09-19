@@ -1,0 +1,46 @@
+[INFO ] 2024-03-13 12:36:08.999 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-13 12:36:09.064 [main] Log - Execution Started
+[INFO ] 2024-03-13 12:36:09.114 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2024-03-13 12:36:09.153 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2024-03-13 12:36:09.153 [main] Log - This message is from my own project
+[INFO ] 2024-03-13 12:36:09.154 [main] Log - Open the Browser
+[INFO ] 2024-03-13 12:36:16.298 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-13 12:36:16.314 [main] Log - ChromeDriver: chrome on mac (d876e41b0a53d4b853772b8df70f6e2d)
+[INFO ] 2024-03-13 12:36:16.738 [main] Log - Browser window maximised
+[INFO ] 2024-03-13 12:36:16.739 [main] Log - Navigation to URL
+[INFO ] 2024-03-13 12:36:21.700 [main] Log - Navigated to URL
+[INFO ] 2024-03-13 12:36:21.706 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-03-13 12:36:21.706 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-03-13 12:36:21.710 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-03-13 12:36:22.452 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:36:30.194 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:36:34.311 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:36:35.984 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:36:40.099 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:36:44.215 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:36:48.359 [main] Log - All Browser cookies deleted
+[INFO ] 2024-03-13 12:36:48.570 [main] Log - Open the Browser
+[INFO ] 2024-03-13 12:36:50.017 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-13 12:36:50.028 [main] Log - ChromeDriver: chrome on mac (cbe038c8345fa1747d080c584da71c5d)
+[INFO ] 2024-03-13 12:36:50.471 [main] Log - Browser window maximised
+[INFO ] 2024-03-13 12:36:50.482 [main] Log - Navigation to URL
+[INFO ] 2024-03-13 12:36:55.912 [main] Log - Navigated to URL
+[INFO ] 2024-03-13 12:36:55.915 [main] Log - Page Load completed for : 1000
+[INFO ] 2024-03-13 12:36:55.915 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2024-03-13 12:36:55.920 [main] Log - Implicit wait completed for : 20
+[INFO ] 2024-03-13 12:36:56.623 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:37:04.382 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:37:08.434 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:37:10.001 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:37:14.116 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:37:18.268 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2024-03-13 12:37:22.422 [main] Log - All Browser cookies deleted
+[INFO ] 2024-03-13 12:37:22.589 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2024-03-13 12:37:22.642 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp
+[INFO ] 2024-03-13 12:37:22.643 [main] Log - This message is from my own project
+[INFO ] 2024-03-13 12:37:22.643 [main] Log - Open the Browser
+[INFO ] 2024-03-13 12:37:24.028 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2024-03-13 12:37:24.043 [main] Log - ChromeDriver: chrome on mac (e780ac64b71f837843e4b2122f37be4d)
+[INFO ] 2024-03-13 12:37:24.472 [main] Log - Browser window maximised
+[INFO ] 2024-03-13 12:37:24.472 [main] Log - Navigation to URL
+[INFO ] 2024-03-13 12:37:25.568 [main] Log - Test Failed : com.thtechops.qa.automation.testClasses.SignUp_Test.login_using_otp

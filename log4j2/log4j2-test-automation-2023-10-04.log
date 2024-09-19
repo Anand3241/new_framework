@@ -1,0 +1,199 @@
+[INFO ] 2023-10-04 11:08:12.980 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 11:08:13.047 [main] Log - Execution Started
+[INFO ] 2023-10-04 11:08:13.070 [main] Log - Open the Browser
+[INFO ] 2023-10-04 11:08:15.781 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 11:08:15.798 [main] Log - ChromeDriver: chrome on mac (fff9b71a74b7e72315e848e1ae9a11cb)
+[INFO ] 2023-10-04 11:08:15.831 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 11:08:15.865 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 11:08:15.865 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 11:08:16.286 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 11:08:16.286 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 11:08:21.346 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 11:08:21.355 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 11:08:21.355 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 11:08:21.359 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 11:08:21.373 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 11:08:21.375 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 11:08:22.265 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 11:08:22.265 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 11:08:30.025 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 11:08:31.538 [main] Log - Execution Finished
+[INFO ] 2023-10-04 11:08:31.884 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 11:08:31.892 [main] Log - Execution Started
+[INFO ] 2023-10-04 11:08:31.893 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-04 12:45:09.699 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 12:45:09.757 [main] Log - Execution Started
+[INFO ] 2023-10-04 12:45:09.778 [main] Log - Open the Browser
+[INFO ] 2023-10-04 12:45:12.230 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 12:45:12.245 [main] Log - ChromeDriver: chrome on mac (b57da289efbcb4126a6ad88a19f00bf6)
+[INFO ] 2023-10-04 12:45:12.292 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 12:45:12.340 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 12:45:12.341 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 12:45:12.765 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 12:45:12.765 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 12:45:16.584 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 12:45:16.589 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 12:45:16.589 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 12:45:16.592 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 12:45:16.599 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 12:45:16.601 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 12:45:17.472 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 12:45:17.472 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 12:45:25.255 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 12:45:26.815 [main] Log - Execution Finished
+[INFO ] 2023-10-04 12:45:27.065 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 12:45:27.068 [main] Log - Execution Started
+[INFO ] 2023-10-04 12:45:27.069 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-04 12:54:45.074 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 12:54:45.129 [main] Log - Execution Started
+[INFO ] 2023-10-04 12:54:45.150 [main] Log - Open the Browser
+[INFO ] 2023-10-04 12:54:47.484 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 12:54:47.495 [main] Log - ChromeDriver: chrome on mac (ddd063ff1e1f6bdf49540416700255fc)
+[INFO ] 2023-10-04 12:54:47.530 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 12:54:47.585 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 12:54:47.590 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 12:54:48.015 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 12:54:48.015 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 12:54:51.382 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 12:54:51.385 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 12:54:51.385 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 12:54:51.390 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 12:54:51.400 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 12:54:51.401 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 12:54:52.261 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 12:54:52.261 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 12:55:03.429 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 12:55:04.937 [main] Log - Execution Finished
+[INFO ] 2023-10-04 12:55:05.304 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 12:55:05.307 [main] Log - Execution Started
+[INFO ] 2023-10-04 12:55:05.308 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-04 13:15:38.673 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 13:15:38.734 [main] Log - Execution Started
+[INFO ] 2023-10-04 13:15:38.759 [main] Log - Open the Browser
+[INFO ] 2023-10-04 13:15:41.284 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 13:15:41.295 [main] Log - ChromeDriver: chrome on mac (3a81f779674d3c62359dc86dfe6b6f7e)
+[INFO ] 2023-10-04 13:15:41.336 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 13:15:41.373 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 13:15:41.374 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 13:15:41.804 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 13:15:41.805 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 13:15:46.470 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 13:15:46.475 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 13:15:46.475 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 13:15:46.480 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 13:15:46.497 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 13:15:46.499 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 13:15:47.390 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 13:15:47.391 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 13:16:07.870 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 13:16:09.427 [main] Log - Execution Finished
+[INFO ] 2023-10-04 13:16:09.679 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 13:16:09.682 [main] Log - Execution Started
+[INFO ] 2023-10-04 13:16:09.683 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-04 15:11:36.479 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 15:11:36.532 [main] Log - Execution Started
+[INFO ] 2023-10-04 15:11:36.553 [main] Log - Open the Browser
+[INFO ] 2023-10-04 15:11:39.278 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 15:11:39.304 [main] Log - ChromeDriver: chrome on mac (a5cd205f2b3800319a059e4a6e917c7e)
+[INFO ] 2023-10-04 15:11:39.337 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 15:11:39.392 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 15:11:39.392 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 15:11:39.811 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 15:11:39.811 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 15:11:46.838 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 15:11:46.857 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 15:11:46.857 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 15:11:46.867 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 15:11:46.901 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 15:11:46.903 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 15:11:47.864 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 15:11:47.865 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 15:12:09.868 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 15:12:11.414 [main] Log - Execution Finished
+[INFO ] 2023-10-04 15:12:11.691 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 15:12:11.693 [main] Log - Execution Started
+[INFO ] 2023-10-04 15:12:11.695 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-04 15:29:32.607 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 15:29:32.661 [main] Log - Execution Started
+[INFO ] 2023-10-04 15:29:32.681 [main] Log - Open the Browser
+[INFO ] 2023-10-04 15:29:35.032 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 15:29:35.041 [main] Log - ChromeDriver: chrome on mac (31d9ea144456aa3c98da243699e9c62e)
+[INFO ] 2023-10-04 15:29:35.089 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 15:29:35.121 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 15:29:35.122 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 15:29:35.543 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 15:29:35.543 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 15:29:40.835 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 15:29:40.841 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 15:29:40.841 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 15:29:40.846 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 15:29:40.859 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 15:29:40.861 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 15:29:41.753 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 15:29:41.753 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 15:30:37.002 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 15:30:38.296 [main] Log - Execution Finished
+[INFO ] 2023-10-04 15:30:38.558 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 15:30:38.561 [main] Log - Execution Started
+[INFO ] 2023-10-04 15:30:38.563 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-04 15:44:44.652 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 15:44:44.705 [main] Log - Execution Started
+[INFO ] 2023-10-04 15:44:44.725 [main] Log - Open the Browser
+[INFO ] 2023-10-04 15:44:47.200 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 15:44:47.201 [main] Log - ChromeDriver: chrome on mac (19792118b8640411d7271463a2121186)
+[INFO ] 2023-10-04 15:44:47.243 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 15:44:47.300 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 15:44:47.300 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 15:44:47.723 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 15:44:47.723 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 15:44:51.241 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 15:44:51.250 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 15:44:51.250 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 15:44:51.255 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 15:44:51.269 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 15:44:51.271 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 15:44:52.323 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 15:44:52.323 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 15:45:48.813 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 15:45:50.184 [main] Log - Execution Finished
+[INFO ] 2023-10-04 15:45:50.480 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 15:45:50.482 [main] Log - Execution Started
+[INFO ] 2023-10-04 15:45:50.484 [main] Log - Suite FinishedSuite
+[INFO ] 2023-10-04 17:01:29.182 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 17:01:29.237 [main] Log - Execution Started
+[INFO ] 2023-10-04 17:01:29.262 [main] Log - Open the Browser
+[INFO ] 2023-10-04 17:01:33.202 [main] Log - Browser Opened : chrome with headless mode : false
+[INFO ] 2023-10-04 17:01:33.203 [main] Log - ChromeDriver: chrome on mac (41c354b1093ccc77961c7e2a6db321c7)
+[INFO ] 2023-10-04 17:01:33.237 [main] Log - Configuration file found at : ./src/main/resources/config.properties
+[INFO ] 2023-10-04 17:01:33.269 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 17:01:33.269 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 17:01:33.696 [main] Log - Browser window maximised
+[INFO ] 2023-10-04 17:01:33.697 [main] Log - Navigation to URL
+[INFO ] 2023-10-04 17:01:39.808 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 17:01:39.813 [main] Log - Page Load completed for : 1000
+[INFO ] 2023-10-04 17:01:39.813 [main] Log - Navigated to Url : https://stg.trailhead.sfdc.sh/
+[INFO ] 2023-10-04 17:01:39.817 [main] Log - Implicit wait completed for : 20
+[INFO ] 2023-10-04 17:01:39.833 [main] Log - All Browser cookies deleted
+[INFO ] 2023-10-04 17:01:39.835 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.navigateToUrl
+[INFO ] 2023-10-04 17:01:40.869 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 17:01:40.870 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 17:03:01.531 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.sign_up_otp
+[INFO ] 2023-10-04 17:03:02.266 [main] Log - Test Started : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-04 17:03:02.266 [main] Log - This message is from my own project
+[INFO ] 2023-10-04 17:03:06.072 [main] Log - Navigated to URL
+[INFO ] 2023-10-04 17:03:06.072 [main] Log - Go to Sandbox Login URL
+[INFO ] 2023-10-04 17:03:06.237 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-04 17:03:06.238 [main] Log - Enter Sandbox Username
+[INFO ] 2023-10-04 17:03:07.226 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-04 17:03:07.359 [main] Log - Webelement clicked, cleared and text entered
+[INFO ] 2023-10-04 17:03:07.359 [main] Log - Enter Sandbox Password
+[INFO ] 2023-10-04 17:03:08.026 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-04 17:03:24.337 [main] Log - Element clicked
+[INFO ] 2023-10-04 17:03:24.338 [main] Log - Click on Login
+[INFO ] 2023-10-04 17:03:24.991 [main] Log - Screenshot Taken and attached to report
+[INFO ] 2023-10-04 17:03:30.252 [main] Log - Element clicked
+[INFO ] 2023-10-04 17:03:36.338 [main] Log - Test Passed : com.thtechops.qa.automation.testClasses.SignUp_Test.drm_verification
+[INFO ] 2023-10-04 17:03:36.954 [main] Log - Execution Finished
+[INFO ] 2023-10-04 17:03:37.275 [main] Log - Suite FinishedUnit Test Suite
+[INFO ] 2023-10-04 17:03:37.279 [main] Log - Execution Started
+[INFO ] 2023-10-04 17:03:37.282 [main] Log - Suite FinishedSuite
